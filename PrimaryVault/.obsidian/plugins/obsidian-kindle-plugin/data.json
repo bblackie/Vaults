@@ -1,0 +1,9 @@
+{
+  "amazonRegion": "global",
+  "highlightsFolder": "Kindle",
+  "lastSyncMode": "amazon",
+  "isLoggedIn": true,
+  "syncOnBoot": true,
+  "downloadBookMetadata": true,
+  "lastSyncDate": "2023-01-23T21:06:12.380Z"
+}

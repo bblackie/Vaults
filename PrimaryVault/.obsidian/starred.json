@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Everything Kanban",
+      "path": "Kanban/Everything Kanban.md"
+    },
+    {
+      "type": "file",
+      "title": "1day",
+      "path": "1day.md"
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "b4732a59173bf8a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "9486972a6ce4b9a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8209c95b307ea199",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2023-01-15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "020a70050a1658dd",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban/Learn 2 Teach Kanban.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b39761a8d86a5f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "97dfa021e46c035e",
+        "type": "tabs",
+        "dimension": 72.54697286012527,
+        "children": [
+          {
+            "id": "922af9586ca338fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a7cfa3b55b0e065c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "kanban",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bd007ef160bf1ece",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "283e6ee63501511d",
+        "type": "tabs",
+        "dimension": 27.453027139874745,
+        "children": [
+          {
+            "id": "32a5062454f56bce",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "7bc02dad75713ded",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b4d910a58674271",
+        "type": "tabs",
+        "dimension": 61.27348643006263,
+        "children": [
+          {
+            "id": "c12ab28c56f484b8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kanban/Learn 2 Teach Kanban.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e5c7d3507315f2c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kanban/Learn 2 Teach Kanban.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7013f58a56f280c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "36f47770f67a7fb8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Kanban/Learn 2 Teach Kanban.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "2db82bb619a2bc81",
+        "type": "tabs",
+        "dimension": 38.72651356993737,
+        "children": [
+          {
+            "id": "746808d60e1f4bb1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "020a70050a1658dd",
+  "lastOpenFiles": [
+    "Journal/2023-01-15.md",
+    "Communication/Words.md",
+    "Communication/Language.md",
+    "People/Hustlers.md",
+    "Motivation/Motivational ideas.md",
+    "People/Education.md",
+    "Activities/Programming activites.md",
+    "Activities/Activities.md",
+    "Domain/Technology topics and trends.md",
+    "Pathways/Build ideas.md"
+  ]
+}
