@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apps/GitHub.md",
+                "file": "The Why/Why do it.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apps/GitHub.md",
+                "file": "The Why/Why do it.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apps/GitHub.md",
+                "file": "The Why/Why do it.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apps/GitHub.md"
+                "file": "The Why/Why do it.md"
               }
             }
           }
@@ -194,8 +194,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "020a70050a1658dd",
+  "active": "922af9586ca338fc",
   "lastOpenFiles": [
+    "Apps/GitHub.md",
     "Kanban/Learn 2 Teach Kanban.md",
     "Journal/2023-01-15.md",
     "Communication/Words.md",
@@ -204,7 +205,6 @@
     "Motivation/Motivational ideas.md",
     "People/Education.md",
     "Activities/Programming activites.md",
-    "Activities/Activities.md",
-    "Domain/Technology topics and trends.md"
+    "Activities/Activities.md"
   ]
 }

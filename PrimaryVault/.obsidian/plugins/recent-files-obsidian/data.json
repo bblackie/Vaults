@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Why do it",
+      "path": "The Why/Why do it.md"
+    },
+    {
       "basename": "GitHub",
       "path": "Apps/GitHub.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Digital Future Aotearoa",
       "path": "Lessons/Ideas/Digital Future Aotearoa.md"
-    },
-    {
-      "basename": "Professional Associations",
-      "path": "Community/Professional Associations.md"
     }
   ],
   "omittedPaths": [],
