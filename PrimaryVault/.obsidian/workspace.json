@@ -23,9 +23,11 @@
             "id": "020a70050a1658dd",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban/Learn 2 Teach Kanban.md"
+                "file": "Apps/GitHub.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -77,8 +79,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "283e6ee63501511d",
@@ -97,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7bc02dad75713ded",
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/Learn 2 Teach Kanban.md",
+                "file": "Apps/GitHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban/Learn 2 Teach Kanban.md",
+                "file": "Apps/GitHub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban/Learn 2 Teach Kanban.md"
+                "file": "Apps/GitHub.md"
               }
             }
           }
@@ -196,6 +196,7 @@
   },
   "active": "020a70050a1658dd",
   "lastOpenFiles": [
+    "Kanban/Learn 2 Teach Kanban.md",
     "Journal/2023-01-15.md",
     "Communication/Words.md",
     "Communication/Language.md",
@@ -204,7 +205,6 @@
     "People/Education.md",
     "Activities/Programming activites.md",
     "Activities/Activities.md",
-    "Domain/Technology topics and trends.md",
-    "Pathways/Build ideas.md"
+    "Domain/Technology topics and trends.md"
   ]
 }

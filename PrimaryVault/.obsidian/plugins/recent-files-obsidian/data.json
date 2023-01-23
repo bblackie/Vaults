@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "GitHub",
+      "path": "Apps/GitHub.md"
+    },
+    {
       "basename": "Learn 2 Teach Kanban",
       "path": "Kanban/Learn 2 Teach Kanban.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Professional Associations",
       "path": "Community/Professional Associations.md"
-    },
-    {
-      "basename": "2023-01-17",
-      "path": "Journal/2023-01-17.md"
     }
   ],
   "omittedPaths": [],
