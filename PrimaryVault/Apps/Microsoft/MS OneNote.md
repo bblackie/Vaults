@@ -1,3 +1,13 @@
+
+# Essentials
+
+A OneNote notebook is stored as a folder with a separate data file for each section. A .one file can be a OneNote notebook or a OneNote section. OneNote files have a .one filename extension.[14]
+
+file types:
+- .one - section file
+- ,onepkg - used as an archive for the MS OneNote program
+
+
 # Getting Started
 
 [Educator Centre](https://learn.microsoft.com/en-us/training/educator-center/?source=mec%3Fsource%3Dmec)

@@ -1,6 +1,6 @@
 ---
 date_met: 2022-11-26
-tags: #apps/obsidian #2nd-brain  
+tags: [apps/obsidian, purpose/2nd-brain]
 project: project1
 ---
 ```dataview

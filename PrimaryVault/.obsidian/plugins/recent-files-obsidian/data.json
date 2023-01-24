@@ -1,20 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "Why do it",
-      "path": "The Why/Why do it.md"
+      "basename": "Obsidian",
+      "path": "Apps/Obsidian.md"
     },
     {
-      "basename": "GitHub",
-      "path": "Apps/GitHub.md"
+      "basename": "Greenshot",
+      "path": "Apps/Greenshot.md"
+    },
+    {
+      "basename": "Microsoft Education Stack",
+      "path": "Apps/Microsoft/Microsoft Education Stack.md"
+    },
+    {
+      "basename": "MS OneNote",
+      "path": "Apps/Microsoft/MS OneNote.md"
+    },
+    {
+      "basename": "Essentials",
+      "path": "_quick/Essentials.md"
+    },
+    {
+      "basename": "Process",
+      "path": "Rathkeale/Process.md"
     },
     {
       "basename": "Learn 2 Teach Kanban",
       "path": "Kanban/Learn 2 Teach Kanban.md"
     },
     {
+      "basename": "System specs",
+      "path": "Apps/System specs.md"
+    },
+    {
+      "basename": "Daily priorities",
+      "path": "Planning/Daily priorities.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Activities/Untitled.md"
+    },
+    {
+      "basename": "Pip Template",
+      "path": "Templates/Pip Template.md"
+    },
+    {
+      "basename": "New Article Template",
+      "path": "Templates/New Article Template.md"
+    },
+    {
+      "basename": "Daily Note Template",
+      "path": "Templates/Daily Note Template.md"
+    },
+    {
+      "basename": "2023-01-24",
+      "path": "Journal/2023-01-24.md"
+    },
+    {
       "basename": "2023-01-15",
       "path": "Journal/2023-01-15.md"
+    },
+    {
+      "basename": "Why do it",
+      "path": "The Why/Why do it.md"
+    },
+    {
+      "basename": "GitHub",
+      "path": "Apps/GitHub.md"
     },
     {
       "basename": "Words",
@@ -147,58 +199,6 @@
     {
       "basename": "Hour of code",
       "path": "Lessons/Ideas/Hour of code.md"
-    },
-    {
-      "basename": "Write a paper",
-      "path": "Activities/Write a paper.md"
-    },
-    {
-      "basename": "MIT App Inventor",
-      "path": "Apps/MIT App Inventor.md"
-    },
-    {
-      "basename": "Notion",
-      "path": "Apps/Notion.md"
-    },
-    {
-      "basename": "Students with learning disorders",
-      "path": "Teach/Students with learning disorders.md"
-    },
-    {
-      "basename": "Hosting",
-      "path": "Tools/Hosting.md"
-    },
-    {
-      "basename": "Extra-curricular",
-      "path": "Teach/Extra-curricular.md"
-    },
-    {
-      "basename": "Callenges & Competitions",
-      "path": "Activities/Callenges & Competitions.md"
-    },
-    {
-      "basename": "Clubs",
-      "path": "Activities/Clubs.md"
-    },
-    {
-      "basename": "Games",
-      "path": "Activities/Games.md"
-    },
-    {
-      "basename": "Project Ideas",
-      "path": "Projects/Project Ideas.md"
-    },
-    {
-      "basename": "STEAM kits & tools",
-      "path": "Resources/STEAM kits & tools.md"
-    },
-    {
-      "basename": "Obsidian",
-      "path": "Apps/Obsidian.md"
-    },
-    {
-      "basename": "Digital Future Aotearoa",
-      "path": "Lessons/Ideas/Digital Future Aotearoa.md"
     }
   ],
   "omittedPaths": [],

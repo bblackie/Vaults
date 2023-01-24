@@ -4,7 +4,7 @@ kindle-sync:
   title: Banks
   author: Grantlee Kieza
   asin: B087YNJ6Q4
-  lastAnnotatedDate: '2022-12-21'
+  lastAnnotatedDate: '2023-01-13'
   bookImageUrl: 'https://m.media-amazon.com/images/I/91tz6QXPTSL._SY160.jpg'
   highlightsCount: 3
 ---
@@ -17,6 +17,16 @@ kindle-sync:
 * [Kindle link](kindle://book?action=open&asin=B087YNJ6Q4)
 
 ## Highlights
+Tupaia, a heavily tattooed Polynesian priest with an extraordinary ability to navigate by the stars and to find his way around the languages of the Pacific peoples. — location: [63](kindle://book?action=open&asin=B087YNJ6Q4&location=63) ^ref-5141
+
+---
+He had undergone the painful ordeal of a Polynesian tattoo, — location: [67](kindle://book?action=open&asin=B087YNJ6Q4&location=67) ^ref-22748
+
+---
+literary salons and the 550 coffee houses that had become popular throughout London.10 — location: [125](kindle://book?action=open&asin=B087YNJ6Q4&location=125) ^ref-13926
+
+---
+
 Tupaia, a heavily tattooed Polynesian priest with an extraordinary ability to navigate by the stars and to find his way around the languages of the Pacific peoples. — location: [63](kindle://book?action=open&asin=B087YNJ6Q4&location=63) ^ref-5141
 
 ---

@@ -8,12 +8,60 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8209c95b307ea199",
+            "id": "84c8ab555926bf62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2023-01-15.md",
+                "file": "Journal/2023-01-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9a1bd31d5699872",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Daily Note Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "574aadb25df19006",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Pip Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13e7f6e4ac92be9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Activities/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb14564b0a8f08b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Planning/Daily priorities.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,16 +71,50 @@
             "id": "020a70050a1658dd",
             "type": "leaf",
             "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban/Learn 2 Teach Kanban.md"
+              }
+            }
+          },
+          {
+            "id": "c79be9095027a88d",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "The Why/Why do it.md",
+                "file": "Rathkeale/Process.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c456e8efcc84f78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apps/Microsoft/Microsoft Education Stack.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e326205888c2d349",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apps/Obsidian.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -44,7 +126,7 @@
       {
         "id": "97dfa021e46c035e",
         "type": "tabs",
-        "dimension": 72.54697286012527,
+        "dimension": 72.54697286012525,
         "children": [
           {
             "id": "922af9586ca338fc",
@@ -62,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kanban",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +166,7 @@
       {
         "id": "283e6ee63501511d",
         "type": "tabs",
-        "dimension": 27.453027139874745,
+        "dimension": 27.453027139874738,
         "children": [
           {
             "id": "32a5062454f56bce",
@@ -115,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Why/Why do it.md",
+                "file": "Apps/Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Why/Why do it.md",
+                "file": "Apps/Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Why/Why do it.md"
+                "file": "Apps/Obsidian.md"
               }
             }
           }
@@ -179,8 +261,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,17 +275,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "922af9586ca338fc",
+  "active": "e326205888c2d349",
   "lastOpenFiles": [
-    "Apps/GitHub.md",
+    "Apps/Greenshot.md",
+    "Apps/Microsoft/Microsoft Education Stack.md",
+    "Apps/Microsoft/MS OneNote.md",
+    "_quick/Essentials.md",
+    "Rathkeale/Process.md",
     "Kanban/Learn 2 Teach Kanban.md",
-    "Journal/2023-01-15.md",
-    "Communication/Words.md",
-    "Communication/Language.md",
-    "People/Hustlers.md",
-    "Motivation/Motivational ideas.md",
-    "People/Education.md",
-    "Activities/Programming activites.md",
-    "Activities/Activities.md"
+    "Apps/System specs.md",
+    "Planning/Daily priorities.md",
+    "Activities/Untitled.md",
+    "Templates/Pip Template.md"
   ]
 }

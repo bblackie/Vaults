@@ -1,19 +1,26 @@
 ---
-tags: #microsoft, #ms, #ms-word, #ms-teams, #ms-outlook, #ms-onedrive
+type: braindump
+alias: [MS]
+tags: [microsoft, ms, apps/ms-word, apps/ms-teams, apps/ms-outlook, apps/ms-onedrive]
 ---
+
 
 # Microsoft 365
 
-Subscription: Microsoft 365  Premium
-Premium features:
-- of your subscription
-
+## Subscription
+See OneNote
 
 # Word
 
 
 # Teams
 
+
+# OneNote
+
+## Howto
+
+### Create a OneNote class notebook
 
 
 # Outlook
