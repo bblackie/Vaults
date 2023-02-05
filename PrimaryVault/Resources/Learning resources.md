@@ -16,12 +16,22 @@ First impression: Not specific enough
 
 ## Programming
 
+##### Khan Academy
+#sites/khan-academy
+
+**Class naming**
+
+e.g. Y11_2021
+
+**My classes**
+Y11_2023 - https://www.khanacademy.org/join/P83MGMK2
+
+
+
 ##### CodeHS
 [CodeHS](https://codehs.com/)
 Hook: The Top Coding Education Platform for Schools
-un: brian.blackie@trinityschools.nz
-pw: vanhalen
-
+STATUS: See KB
 
 ## Engineering
 ##### Science Learning Hub
@@ -35,6 +45,7 @@ Activities:
 - Alexa apps (hour of AI) 
 	- NB: For US teachers.. but.. can try
 	- Steps: Sign up with a partner provider
+
 
 
 ## AI

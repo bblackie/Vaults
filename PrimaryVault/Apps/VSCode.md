@@ -3,6 +3,18 @@ tags: [Microsoft]
 ---
 
 
+# Quick keys
+
+## Formatting
+
+### Howto
+
+- Format XML
+	- On Windows Shift + Alt + F
+	- On Mac Shift + Option + F
+	- On Linux Ctrl + Shift + I
+
+
 # Logging
 
 How to log better formatted and more extensive data.

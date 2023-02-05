@@ -8,67 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "84c8ab555926bf62",
+            "id": "cf81b037fe277503",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2023-01-24.md",
+                "file": "Projects/Project Ideas.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b9a1bd31d5699872",
+            "id": "c96222a2f0a692d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily Note Template.md",
+                "file": "Resources/Learning resources.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "574aadb25df19006",
+            "id": "c2c2bce635fd3f13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Pip Template.md",
+                "file": "Resources/Teacher Resources.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "13e7f6e4ac92be9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Activities/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb14564b0a8f08b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Planning/Daily priorities.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "020a70050a1658dd",
+            "id": "ffae3ede12d4f997",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -76,45 +52,9 @@
                 "file": "Kanban/Learn 2 Teach Kanban.md"
               }
             }
-          },
-          {
-            "id": "c79be9095027a88d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rathkeale/Process.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c456e8efcc84f78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apps/Microsoft/Microsoft Education Stack.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e326205888c2d349",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apps/Obsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +66,7 @@
       {
         "id": "97dfa021e46c035e",
         "type": "tabs",
-        "dimension": 72.54697286012525,
+        "dimension": 72.54697286012527,
         "children": [
           {
             "id": "922af9586ca338fc",
@@ -144,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "twinkl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,12 +101,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "283e6ee63501511d",
         "type": "tabs",
-        "dimension": 27.453027139874738,
+        "dimension": 27.45302713987474,
         "children": [
           {
             "id": "32a5062454f56bce",
@@ -197,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apps/Obsidian.md",
+                "file": "Resources/Teacher Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apps/Obsidian.md",
+                "file": "Resources/Teacher Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apps/Obsidian.md"
+                "file": "Resources/Teacher Resources.md"
               }
             }
           }
@@ -275,17 +216,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e326205888c2d349",
+  "active": "c2c2bce635fd3f13",
   "lastOpenFiles": [
-    "Apps/Greenshot.md",
-    "Apps/Microsoft/Microsoft Education Stack.md",
-    "Apps/Microsoft/MS OneNote.md",
-    "_quick/Essentials.md",
-    "Rathkeale/Process.md",
+    "Pathways/Pathways.md",
+    "Resources/Teacher Resources.md",
     "Kanban/Learn 2 Teach Kanban.md",
-    "Apps/System specs.md",
-    "Planning/Daily priorities.md",
-    "Activities/Untitled.md",
-    "Templates/Pip Template.md"
+    "Creative Commons.md",
+    "Pathways/Careers.md",
+    "Lessons/All years/Lesson 2.md",
+    "Lessons/YR11/Lesson plan - 1 - Introductions.md",
+    "Resources/Learning resources.md",
+    "Apps/Codewof.md",
+    "Lessons/Ideas/Web style guide.md"
   ]
 }

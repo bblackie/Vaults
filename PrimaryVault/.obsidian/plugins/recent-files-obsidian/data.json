@@ -1,16 +1,144 @@
 {
   "recentFiles": [
     {
+      "basename": "Teacher Resources",
+      "path": "Resources/Teacher Resources.md"
+    },
+    {
+      "basename": "Pathways",
+      "path": "Pathways/Pathways.md"
+    },
+    {
+      "basename": "Learn 2 Teach Kanban",
+      "path": "Kanban/Learn 2 Teach Kanban.md"
+    },
+    {
+      "basename": "Creative Commons",
+      "path": "Creative Commons.md"
+    },
+    {
+      "basename": "Careers",
+      "path": "Pathways/Careers.md"
+    },
+    {
+      "basename": "Lesson 2",
+      "path": "Lessons/All years/Lesson 2.md"
+    },
+    {
+      "basename": "Lesson plan - 1 - Introductions",
+      "path": "Lessons/YR11/Lesson plan - 1 - Introductions.md"
+    },
+    {
+      "basename": "Learning resources",
+      "path": "Resources/Learning resources.md"
+    },
+    {
+      "basename": "Codewof",
+      "path": "Apps/Codewof.md"
+    },
+    {
+      "basename": "Web style guide",
+      "path": "Lessons/Ideas/Web style guide.md"
+    },
+    {
+      "basename": "VSCode",
+      "path": "Apps/VSCode.md"
+    },
+    {
+      "basename": "System specs",
+      "path": "Apps/System specs.md"
+    },
+    {
+      "basename": "Lesson 1",
+      "path": "Lessons/YR9/Lesson 1.md"
+    },
+    {
+      "basename": "Digital Future Aotearoa",
+      "path": "Lessons/Ideas/Digital Future Aotearoa.md"
+    },
+    {
+      "basename": "Hour of code",
+      "path": "Lessons/Ideas/Hour of code.md"
+    },
+    {
+      "basename": "Lesson ideas",
+      "path": "Lessons/Ideas/Lesson ideas.md"
+    },
+    {
+      "basename": "2023-01-28",
+      "path": "Journal/2023-01-28.md"
+    },
+    {
+      "basename": "Battlers",
+      "path": "People/Battlers.md"
+    },
+    {
+      "basename": "Task listing",
+      "path": "Tasks/Task listing.md"
+    },
+    {
+      "basename": "Project Ideas",
+      "path": "Projects/Project Ideas.md"
+    },
+    {
+      "basename": "Activities",
+      "path": "Activities/Activities.md"
+    },
+    {
+      "basename": "2023-01-25",
+      "path": "Journal/2023-01-25.md"
+    },
+    {
+      "basename": "Apps",
+      "path": "Rathkeale/Apps.md"
+    },
+    {
+      "basename": "Microsoft Education Stack",
+      "path": "Apps/Microsoft/Microsoft Education Stack.md"
+    },
+    {
+      "basename": "TODO - Explore",
+      "path": "Apps/TODO - Explore.md"
+    },
+    {
+      "basename": "To explore",
+      "path": "Apps/To explore.md"
+    },
+    {
+      "basename": "Hardware",
+      "path": "Hardware/Hardware.md"
+    },
+    {
+      "basename": "Taxonomy",
+      "path": "Taxonomy/Taxonomy.md"
+    },
+    {
+      "basename": "Daily Note Template",
+      "path": "Templates/Daily Note Template.md"
+    },
+    {
+      "basename": "Problem Template",
+      "path": "Templates/Problem Template.md"
+    },
+    {
+      "basename": "Sending it",
+      "path": "Problems/Sending it.md"
+    },
+    {
+      "basename": "Untitled 6",
+      "path": "Untitled 6.md"
+    },
+    {
+      "basename": "2023-01-24",
+      "path": "Journal/2023-01-24.md"
+    },
+    {
       "basename": "Obsidian",
       "path": "Apps/Obsidian.md"
     },
     {
       "basename": "Greenshot",
       "path": "Apps/Greenshot.md"
-    },
-    {
-      "basename": "Microsoft Education Stack",
-      "path": "Apps/Microsoft/Microsoft Education Stack.md"
     },
     {
       "basename": "MS OneNote",
@@ -23,14 +151,6 @@
     {
       "basename": "Process",
       "path": "Rathkeale/Process.md"
-    },
-    {
-      "basename": "Learn 2 Teach Kanban",
-      "path": "Kanban/Learn 2 Teach Kanban.md"
-    },
-    {
-      "basename": "System specs",
-      "path": "Apps/System specs.md"
     },
     {
       "basename": "Daily priorities",
@@ -47,14 +167,6 @@
     {
       "basename": "New Article Template",
       "path": "Templates/New Article Template.md"
-    },
-    {
-      "basename": "Daily Note Template",
-      "path": "Templates/Daily Note Template.md"
-    },
-    {
-      "basename": "2023-01-24",
-      "path": "Journal/2023-01-24.md"
     },
     {
       "basename": "2023-01-15",
@@ -87,118 +199,6 @@
     {
       "basename": "Education",
       "path": "People/Education.md"
-    },
-    {
-      "basename": "Programming activites",
-      "path": "Activities/Programming activites.md"
-    },
-    {
-      "basename": "Activities",
-      "path": "Activities/Activities.md"
-    },
-    {
-      "basename": "Technology topics and trends",
-      "path": "Domain/Technology topics and trends.md"
-    },
-    {
-      "basename": "Build ideas",
-      "path": "Pathways/Build ideas.md"
-    },
-    {
-      "basename": "Overview",
-      "path": "Rathkeale/Overview.md"
-    },
-    {
-      "basename": "Interesting stories",
-      "path": "Stories/Interesting stories.md"
-    },
-    {
-      "basename": "Inspiring people",
-      "path": "People/Inspiring people.md"
-    },
-    {
-      "basename": "Books",
-      "path": "Books/Books.md"
-    },
-    {
-      "basename": "Learning resources",
-      "path": "Resources/Learning resources.md"
-    },
-    {
-      "basename": "TODO - Explore",
-      "path": "Apps/TODO - Explore.md"
-    },
-    {
-      "basename": "2023-01-21",
-      "path": "Journal/2023-01-21.md"
-    },
-    {
-      "basename": "Apps",
-      "path": "Rathkeale/Apps.md"
-    },
-    {
-      "basename": "Accounts",
-      "path": "Rathkeale/Accounts.md"
-    },
-    {
-      "basename": "MS Teams",
-      "path": "Apps/Microsoft/MS Teams.md"
-    },
-    {
-      "basename": "Sublime Text",
-      "path": "Apps/Sublime Text.md"
-    },
-    {
-      "basename": "VSCode",
-      "path": "Apps/VSCode.md"
-    },
-    {
-      "basename": "Careers",
-      "path": "Pathways/Careers.md"
-    },
-    {
-      "basename": "Pathways",
-      "path": "Pathways/Pathways.md"
-    },
-    {
-      "basename": "d",
-      "path": "d.md"
-    },
-    {
-      "basename": "Developer community",
-      "path": "Community/Developer community.md"
-    },
-    {
-      "basename": "Companies",
-      "path": "Domain/Companies.md"
-    },
-    {
-      "basename": "Curriculum models",
-      "path": "Curriculum model/Curriculum models.md"
-    },
-    {
-      "basename": "Lesson plan - 1 - induction",
-      "path": "Lessons/YR11/Lesson plan - 1 - induction.md"
-    },
-    {
-      "basename": "Organisations",
-      "path": "Pathways/Organisations.md"
-    },
-    {
-      "basename": "Online Courses",
-      "path": "Courses/Online Courses.md"
-    },
-    {
-      "basename": "Face 2 Face",
-      "path": "Courses/Face 2 Face.md"
-    },
-    {
-      "basename": "Lesson ideas",
-      "path": "Lessons/Ideas/Lesson ideas.md"
-    },
-    {
-      "basename": "Hour of code",
-      "path": "Lessons/Ideas/Hour of code.md"
     }
   ],
   "omittedPaths": [],
