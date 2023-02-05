@@ -3,7 +3,7 @@ type: listing
 tags: [verbs/build, verbs/make, verbs/create, build-type/poc, build-type/prototype, build-type/web-app, build-type/desktop-app, build-type/mobile-app, build-type/robot, build-type/electrical-circuit, build-type/thing]
 ---
 
-# Applications
+# Apps
 
 ##### Activity timer
 See Electronics
@@ -19,6 +19,20 @@ But what about phone coverage?
 
 ##### Range detector/analyser
 This is an oldie but the idea is to use a phone to build a 3d view of the network coverage within an building or site.
+
+##### Place based learning
+
+A mobile app that allows learners to walk the ground while checking in at specified locations, using QR Codes for example, to view content on something of interest.
+
+usecase - Primary school kids viewing the grounds
+e.g.
+“Our purpose is to.
+Admire the colleges fantastic grounds, 
+To learn about some of the pre human, Maori and European history of the area
+To look at endemic flora (and fauna) cycles and evidence of pre european uses.
+To talk about the significance of the Ruamahanga and Kopuaranga Rivers
+We would park by the tennis courts behind the auditorium then walk on the edge of the eastern edge of the rugby fields, along the western edge of the cricket oval and back through Burma Road. We would be at the college a maximum of 1.5hrs.”
+
 
 # Electronics
 

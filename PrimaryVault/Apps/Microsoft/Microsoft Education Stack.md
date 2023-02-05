@@ -10,6 +10,14 @@ tags: [microsoft, ms, apps/ms-word, apps/ms-teams, apps/ms-outlook, apps/ms-oned
 ## Subscription
 See OneNote
 
+# Sway
+
+TODO: Explore
+
+# Stream
+For video streaming
+
+
 # Word
 
 

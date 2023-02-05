@@ -13,13 +13,14 @@ This is likely to involve:
 
 - Software Engineer
 - Systems Engineer
-- Front-end (web) developer
-- Back-end programmer 
+- Front-end (web) Developer
+- Back-end Programmer 
 - Electrical (Robotics) Engineer
 - Computer Scientist
 - Data Scientist/Analyst
-- Game Design (Development)
-- UX analyst
+- Game Designer
+- UX Designer/Analyst
+- Systems/Business Analyst
 
 
 # Tertiary education
