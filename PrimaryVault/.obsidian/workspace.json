@@ -1,58 +1,47 @@
 {
   "main": {
-    "id": "b4732a59173bf8a0",
+    "id": "83d169efe109fac6",
     "type": "split",
     "children": [
       {
-        "id": "9486972a6ce4b9a0",
+        "id": "b60df7c240c102f8",
         "type": "tabs",
         "children": [
           {
-            "id": "a3feb62643b47aa3",
+            "id": "b1483efcfd03c27e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/2023-01-24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1337152535f2d387",
-            "type": "leaf",
-            "state": {
-<<<<<<< Updated upstream
-              "type": "empty",
-              "state": {}
-=======
               "type": "markdown",
               "state": {
                 "file": "Apps/Apps to explore.md",
                 "mode": "source",
                 "source": false
               }
->>>>>>> Stashed changes
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3b39761a8d86a5f1",
+    "id": "d410edaf4715e278",
     "type": "split",
     "children": [
       {
-        "id": "97dfa021e46c035e",
+        "id": "e69437fea44ea4ea",
         "type": "tabs",
-        "dimension": 72.54697286012527,
         "children": [
           {
-            "id": "922af9586ca338fc",
+            "id": "caaae4fd43986687",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "e4854f1a8d53c61f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,12 +51,12 @@
             }
           },
           {
-            "id": "a7cfa3b55b0e065c",
+            "id": "b789bec1c8108cc8",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "kanban",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,53 +66,43 @@
             }
           },
           {
-            "id": "bd007ef160bf1ece",
+            "id": "8eda9902de0638d6",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
           }
-        ]
-      },
-      {
-        "id": "283e6ee63501511d",
-        "type": "tabs",
-        "dimension": 27.45302713987474,
-        "children": [
-          {
-            "id": "32a5062454f56bce",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "7bc02dad75713ded",
+    "id": "4345f7cb7f29b59a",
     "type": "split",
     "children": [
       {
-        "id": "0b4d910a58674271",
+        "id": "5446cd757f3cba20",
         "type": "tabs",
-        "dimension": 61.27348643006263,
         "children": [
           {
-            "id": "c12ab28c56f484b8",
+            "id": "ecf6a8776c42daaa",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a545973084566cc2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-=======
                 "file": "Apps/Apps to explore.md",
->>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,59 +114,36 @@
             }
           },
           {
-            "id": "4e5c7d3507315f2c",
+            "id": "52812a89f564caaa",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-=======
                 "file": "Apps/Apps to explore.md",
->>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7013f58a56f280c6",
+            "id": "2db139b096a0d560",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequency",
                 "useHierarchy": true
               }
             }
           },
           {
-            "id": "36f47770f67a7fb8",
+            "id": "9b6c3bbee64856fc",
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< Updated upstream
-              "state": {}
-=======
               "state": {
                 "file": "Apps/Apps to explore.md"
               }
->>>>>>> Stashed changes
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "2db82bb619a2bc81",
-        "type": "tabs",
-        "dimension": 38.72651356993737,
-        "children": [
-          {
-            "id": "746808d60e1f4bb1",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           }
         ]
@@ -199,35 +155,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "1337152535f2d387",
+  "active": "b1483efcfd03c27e",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "Apps/Apps to explore.md",
-=======
->>>>>>> Stashed changes
-    "Templates/Monthly Note Template.md",
-    "Kanban/Learn 2 Teach Kanban.md",
-    "Journal/2023-01-24.md",
-    "Apps/Microsoft/MS OneNote.md",
-    "Journal/2023-01-15.md",
-    "Apps/Microsoft/Microsoft Education Stack.md",
-    "The Why/Why do it.md",
-    "Apps/GitHub.md",
-<<<<<<< Updated upstream
-    "Communication/Words.md"
-=======
-    "Communication/Words.md",
-    "Communication/Language.md"
->>>>>>> Stashed changes
+    "d.md"
   ]
 }

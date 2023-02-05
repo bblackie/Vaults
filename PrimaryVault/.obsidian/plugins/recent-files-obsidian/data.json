@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Apps to explore",
+      "path": "Apps/Apps to explore.md"
+    },
+    {
+      "basename": "d",
+      "path": "d.md"
+    },
+    {
       "basename": "Monthly Note Template",
       "path": "Templates/Monthly Note Template.md"
     },
@@ -119,10 +127,6 @@
     {
       "basename": "Pathways",
       "path": "Pathways/Pathways.md"
-    },
-    {
-      "basename": "d",
-      "path": "d.md"
     },
     {
       "basename": "Developer community",
