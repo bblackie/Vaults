@@ -5,5 +5,9 @@
   "isLoggedIn": true,
   "syncOnBoot": true,
   "downloadBookMetadata": true,
+<<<<<<< Updated upstream
   "lastSyncDate": "2023-02-05T20:29:39.887Z"
+=======
+  "lastSyncDate": "2023-02-05T20:29:37.445Z"
+>>>>>>> Stashed changes
 }

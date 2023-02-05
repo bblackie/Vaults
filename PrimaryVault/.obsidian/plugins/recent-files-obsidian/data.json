@@ -1,6 +1,7 @@
 {
   "recentFiles": [
     {
+<<<<<<< Updated upstream
       "basename": "Apps to explore",
       "path": "Apps/Apps to explore.md"
     },
@@ -13,8 +14,14 @@
       "path": "Templates/Monthly Note Template.md"
     },
     {
+=======
+>>>>>>> Stashed changes
       "basename": "Learn 2 Teach Kanban",
       "path": "Kanban/Learn 2 Teach Kanban.md"
+    },
+    {
+      "basename": "Monthly Note Template",
+      "path": "Templates/Monthly Note Template.md"
     },
     {
       "basename": "2023-01-24",
