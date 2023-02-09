@@ -1,21 +1,26 @@
 {
   "recentFiles": [
     {
-<<<<<<< Updated upstream
-      "basename": "Apps to explore",
-      "path": "Apps/Apps to explore.md"
+      "basename": "Notion",
+      "path": "Apps/Notion.md"
     },
     {
-      "basename": "d",
-      "path": "d.md"
+      "basename": "Achievement Standards review",
+      "path": "Lessons/YR12 & 13/Achievement Standards review.md"
     },
     {
-      "basename": "Monthly Note Template",
-      "path": "Templates/Monthly Note Template.md"
+      "basename": "WIP",
+      "path": "Lessons/YR12 & 13/WIP.md"
     },
     {
-=======
->>>>>>> Stashed changes
+      "basename": "VSCode",
+      "path": "Apps/Microsoft/VSCode.md"
+    },
+    {
+      "basename": "Microsoft Education Stack",
+      "path": "Apps/Microsoft/Microsoft Education Stack.md"
+    },
+    {
       "basename": "Learn 2 Teach Kanban",
       "path": "Kanban/Learn 2 Teach Kanban.md"
     },
@@ -34,10 +39,6 @@
     {
       "basename": "2023-01-15",
       "path": "Journal/2023-01-15.md"
-    },
-    {
-      "basename": "Microsoft Education Stack",
-      "path": "Apps/Microsoft/Microsoft Education Stack.md"
     },
     {
       "basename": "Why do it",
@@ -124,16 +125,16 @@
       "path": "Apps/Sublime Text.md"
     },
     {
-      "basename": "VSCode",
-      "path": "Apps/VSCode.md"
-    },
-    {
       "basename": "Careers",
       "path": "Pathways/Careers.md"
     },
     {
       "basename": "Pathways",
       "path": "Pathways/Pathways.md"
+    },
+    {
+      "basename": "d",
+      "path": "d.md"
     },
     {
       "basename": "Developer community",
@@ -174,10 +175,6 @@
     {
       "basename": "MIT App Inventor",
       "path": "Apps/MIT App Inventor.md"
-    },
-    {
-      "basename": "Notion",
-      "path": "Apps/Notion.md"
     },
     {
       "basename": "Students with learning disorders",

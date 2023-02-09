@@ -23,7 +23,7 @@ kanban-plugin: basic
 - [ ] Account setup<br>---<br>- [ ] Go through OneNote notes looking for accounts I need to setup
 - [ ] Setup Grok Learning account<br>---<br>- [x] Create account<br>- [x] Get verified - IN PROG<br>- [ ] Validate access<br>- [ ] Read getting started guide<br>https://groklearning.com/teacher-grokit-guide/
 - [ ] Setup CodeHS account<br>---<br>- [x] Create account<br>- [ ] Get verified - need staff page on website update OR digital documentation<br>- [ ] Validate access
-- [ ] Setup Education Perfect account<br>---<br>- [ ] Create account - error!!!
+- [ ] Setup Education Perfect account<br>---<br>- [x] Create account - error!!!
 
 
 ## Done
