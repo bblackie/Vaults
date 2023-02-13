@@ -10,6 +10,11 @@ tags: [microsoft, ms, apps/ms-word, apps/ms-teams, apps/ms-outlook, apps/ms-oned
 ## Subscription
 See OneNote
 
+
+# MakeCode
+
+
+
 # Sway
 
 TODO: Explore

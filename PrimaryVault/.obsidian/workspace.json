@@ -1,37 +1,19 @@
 {
   "main": {
-<<<<<<< Updated upstream
-    "id": "83d169efe109fac6",
+    "id": "a302835718939310",
     "type": "split",
     "children": [
       {
-        "id": "b60df7c240c102f8",
+        "id": "774fa750e4a5d33d",
         "type": "tabs",
         "children": [
           {
-            "id": "b1483efcfd03c27e",
-=======
-    "id": "706ab4b82594bfa2",
-    "type": "split",
-    "children": [
-      {
-        "id": "03db0f8c20c5102d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d721a4fe9bfef69e",
->>>>>>> Stashed changes
+            "id": "834498c4ec3db4a5",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Apps/Apps to explore.md",
-                "mode": "source",
-                "source": false
-=======
-                "file": "Kanban/Learn 2 Teach Kanban.md"
->>>>>>> Stashed changes
+                "file": "Kanban/Everything Kanban.md"
               }
             }
           }
@@ -41,27 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-<<<<<<< Updated upstream
-    "id": "d410edaf4715e278",
+    "id": "3dcbf0568a77be77",
     "type": "split",
     "children": [
       {
-        "id": "e69437fea44ea4ea",
+        "id": "437fcb7ee4419791",
         "type": "tabs",
         "children": [
           {
-            "id": "caaae4fd43986687",
-=======
-    "id": "11e03c95e6417254",
-    "type": "split",
-    "children": [
-      {
-        "id": "347ff7c25a6c9e5e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cbb338ebf5a1c67a",
->>>>>>> Stashed changes
+            "id": "68a4e93dd97eda45",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -69,11 +39,7 @@
             }
           },
           {
-<<<<<<< Updated upstream
-            "id": "e4854f1a8d53c61f",
-=======
-            "id": "bae17ae36663604f",
->>>>>>> Stashed changes
+            "id": "b248b17d41b51fbe",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -83,11 +49,7 @@
             }
           },
           {
-<<<<<<< Updated upstream
-            "id": "b789bec1c8108cc8",
-=======
-            "id": "002c1a54829848dd",
->>>>>>> Stashed changes
+            "id": "f5ccd8c6b07f3082",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -102,50 +64,30 @@
             }
           },
           {
-<<<<<<< Updated upstream
-            "id": "8eda9902de0638d6",
-=======
-            "id": "6be9de85b37e82f6",
->>>>>>> Stashed changes
+            "id": "8da4e96591c06b1c",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
           }
-<<<<<<< Updated upstream
         ],
         "currentTab": 1
-=======
-        ]
->>>>>>> Stashed changes
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-<<<<<<< Updated upstream
-    "id": "4345f7cb7f29b59a",
+    "id": "f411e3dcecf91059",
     "type": "split",
     "children": [
       {
-        "id": "5446cd757f3cba20",
+        "id": "2f5eaa5588d935b4",
         "type": "tabs",
         "children": [
           {
-            "id": "ecf6a8776c42daaa",
-=======
-    "id": "3b1206ebedde8031",
-    "type": "split",
-    "children": [
-      {
-        "id": "1fe3d7c7c0e236f8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b8bc6828a83354de",
->>>>>>> Stashed changes
+            "id": "e8a8718067334518",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -153,20 +95,12 @@
             }
           },
           {
-<<<<<<< Updated upstream
-            "id": "a545973084566cc2",
-=======
-            "id": "18fb80ba691a9d01",
->>>>>>> Stashed changes
+            "id": "e9a3a355a08f5998",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Apps/Apps to explore.md",
-=======
-                "file": "Kanban/Learn 2 Teach Kanban.md",
->>>>>>> Stashed changes
+                "file": "Kanban/Everything Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,31 +112,19 @@
             }
           },
           {
-<<<<<<< Updated upstream
-            "id": "52812a89f564caaa",
-=======
-            "id": "e970fffac523e23d",
->>>>>>> Stashed changes
+            "id": "f55f3cd91a8eca7e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Apps/Apps to explore.md",
-=======
-                "file": "Kanban/Learn 2 Teach Kanban.md",
->>>>>>> Stashed changes
+                "file": "Kanban/Everything Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-<<<<<<< Updated upstream
-            "id": "2db139b096a0d560",
-=======
-            "id": "4b521b82c2656553",
->>>>>>> Stashed changes
+            "id": "6c6dab1764e47126",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -213,16 +135,12 @@
             }
           },
           {
-<<<<<<< Updated upstream
-            "id": "9b6c3bbee64856fc",
-=======
-            "id": "bca3574cd02aae8a",
->>>>>>> Stashed changes
+            "id": "eb9e0fbd6cc51992",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban/Learn 2 Teach Kanban.md"
+                "file": "Kanban/Everything Kanban.md"
               }
             }
           }
@@ -230,8 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 340.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,13 +162,10 @@
       "periodic-notes:Open today": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "b1483efcfd03c27e",
+  "active": "834498c4ec3db4a5",
   "lastOpenFiles": [
-    "d.md"
+    "Apps/Microsoft/Microsoft Education Stack.md",
+    "Apps/Apps to explore.md",
+    "Apps/Itch.io.md"
   ]
-=======
-  "active": "d721a4fe9bfef69e",
-  "lastOpenFiles": []
->>>>>>> Stashed changes
 }

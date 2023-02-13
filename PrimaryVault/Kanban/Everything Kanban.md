@@ -24,6 +24,7 @@ kanban-plugin: basic
 - [ ] Teaching Prep<br>---<br>See [[Learn 2 Teach Kanban]]
 - [ ] Do accounts<br>---<br>+ [ ] Important receipt - today<br>+ [ ] 10 other receipts - today
 - [ ] TENZ survey<br>---------------<br>Parts to do:<br>+ Future vision for <br>+ TENZPersonal bio
+- [ ] Car insurance<br>---<br>Sum insured: $33,770<br>- [ ] Call us on 0800 80 24 24 to update
 
 
 ## Doing
