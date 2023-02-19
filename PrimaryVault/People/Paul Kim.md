@@ -1,4 +1,8 @@
-Tags: #interesting-people , #maker
+---
+type: note-type/person
+tags: [inspiration/interesting-people]
+---
+
 
 Role now: Associate Dean & CTO of Stanford Graduate School of Education
 Background:

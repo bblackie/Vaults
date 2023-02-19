@@ -8,6 +8,8 @@ kanban-plugin: basic
 
 - [ ] Make van curtains<br>---<br>+ [ ] Find plugs
 - [ ] Shop Mitre 10<br>---<br>Prelim<br>- [x] Check tap size<br>---<br>- [ ] Plastic plugs for curtains<br>- [x] Tap for water container - drum tap 20mm
+- [ ] Do accounts<br>---<br>+ [ ] Important receipt - today<br>+ [ ] 10 other receipts - today
+- [ ] TENZ survey<br>---------------<br>Parts to do:<br>+ Future vision for <br>+ TENZPersonal bio
 - [ ] Study Economics<br>----<br>+ [ ] Capture data sources from books
 - [ ] Review stocks<br>---<br>https://www.lynalden.com/members/<br>+ [ ] TMSC
 - [ ] Compare Electronics<br>----<br>- [ ] Study what RC already has<br>- [ ] Look at other options
@@ -19,20 +21,19 @@ kanban-plugin: basic
 
 ## TODO
 
-- [ ] Van maintenance<br>---<br>+ [ ] Update diary<br>+ [ ] Check next service date
-- [ ] Buy iPad holder
-- [ ] Teaching Prep<br>---<br>See [[Learn 2 Teach Kanban]]
-- [ ] Do accounts<br>---<br>+ [ ] Important receipt - today<br>+ [ ] 10 other receipts - today
-- [ ] TENZ survey<br>---------------<br>Parts to do:<br>+ Future vision for <br>+ TENZPersonal bio
+- [ ] EdPay Documentation<br>---<br>- [ ] quals docs<br>- [ ] jobs docs
 
 
 ## Doing
 
-- [ ] Xmas prezzies<br>---<br>+ [ ] Mum<br>+ [ ] Stuart $40-50<br>+ [x] Activate Secret Santa<br>+ [ ] Liam<br>+ [ ] Theo<br>+ [ ] Lewis
+- [ ] Van maintenance<br>---<br>+ [ ] Update diary<br>+ [ ] Book WOF
+- [ ] Teaching Prep<br>---<br>See [[Learn 2 Teach Kanban]]
 
 
 ## DONE
 
+- [ ] Buy iPad holder
+- [ ] Xmas prezzies<br>---<br>+ [ ] Mum<br>+ [ ] Stuart $40-50<br>+ [x] Activate Secret Santa<br>+ [ ] Liam<br>+ [ ] Theo<br>+ [ ] Lewis
 - [ ] Nelson tramp prep<br>----<br>- [x] Contact DOC re road<br>- [ ] Water santisation<br>- [x] Sleeping bag inner<br>- [ ] Sea to Summit Quagmire Gaiters
 
 

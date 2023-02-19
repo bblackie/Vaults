@@ -1,6 +1,25 @@
 ---
-tags: python
+tags: programming/python
 ---
+
+# Basics
+
+## Vritual Environments
+
+### Create a venv
+
+[Win] virtualenv {venv_name}
+e.g. virtualenv dev
+
+### Activate venv
+
+[iOS] source {venv_name}/bin/activate 
+e.g. source env/bin/activate
+[Win] {venv_name}/Scripts/activate
+e.g. dev/Scripts/activate
+
+# To exit the virtualenv
+deactivate
 
 
 # Best practices

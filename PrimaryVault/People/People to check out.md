@@ -1,5 +1,7 @@
-Tags: #interesting-people 
-
+---
+type: note-type/braindump
+tags: [inspiration/interesting-people]
+---
 ## People I follow
 
 ### Stephen Woodford | Rationality Rules

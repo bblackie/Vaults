@@ -1,28 +1,180 @@
 {
   "recentFiles": [
     {
-      "basename": "Notion",
-      "path": "Apps/Notion.md"
+      "basename": "Teacher Registration",
+      "path": "Teach/Teacher Registration.md"
     },
     {
-      "basename": "Achievement Standards review",
-      "path": "Lessons/YR12 & 13/Achievement Standards review.md"
+      "basename": "Learn 2 Teach Kanban",
+      "path": "Kanban/Learn 2 Teach Kanban.md"
     },
     {
-      "basename": "WIP",
-      "path": "Lessons/YR12 & 13/WIP.md"
+      "basename": "Feedback",
+      "path": "Feedback/Feedback.md"
+    },
+    {
+      "basename": "Python",
+      "path": "Teach/Programming/Python.md"
+    },
+    {
+      "basename": "Python",
+      "path": "Resources/Programming/Python.md"
+    },
+    {
+      "basename": "Python for Beginners - Learn Python in 1 Hour",
+      "path": "Tutorials/Python for Beginners - Learn Python in 1 Hour.md"
     },
     {
       "basename": "VSCode",
       "path": "Apps/Microsoft/VSCode.md"
     },
     {
-      "basename": "Microsoft Education Stack",
-      "path": "Apps/Microsoft/Microsoft Education Stack.md"
+      "basename": "Evidence",
+      "path": "Teach/Evidence.md"
     },
     {
-      "basename": "Learn 2 Teach Kanban",
-      "path": "Kanban/Learn 2 Teach Kanban.md"
+      "basename": "Y13 Kanban",
+      "path": "Kanban/Y13 Kanban.md"
+    },
+    {
+      "basename": "Essentials",
+      "path": "_quick/Essentials.md"
+    },
+    {
+      "basename": "The Movie Database (TMDB) API",
+      "path": "APIs/The Movie Database (TMDB) API.md"
+    },
+    {
+      "basename": "Y12 Kanban",
+      "path": "Kanban/Y12 Kanban.md"
+    },
+    {
+      "basename": "Y11 Kanban",
+      "path": "Kanban/Y11 Kanban.md"
+    },
+    {
+      "basename": "Everything Kanban",
+      "path": "Kanban/Everything Kanban.md"
+    },
+    {
+      "basename": "Apps to explore",
+      "path": "Apps/Apps to explore.md"
+    },
+    {
+      "basename": "Programming resources",
+      "path": "Resources/Programming/Programming resources.md"
+    },
+    {
+      "basename": "CodeHS",
+      "path": "Apps/CodeHS.md"
+    },
+    {
+      "basename": "Activities",
+      "path": "Activities/Activities.md"
+    },
+    {
+      "basename": "Programming",
+      "path": "Projects/Programming.md"
+    },
+    {
+      "basename": "Paul Kim",
+      "path": "People/Paul Kim.md"
+    },
+    {
+      "basename": "People to check out",
+      "path": "People/People to check out.md"
+    },
+    {
+      "basename": "Itch.io",
+      "path": "Apps/Itch.io.md"
+    },
+    {
+      "basename": "Infrastructure",
+      "path": "Infrastructure/Infrastructure.md"
+    },
+    {
+      "basename": "Discord",
+      "path": "Community/Discord.md"
+    },
+    {
+      "basename": "Quizzes",
+      "path": "Activities/Quizzes.md"
+    },
+    {
+      "basename": "Challenges & Competitions",
+      "path": "Activities/Challenges & Competitions.md"
+    },
+    {
+      "basename": "Grok Learning",
+      "path": "Apps/Grok Learning.md"
+    },
+    {
+      "basename": "Untitled 7",
+      "path": "Untitled 7.md"
+    },
+    {
+      "basename": "App Review Template",
+      "path": "Templates/App Review Template.md"
+    },
+    {
+      "basename": "CodeWOF",
+      "path": "Apps/CodeWOF.md"
+    },
+    {
+      "basename": "Computer Security",
+      "path": "Teach/Computer Science/Computer Security.md"
+    },
+    {
+      "basename": "Pathways",
+      "path": "Pathways/Pathways.md"
+    },
+    {
+      "basename": "Educational",
+      "path": "Pathways/Educational.md"
+    },
+    {
+      "basename": "Organisations",
+      "path": "Pathways/Organisations.md"
+    },
+    {
+      "basename": "Initiatives",
+      "path": "Pathways/Initiatives.md"
+    },
+    {
+      "basename": "Careers",
+      "path": "Pathways/Careers.md"
+    },
+    {
+      "basename": "Project ideas",
+      "path": "Lessons/YR13/Project ideas.md"
+    },
+    {
+      "basename": "WIP",
+      "path": "Lessons/YR12/WIP.md"
+    },
+    {
+      "basename": "Achievement Standards review",
+      "path": "Lessons/YR12/Achievement Standards review.md"
+    },
+    {
+      "basename": "Achievement Standards review",
+      "path": "Lessons/YR13/Achievement Standards review.md"
+    },
+    {
+      "basename": "Y9 Kanban",
+      "path": "Kanban/Y9 Kanban.md"
+    },
+    {
+      "basename": "Y10 Kanban",
+      "path": "Kanban/Y10 Kanban.md"
+    },
+    {
+      "basename": "Notion",
+      "path": "Apps/Notion.md"
+    },
+    {
+      "basename": "Microsoft Education Stack",
+      "path": "Apps/Microsoft/Microsoft Education Stack.md"
     },
     {
       "basename": "Monthly Note Template",
@@ -47,154 +199,6 @@
     {
       "basename": "GitHub",
       "path": "Apps/GitHub.md"
-    },
-    {
-      "basename": "Words",
-      "path": "Communication/Words.md"
-    },
-    {
-      "basename": "Language",
-      "path": "Communication/Language.md"
-    },
-    {
-      "basename": "Hustlers",
-      "path": "People/Hustlers.md"
-    },
-    {
-      "basename": "Motivational ideas",
-      "path": "Motivation/Motivational ideas.md"
-    },
-    {
-      "basename": "Education",
-      "path": "People/Education.md"
-    },
-    {
-      "basename": "Programming activites",
-      "path": "Activities/Programming activites.md"
-    },
-    {
-      "basename": "Activities",
-      "path": "Activities/Activities.md"
-    },
-    {
-      "basename": "Technology topics and trends",
-      "path": "Domain/Technology topics and trends.md"
-    },
-    {
-      "basename": "Build ideas",
-      "path": "Pathways/Build ideas.md"
-    },
-    {
-      "basename": "Overview",
-      "path": "Rathkeale/Overview.md"
-    },
-    {
-      "basename": "Interesting stories",
-      "path": "Stories/Interesting stories.md"
-    },
-    {
-      "basename": "Inspiring people",
-      "path": "People/Inspiring people.md"
-    },
-    {
-      "basename": "Books",
-      "path": "Books/Books.md"
-    },
-    {
-      "basename": "Learning resources",
-      "path": "Resources/Learning resources.md"
-    },
-    {
-      "basename": "TODO - Explore",
-      "path": "Apps/TODO - Explore.md"
-    },
-    {
-      "basename": "2023-01-21",
-      "path": "Journal/2023-01-21.md"
-    },
-    {
-      "basename": "Apps",
-      "path": "Rathkeale/Apps.md"
-    },
-    {
-      "basename": "MS Teams",
-      "path": "Apps/Microsoft/MS Teams.md"
-    },
-    {
-      "basename": "Sublime Text",
-      "path": "Apps/Sublime Text.md"
-    },
-    {
-      "basename": "Careers",
-      "path": "Pathways/Careers.md"
-    },
-    {
-      "basename": "Pathways",
-      "path": "Pathways/Pathways.md"
-    },
-    {
-      "basename": "d",
-      "path": "d.md"
-    },
-    {
-      "basename": "Developer community",
-      "path": "Community/Developer community.md"
-    },
-    {
-      "basename": "Companies",
-      "path": "Domain/Companies.md"
-    },
-    {
-      "basename": "Curriculum models",
-      "path": "Curriculum model/Curriculum models.md"
-    },
-    {
-      "basename": "Organisations",
-      "path": "Pathways/Organisations.md"
-    },
-    {
-      "basename": "Online Courses",
-      "path": "Courses/Online Courses.md"
-    },
-    {
-      "basename": "Face 2 Face",
-      "path": "Courses/Face 2 Face.md"
-    },
-    {
-      "basename": "Lesson ideas",
-      "path": "Lessons/Ideas/Lesson ideas.md"
-    },
-    {
-      "basename": "Hour of code",
-      "path": "Lessons/Ideas/Hour of code.md"
-    },
-    {
-      "basename": "Write a paper",
-      "path": "Activities/Write a paper.md"
-    },
-    {
-      "basename": "MIT App Inventor",
-      "path": "Apps/MIT App Inventor.md"
-    },
-    {
-      "basename": "Students with learning disorders",
-      "path": "Teach/Students with learning disorders.md"
-    },
-    {
-      "basename": "Hosting",
-      "path": "Tools/Hosting.md"
-    },
-    {
-      "basename": "Extra-curricular",
-      "path": "Teach/Extra-curricular.md"
-    },
-    {
-      "basename": "Callenges & Competitions",
-      "path": "Activities/Callenges & Competitions.md"
-    },
-    {
-      "basename": "Clubs",
-      "path": "Activities/Clubs.md"
     }
   ],
   "omittedPaths": [],
