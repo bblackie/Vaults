@@ -20,3 +20,8 @@ Thinglink
 Nearpod
 MakeCode
 Turnitin
+
+
+##### birme
+https://www.birme.net/
+#utility/img-auto-resize

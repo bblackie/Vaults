@@ -23,13 +23,6 @@ This is likely to involve:
 - Systems/Business Analyst
 
 
-# Tertiary education
-
-## Game design
-
-- Applied Immersive Game Design
-	- By University of Canterbury
-	
 
 
 

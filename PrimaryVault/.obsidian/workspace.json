@@ -1,26 +1,26 @@
 {
   "main": {
-    "id": "a302835718939310",
+    "id": "706ab4b82594bfa2",
     "type": "split",
     "children": [
       {
-        "id": "774fa750e4a5d33d",
+        "id": "7ece743b4ddff6c0",
         "type": "tabs",
         "children": [
           {
-            "id": "834498c4ec3db4a5",
+            "id": "5630ddec4a03909c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain/Companies.md",
+                "file": "Teach/Teacher Registration.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "79f59f7a2bbdd458",
+            "id": "b52a97a058ca7dd5",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -28,23 +28,46 @@
                 "file": "Kanban/Learn 2 Teach Kanban.md"
               }
             }
+          },
+          {
+            "id": "cba42813b4977ff3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Feedback/Feedback.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20d0e984a8b8f883",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teach/Programming/Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3dcbf0568a77be77",
+    "id": "11e03c95e6417254",
     "type": "split",
     "children": [
       {
-        "id": "437fcb7ee4419791",
+        "id": "347ff7c25a6c9e5e",
         "type": "tabs",
         "children": [
           {
-            "id": "68a4e93dd97eda45",
+            "id": "cbb338ebf5a1c67a",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -52,7 +75,7 @@
             }
           },
           {
-            "id": "b248b17d41b51fbe",
+            "id": "bae17ae36663604f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,7 +85,7 @@
             }
           },
           {
-            "id": "f5ccd8c6b07f3082",
+            "id": "002c1a54829848dd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -77,7 +100,7 @@
             }
           },
           {
-            "id": "8da4e96591c06b1c",
+            "id": "6be9de85b37e82f6",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -92,15 +115,15 @@
     "width": 300
   },
   "right": {
-    "id": "f411e3dcecf91059",
+    "id": "3b1206ebedde8031",
     "type": "split",
     "children": [
       {
-        "id": "2f5eaa5588d935b4",
+        "id": "1fe3d7c7c0e236f8",
         "type": "tabs",
         "children": [
           {
-            "id": "e8a8718067334518",
+            "id": "b8bc6828a83354de",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -108,12 +131,12 @@
             }
           },
           {
-            "id": "e9a3a355a08f5998",
+            "id": "18fb80ba691a9d01",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/Learn 2 Teach Kanban.md",
+                "file": "Teach/Teacher Registration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,35 +148,35 @@
             }
           },
           {
-            "id": "f55f3cd91a8eca7e",
+            "id": "e970fffac523e23d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban/Learn 2 Teach Kanban.md",
+                "file": "Teach/Teacher Registration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "6c6dab1764e47126",
+            "id": "4b521b82c2656553",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
           },
           {
-            "id": "eb9e0fbd6cc51992",
+            "id": "bca3574cd02aae8a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban/Learn 2 Teach Kanban.md"
+                "file": "Teach/Teacher Registration.md"
               }
             }
           }
@@ -162,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,14 +199,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "79f59f7a2bbdd458",
+  "active": "5630ddec4a03909c",
   "lastOpenFiles": [
-    "Kanban/Everything Kanban.md",
-    "Teach/PLD/PLD.md",
-    "Domain/Companies.md",
-    "APIs/The Movie Database (TMDB) API.md",
-    "Apps/Microsoft/Microsoft Education Stack.md",
-    "Apps/Apps to explore.md",
-    "Apps/Itch.io.md"
+    "Kanban/Learn 2 Teach Kanban.md",
+    "Teach/Teacher Registration.md",
+    "Feedback/Feedback.md",
+    "Teach/Programming/Python.md",
+    "Resources/Programming/Python.md",
+    "Tutorials/Python for Beginners - Learn Python in 1 Hour.md",
+    "Apps/Microsoft/VSCode.md",
+    "Teach/Evidence.md",
+    "Kanban/Y13 Kanban.md",
+    "_quick/Essentials.md"
   ]
 }

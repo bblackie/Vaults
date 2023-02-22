@@ -1,4 +1,7 @@
-Tags: #game-dev , #game-jam
+---
+type: note-type/app-review
+Tags: [subject/game-development, activity/game-jam, resource/website]
+---
 
 
 ## Game Jam

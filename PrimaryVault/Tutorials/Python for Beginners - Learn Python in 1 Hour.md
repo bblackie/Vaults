@@ -1,7 +1,7 @@
 
 ---
-type: tutorial
-tags: [programming-with-mosh, python, tutorial]
+type: note-type/tutorial
+tags: [yt-channel/programming-with-mosh, programming/python, activity/tutorial]
 ---
 
 Creator:	Programming with Mosh

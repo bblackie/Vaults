@@ -3,6 +3,10 @@ Type: listing
 Tags: [activity/challenge, activity/competition, activity/code-jam, NZC/CTDT, activity/event]
 ---
 
+# Programmes
+
+[[Challenges & Competitions#Evolcity]]
+[[Challenges & Competitions#Bright Sparks]]
 
 -   [ICAS](https://www.icasassessments.com/) #ICAS
 	- About:  developing assessments for schools
@@ -14,7 +18,8 @@ Tags: [activity/challenge, activity/competition, activity/code-jam, NZC/CTDT, ac
 	- NB: Nothing planned for '23
     
 -   Robotics
-    
+
+##### Evolcity
 -   [Evolocity](https://evolocity.co.nz/))
 	- About:  Develop the next generation of engineers
 	- [Register interest for 2023](https://evolocity.co.nz/2023-team-registration/)
@@ -92,6 +97,14 @@ The Bebras Computing Challenge introduces computational thinking to students.
 Event: August 15-26 2022
 Activities: [Examples](https://bebras.nz/examples.php)
 
+### Exercism
+
+https://exercism.org/
+
+### Hacker Rank
+Overview:  competition oriented and not for beginners, i.e. gets hard quickly
+Languages:
+- [Python]([www.hackerrank.com/domains/python](http://www.hackerrank.com/domains/python))
 
 
 
@@ -108,4 +121,3 @@ Challenges:
 	- Skills: audiovisual production
 - Photo
 	- Skills: photography
-	- 

@@ -1,36 +1,204 @@
 {
   "recentFiles": [
     {
+      "basename": "Teacher Registration",
+      "path": "Teach/Teacher Registration.md"
+    },
+    {
       "basename": "Learn 2 Teach Kanban",
       "path": "Kanban/Learn 2 Teach Kanban.md"
     },
     {
-      "basename": "Everything Kanban",
-      "path": "Kanban/Everything Kanban.md"
+      "basename": "Feedback",
+      "path": "Feedback/Feedback.md"
     },
     {
-      "basename": "PLD",
-      "path": "Teach/PLD/PLD.md"
+      "basename": "Python",
+      "path": "Teach/Programming/Python.md"
     },
     {
-      "basename": "Companies",
-      "path": "Domain/Companies.md"
+      "basename": "Python",
+      "path": "Resources/Programming/Python.md"
+    },
+    {
+      "basename": "Python for Beginners - Learn Python in 1 Hour",
+      "path": "Tutorials/Python for Beginners - Learn Python in 1 Hour.md"
+    },
+    {
+      "basename": "VSCode",
+      "path": "Apps/Microsoft/VSCode.md"
+    },
+    {
+      "basename": "Evidence",
+      "path": "Teach/Evidence.md"
+    },
+    {
+      "basename": "Y13 Kanban",
+      "path": "Kanban/Y13 Kanban.md"
+    },
+    {
+      "basename": "Essentials",
+      "path": "_quick/Essentials.md"
     },
     {
       "basename": "The Movie Database (TMDB) API",
       "path": "APIs/The Movie Database (TMDB) API.md"
     },
     {
-      "basename": "Microsoft Education Stack",
-      "path": "Apps/Microsoft/Microsoft Education Stack.md"
+      "basename": "Y12 Kanban",
+      "path": "Kanban/Y12 Kanban.md"
+    },
+    {
+      "basename": "Y11 Kanban",
+      "path": "Kanban/Y11 Kanban.md"
+    },
+    {
+      "basename": "Everything Kanban",
+      "path": "Kanban/Everything Kanban.md"
     },
     {
       "basename": "Apps to explore",
       "path": "Apps/Apps to explore.md"
     },
     {
+      "basename": "Programming resources",
+      "path": "Resources/Programming/Programming resources.md"
+    },
+    {
+      "basename": "CodeHS",
+      "path": "Apps/CodeHS.md"
+    },
+    {
+      "basename": "Activities",
+      "path": "Activities/Activities.md"
+    },
+    {
+      "basename": "Programming",
+      "path": "Projects/Programming.md"
+    },
+    {
+      "basename": "Paul Kim",
+      "path": "People/Paul Kim.md"
+    },
+    {
+      "basename": "People to check out",
+      "path": "People/People to check out.md"
+    },
+    {
       "basename": "Itch.io",
       "path": "Apps/Itch.io.md"
+    },
+    {
+      "basename": "Infrastructure",
+      "path": "Infrastructure/Infrastructure.md"
+    },
+    {
+      "basename": "Discord",
+      "path": "Community/Discord.md"
+    },
+    {
+      "basename": "Quizzes",
+      "path": "Activities/Quizzes.md"
+    },
+    {
+      "basename": "Challenges & Competitions",
+      "path": "Activities/Challenges & Competitions.md"
+    },
+    {
+      "basename": "Grok Learning",
+      "path": "Apps/Grok Learning.md"
+    },
+    {
+      "basename": "Untitled 7",
+      "path": "Untitled 7.md"
+    },
+    {
+      "basename": "App Review Template",
+      "path": "Templates/App Review Template.md"
+    },
+    {
+      "basename": "CodeWOF",
+      "path": "Apps/CodeWOF.md"
+    },
+    {
+      "basename": "Computer Security",
+      "path": "Teach/Computer Science/Computer Security.md"
+    },
+    {
+      "basename": "Pathways",
+      "path": "Pathways/Pathways.md"
+    },
+    {
+      "basename": "Educational",
+      "path": "Pathways/Educational.md"
+    },
+    {
+      "basename": "Organisations",
+      "path": "Pathways/Organisations.md"
+    },
+    {
+      "basename": "Initiatives",
+      "path": "Pathways/Initiatives.md"
+    },
+    {
+      "basename": "Careers",
+      "path": "Pathways/Careers.md"
+    },
+    {
+      "basename": "Project ideas",
+      "path": "Lessons/YR13/Project ideas.md"
+    },
+    {
+      "basename": "WIP",
+      "path": "Lessons/YR12/WIP.md"
+    },
+    {
+      "basename": "Achievement Standards review",
+      "path": "Lessons/YR12/Achievement Standards review.md"
+    },
+    {
+      "basename": "Achievement Standards review",
+      "path": "Lessons/YR13/Achievement Standards review.md"
+    },
+    {
+      "basename": "Y9 Kanban",
+      "path": "Kanban/Y9 Kanban.md"
+    },
+    {
+      "basename": "Y10 Kanban",
+      "path": "Kanban/Y10 Kanban.md"
+    },
+    {
+      "basename": "Notion",
+      "path": "Apps/Notion.md"
+    },
+    {
+      "basename": "Microsoft Education Stack",
+      "path": "Apps/Microsoft/Microsoft Education Stack.md"
+    },
+    {
+      "basename": "Monthly Note Template",
+      "path": "Templates/Monthly Note Template.md"
+    },
+    {
+      "basename": "2023-01-24",
+      "path": "Journal/2023-01-24.md"
+    },
+    {
+      "basename": "MS OneNote",
+      "path": "Apps/Microsoft/MS OneNote.md"
+    },
+    {
+      "basename": "2023-01-15",
+      "path": "Journal/2023-01-15.md"
+    },
+    {
+      "basename": "Why do it",
+      "path": "The Why/Why do it.md"
+    },
+    {
+      "basename": "GitHub",
+      "path": "Apps/GitHub.md"
     }
   ],
   "omittedPaths": [],
