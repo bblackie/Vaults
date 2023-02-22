@@ -11,13 +11,26 @@
             "id": "834498c4ec3db4a5",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain/Companies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79f59f7a2bbdd458",
+            "type": "leaf",
+            "state": {
               "type": "kanban",
               "state": {
-                "file": "Kanban/Everything Kanban.md"
+                "file": "Kanban/Learn 2 Teach Kanban.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/Everything Kanban.md",
+                "file": "Kanban/Learn 2 Teach Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban/Everything Kanban.md",
+                "file": "Kanban/Learn 2 Teach Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,11 +153,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban/Everything Kanban.md"
+                "file": "Kanban/Learn 2 Teach Kanban.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -162,8 +176,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "834498c4ec3db4a5",
+  "active": "79f59f7a2bbdd458",
   "lastOpenFiles": [
+    "Kanban/Everything Kanban.md",
+    "Teach/PLD/PLD.md",
+    "Domain/Companies.md",
+    "APIs/The Movie Database (TMDB) API.md",
     "Apps/Microsoft/Microsoft Education Stack.md",
     "Apps/Apps to explore.md",
     "Apps/Itch.io.md"

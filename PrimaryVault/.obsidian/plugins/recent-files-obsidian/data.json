@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Learn 2 Teach Kanban",
+      "path": "Kanban/Learn 2 Teach Kanban.md"
+    },
+    {
       "basename": "Everything Kanban",
       "path": "Kanban/Everything Kanban.md"
+    },
+    {
+      "basename": "PLD",
+      "path": "Teach/PLD/PLD.md"
+    },
+    {
+      "basename": "Companies",
+      "path": "Domain/Companies.md"
+    },
+    {
+      "basename": "The Movie Database (TMDB) API",
+      "path": "APIs/The Movie Database (TMDB) API.md"
     },
     {
       "basename": "Microsoft Education Stack",
