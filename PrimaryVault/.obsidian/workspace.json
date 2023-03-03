@@ -1,73 +1,74 @@
 {
   "main": {
-    "id": "706ab4b82594bfa2",
+    "id": "a302835718939310",
     "type": "split",
     "children": [
       {
-        "id": "7ece743b4ddff6c0",
+        "id": "774fa750e4a5d33d",
         "type": "tabs",
         "children": [
           {
-            "id": "5630ddec4a03909c",
+            "id": "834498c4ec3db4a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teach/Teacher Registration.md",
+                "file": "Domain/Companies.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b52a97a058ca7dd5",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanban/Learn 2 Teach Kanban.md"
-              }
-            }
-          },
-          {
-            "id": "cba42813b4977ff3",
+            "id": "79f59f7a2bbdd458",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Feedback/Feedback.md",
+                "file": "Apps/Microsoft/VSCode.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "20d0e984a8b8f883",
+            "id": "6ec38a2fdc19cce5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teach/Programming/Python.md",
+                "file": "Resources/Exams.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "e541b790f719164c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "11e03c95e6417254",
+    "id": "3dcbf0568a77be77",
     "type": "split",
     "children": [
       {
-        "id": "347ff7c25a6c9e5e",
+        "id": "437fcb7ee4419791",
         "type": "tabs",
         "children": [
           {
-            "id": "cbb338ebf5a1c67a",
+            "id": "68a4e93dd97eda45",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -75,7 +76,7 @@
             }
           },
           {
-            "id": "bae17ae36663604f",
+            "id": "b248b17d41b51fbe",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -85,12 +86,12 @@
             }
           },
           {
-            "id": "002c1a54829848dd",
+            "id": "f5ccd8c6b07f3082",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "venv",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +101,7 @@
             }
           },
           {
-            "id": "6be9de85b37e82f6",
+            "id": "8da4e96591c06b1c",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -115,15 +116,15 @@
     "width": 300
   },
   "right": {
-    "id": "3b1206ebedde8031",
+    "id": "f411e3dcecf91059",
     "type": "split",
     "children": [
       {
-        "id": "1fe3d7c7c0e236f8",
+        "id": "2f5eaa5588d935b4",
         "type": "tabs",
         "children": [
           {
-            "id": "b8bc6828a83354de",
+            "id": "e8a8718067334518",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -131,12 +132,12 @@
             }
           },
           {
-            "id": "18fb80ba691a9d01",
+            "id": "e9a3a355a08f5998",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teach/Teacher Registration.md",
+                "file": "Resources/Exams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,35 +149,35 @@
             }
           },
           {
-            "id": "e970fffac523e23d",
+            "id": "f55f3cd91a8eca7e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teach/Teacher Registration.md",
+                "file": "Resources/Exams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4b521b82c2656553",
+            "id": "6c6dab1764e47126",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequency",
                 "useHierarchy": true
               }
             }
           },
           {
-            "id": "bca3574cd02aae8a",
+            "id": "eb9e0fbd6cc51992",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teach/Teacher Registration.md"
+                "file": "Resources/Exams.md"
               }
             }
           }
@@ -185,7 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 340.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,17 +200,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5630ddec4a03909c",
+  "active": "e541b790f719164c",
   "lastOpenFiles": [
-    "Kanban/Learn 2 Teach Kanban.md",
-    "Teach/Teacher Registration.md",
-    "Feedback/Feedback.md",
-    "Teach/Programming/Python.md",
-    "Resources/Programming/Python.md",
-    "Tutorials/Python for Beginners - Learn Python in 1 Hour.md",
     "Apps/Microsoft/VSCode.md",
-    "Teach/Evidence.md",
-    "Kanban/Y13 Kanban.md",
-    "_quick/Essentials.md"
+    "Teach/Programming/Python.md",
+    "Kanban/Learn 2 Teach Kanban.md",
+    "Kanban/Everything Kanban.md",
+    "Teach/PLD/PLD.md",
+    "Domain/Companies.md",
+    "APIs/The Movie Database (TMDB) API.md",
+    "Apps/Microsoft/Microsoft Education Stack.md",
+    "Apps/Apps to explore.md",
+    "Apps/Itch.io.md"
   ]
 }
