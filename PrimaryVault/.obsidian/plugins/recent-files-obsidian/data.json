@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Y13 Kanban",
+      "path": "Kanban/Y13 Kanban.md"
+    },
+    {
+      "basename": "Learn 2 Teach Kanban",
+      "path": "Kanban/Learn 2 Teach Kanban.md"
+    },
+    {
+      "basename": "Companies",
+      "path": "Domain/Companies.md"
+    },
+    {
+      "basename": "Kieza-Banks",
+      "path": "Kindle/Kieza-Banks.md"
+    },
+    {
+      "basename": "Compuer Sciences",
+      "path": "Learn/Compuer Sciences.md"
+    },
+    {
       "basename": "Exams",
       "path": "Resources/Exams.md"
     },
@@ -13,20 +33,12 @@
       "path": "Teach/Programming/Python.md"
     },
     {
-      "basename": "Learn 2 Teach Kanban",
-      "path": "Kanban/Learn 2 Teach Kanban.md"
-    },
-    {
       "basename": "Everything Kanban",
       "path": "Kanban/Everything Kanban.md"
     },
     {
       "basename": "PLD",
       "path": "Teach/PLD/PLD.md"
-    },
-    {
-      "basename": "Companies",
-      "path": "Domain/Companies.md"
     },
     {
       "basename": "The Movie Database (TMDB) API",
