@@ -1,6 +1,7 @@
-Tags: #literacy, #numeracy, #activities 
-
-
+---
+type: note-type/braindump
+tags: [curriculum/literacy, curriculum/numeracy, activities]
+---
 # Resources
 
 

@@ -1,5 +1,8 @@
-Tags: #psychology/emotional-IQ, #psychology
+---
+Tags: [mental-health/emotional-IQ, mental-health/psychology]
+---
 
+# Overview
 This is about growing personality, building resilience, learning how to express oneself, facing fear and being oneself.
 
 
@@ -21,8 +24,11 @@ This is about growing personality, building resilience, learning how to express 
 Learn about yourself by comparing your traits against a personality test
 
 
+# Resources
 
 
-# Personality tests
+[All Calendars | Action for Happiness](https://actionforhappiness.org/all-calendars)
+
+## Personality tests
 
 [[TODO]]

@@ -1,6 +1,5 @@
 ---
-tags: [emmerson-spatz, accelerated-learning]
-
+tags: [interesting-person/emmerson-spatz, learning/technique/accelerated-learning]
 ---
 
 Emerson's Website: https://www.emersonspartz.com

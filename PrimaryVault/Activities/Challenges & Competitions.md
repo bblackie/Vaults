@@ -94,7 +94,7 @@ Competition:
 
 https://bebras.nz/
 The Bebras Computing Challenge introduces computational thinking to students. 
-Event: August 15-26 2022
+Event: **20 March to 31 March 2023**
 Activities: [Examples](https://bebras.nz/examples.php)
 
 ### Exercism

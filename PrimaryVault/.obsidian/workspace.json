@@ -4,52 +4,58 @@
     "type": "split",
     "children": [
       {
-        "id": "7ece743b4ddff6c0",
+        "id": "6d7cf493902a1d60",
         "type": "tabs",
         "children": [
           {
-            "id": "5630ddec4a03909c",
+            "id": "2ff1c68ab647bc93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teach/Teacher Registration.md",
+                "file": "Timeout/Wairarapa Adventure.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b52a97a058ca7dd5",
+            "id": "7e9ef32b1750e4a2",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Kanban/Learn 2 Teach Kanban.md"
+                "file": "Kanban/Y9 Kanban.md"
               }
             }
           },
           {
-            "id": "cba42813b4977ff3",
+            "id": "d4e470a50d854dac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Feedback/Feedback.md",
-                "mode": "source",
-                "source": false
+                "file": "Kanban/Y11 Kanban.md"
               }
             }
           },
           {
-            "id": "20d0e984a8b8f883",
+            "id": "75d41eee8342da80",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Teach/Programming/Python.md",
-                "mode": "source",
-                "source": false
+                "file": "Kanban/Y12 Kanban.md"
+              }
+            }
+          },
+          {
+            "id": "2a5c516ba45dc0ef",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban/Y13 Kanban.md"
               }
             }
           }
@@ -90,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "quizziz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teach/Teacher Registration.md",
+                "file": "Timeout/Wairarapa Adventure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teach/Teacher Registration.md",
+                "file": "Timeout/Wairarapa Adventure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teach/Teacher Registration.md"
+                "file": "Timeout/Wairarapa Adventure.md"
               }
             }
           }
@@ -199,17 +205,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5630ddec4a03909c",
+  "active": "2ff1c68ab647bc93",
   "lastOpenFiles": [
     "Kanban/Learn 2 Teach Kanban.md",
-    "Teach/Teacher Registration.md",
-    "Feedback/Feedback.md",
+    "Kanban/Y11 Kanban.md",
+    "Kanban/Y9 Kanban.md",
+    "Courses/Online Courses.md",
+    "Journal/My Health.md",
+    "Kanban/Y12 Kanban.md",
+    "Learn/Robotics.md",
+    "Learn/Electronics.md",
+    "Lessons/Programming/Pseudo-code.md",
+    "Lessons/Programming/Flow-chart.md",
+    "Apps/code.org.md",
+    "Lessons/Programming",
+    "Apps/Repl.it.md",
     "Teach/Programming/Python.md",
-    "Resources/Programming/Python.md",
     "Tutorials/Python for Beginners - Learn Python in 1 Hour.md",
-    "Apps/Microsoft/VSCode.md",
-    "Teach/Evidence.md",
+    "Resources/Programming/Python.md",
     "Kanban/Y13 Kanban.md",
-    "_quick/Essentials.md"
+    "Kanban/Y10 Kanban.md",
+    "Resources/Teacher Resources.md",
+    "Mental Health.md",
+    "Lessons/Electronics.md",
+    "Apps/Apps to explore.md",
+    "People/Emerson Spartz.md",
+    "Resources/Literacy & Numeracy.md",
+    "Tools/Game Development.md",
+    "Activities/Hour of Code.md",
+    "Projects/Project Ideas.md"
   ]
 }

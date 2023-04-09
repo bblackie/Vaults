@@ -18,12 +18,13 @@ kanban-plugin: basic
 
 ## Committed
 
-- [ ] Establish Checkpoints<br>---<br>- [ ] Checkpoint tasks<br>- [ ] Set face2face checkpoints
+- [ ] Establish Checkpoints (3.1)<br>---<br>- [ ] Checkpoint tasks<br>- [ ] Task 1<br>- [ ] Task 2<br>- [ ] Task 3<br>- [ ] Task 4<br>- [ ] Task 5<br>- [ ] Task 6<br>- [ ] Task 7<br>- [ ] Task 8<br>- [ ] Set face2face checkpoints
 - [ ] Review AS91890 (2.1)<br>---<br>- [ ] Create notes file<br>- [ ] Create rubric<br>- [ ] Download resources
 
 
 ## In progress
 
+- [ ] Effort Grades<br>---<br>- [ ] Progress audit<br>- [ ] Upload to KAMAR
 
 
 ## Completed
