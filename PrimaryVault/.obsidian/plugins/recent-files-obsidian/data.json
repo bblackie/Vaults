@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Apps to explore",
+      "path": "Apps/Apps to explore.md"
+    },
+    {
       "basename": "Python",
       "path": "Subjects/Programming/Python.md"
+    },
+    {
+      "basename": "Learn 2 Teach Kanban",
+      "path": "Kanban/Learn 2 Teach Kanban.md"
     },
     {
       "basename": "Y13 Kanban",
@@ -11,10 +19,6 @@
     {
       "basename": "Career Activties",
       "path": "Pathways/Career Activties.md"
-    },
-    {
-      "basename": "Learn 2 Teach Kanban",
-      "path": "Kanban/Learn 2 Teach Kanban.md"
     },
     {
       "basename": "AI (Artificial Intelligence)",
@@ -147,10 +151,6 @@
     {
       "basename": "Electronics",
       "path": "Lessons/Electronics.md"
-    },
-    {
-      "basename": "Apps to explore",
-      "path": "Apps/Apps to explore.md"
     },
     {
       "basename": "Emerson Spartz",
