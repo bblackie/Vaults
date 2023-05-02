@@ -17,22 +17,23 @@ kanban-plugin: basic
 
 ## Important
 
+- [ ] Review Policies & Procedures<br>---<br>- [x] Download to folder<br>- [ ] Review
 - [ ] Qs for Shane<br>---<br>- [ ]
 - [ ] Feedback<br>---<br>- [ ] POC Forms > Sharepoint integration<br>- [ ] Create evidence log<br>How to capture:<br>- [ ] Conversations<br>- [ ] Observations<br>- [ ] Peer review<br>- [ ] Self-assessment
 - [ ] Student surveys<br>---<br>- [ ] What knowledge and experience do my students have?<br>- [ ] Review year 9 surveys
 - [ ] EdPay Setup<br>---<br>- [ ] Complete NOVO7t<br>- [ ] Get certified copies of quals<br>- [ ] Get statements of service for work
 - [ ] Account setup<br>---<br>- [ ] Go through OneNote notes looking for accounts I need to setup
 - [ ] Y11 HOUR<br>---<br>- [ ] Refactor todolist
-- [ ] Y12 HOUR<br>---<br>- [ ] Refactor todolist
-- [ ] Y13 HOUR<br>---<br>- [ ] Refactor todolist
-- [ ] External Moderation<br>---<br>Y13 - AS91900 - Sep 1 deadline<br>See [[Y12 Kanban]]
 - [ ] Setup CodeHS account<br>---<br>- [x] Create account<br>- [ ] Get verified - need staff page on website update OR digital documentation<br>- [ ] Validate access
 - [ ] PLD - ProfLearnDevmt<br>---<br>- [ ] Process emails<br>- [ ] Create evidence log
 
 
 ## In progress
 
-- [ ] Review Policies & Procedures<br>---<br>- [x] Download to folder<br>- [ ] Review
+- [ ] check emails
+- [ ] Y13 HOUR<br>---<br>- [ ] Refactor todolist<br>See [[Y13 Kanban]]
+- [ ] External Moderation<br>---<br>Y13 - AS91900 - Sep 1 deadline<br>See [[Y12 Kanban]]
+- [ ] Y12 HOUR<br>---<br>- [ ] Refactor todolist<br>See [[Y12 Kanban]]
 
 
 ## Done

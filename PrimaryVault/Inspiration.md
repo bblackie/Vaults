@@ -6,6 +6,19 @@ tags: [inspiration/interesting-companies, inspiration/interesting-people, inspir
 ## Interesting companies
 
 
+#### Game studios
+
+Ninja Kiwi - https://ninjakiwi.com/blog
+Black Salt Games - https://www.blacksaltgames.com/careers/
+Dinosaur Polo Club - https://dinopoloclub.com/careers/
+Pik Pok - https://apply.workable.com/pikpok/
+Grinding Gear Games - https://www.grindinggear.com/?page=careers
+Rocketwerkz - https://rocketwerkz.recruitee.com/
+
+
+
+
+
 
 ## Interesting people
 

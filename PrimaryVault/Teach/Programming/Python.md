@@ -6,14 +6,24 @@ tags: programming/python
 
 ## Vritual Environments
 
+
+### Install virtual env
+
+Enter this command into terminal
+pip install virtualenv
+
+
+
 ### Create a venv
 
 [Win] virtualenv {venv_name}
 e.g. virtualenv dev
+[Mac] virtualenv dev
+
 
 ### Activate venv
 
-[iOS] source {venv_name}/bin/activate 
+[Mac] source {venv_name}/bin/activate 
 e.g. source env/bin/activate
 [Win] {venv_name}/Scripts/activate
 e.g. dev/Scripts/activate
@@ -39,3 +49,11 @@ Here are 6 clean tips that you can use for improving the readability & the pract
 
 https://www.youtube.com/watch?v=jsL1I6g-XJE
 
+
+# Lessons
+
+
+[Getting Started with Python on Replit - Tips, Tricks and Examples](https://www.youtube.com/watch?v=VGiCFnyTRRk&t=11s)
+Includes:
+- creating a website
+- screen scraping example

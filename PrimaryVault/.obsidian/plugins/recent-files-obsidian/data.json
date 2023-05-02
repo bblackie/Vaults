@@ -1,20 +1,108 @@
 {
   "recentFiles": [
     {
-      "basename": "Exams",
-      "path": "Resources/Exams.md"
-    },
-    {
-      "basename": "VSCode",
-      "path": "Apps/Microsoft/VSCode.md"
+      "basename": "Flask",
+      "path": "Subjects/Programming/Flask.md"
     },
     {
       "basename": "Python",
       "path": "Teach/Programming/Python.md"
     },
     {
+      "basename": "AI",
+      "path": "Apps/AI.md"
+    },
+    {
+      "basename": "Create cool images",
+      "path": "Create/Create cool images.md"
+    },
+    {
+      "basename": "Untitled 8",
+      "path": "Untitled 8.md"
+    },
+    {
+      "basename": "Unity",
+      "path": "Apps/Unity.md"
+    },
+    {
+      "basename": "Inspiration",
+      "path": "Inspiration.md"
+    },
+    {
+      "basename": "Apps to explore",
+      "path": "Apps/Apps to explore.md"
+    },
+    {
+      "basename": "GitHub",
+      "path": "Apps/GitHub.md"
+    },
+    {
+      "basename": "Python",
+      "path": "Resources/Programming/Python.md"
+    },
+    {
+      "basename": "Python for Beginners - Learn Python in 1 Hour",
+      "path": "Tutorials/Python for Beginners - Learn Python in 1 Hour.md"
+    },
+    {
+      "basename": "Programming activites",
+      "path": "Activities/Programming activites.md"
+    },
+    {
+      "basename": "Challenges & Competitions",
+      "path": "Activities/Challenges & Competitions.md"
+    },
+    {
+      "basename": "Programming Projects",
+      "path": "Projects/Programming Projects.md"
+    },
+    {
+      "basename": "Version Control",
+      "path": "Teach/Programming/Version Control.md"
+    },
+    {
+      "basename": "Y12 Kanban",
+      "path": "Kanban/Y12 Kanban.md"
+    },
+    {
+      "basename": "Exams",
+      "path": "Resources/Exams.md"
+    },
+    {
+      "basename": "Explore",
+      "path": "Resources/Explore.md"
+    },
+    {
+      "basename": "Teacher Resources",
+      "path": "Resources/Teacher Resources.md"
+    },
+    {
+      "basename": "Y13 Kanban",
+      "path": "Kanban/Y13 Kanban.md"
+    },
+    {
       "basename": "Learn 2 Teach Kanban",
       "path": "Kanban/Learn 2 Teach Kanban.md"
+    },
+    {
+      "basename": "Natural Reader",
+      "path": "Apps/Natural Reader.md"
+    },
+    {
+      "basename": "Mobile Apps",
+      "path": "Apps/Mobile Apps.md"
+    },
+    {
+      "basename": "Design",
+      "path": "Apps/Design.md"
+    },
+    {
+      "basename": "Companies",
+      "path": "Domain/Companies.md"
+    },
+    {
+      "basename": "VSCode",
+      "path": "Apps/Microsoft/VSCode.md"
     },
     {
       "basename": "Everything Kanban",
@@ -25,20 +113,12 @@
       "path": "Teach/PLD/PLD.md"
     },
     {
-      "basename": "Companies",
-      "path": "Domain/Companies.md"
-    },
-    {
       "basename": "The Movie Database (TMDB) API",
       "path": "APIs/The Movie Database (TMDB) API.md"
     },
     {
       "basename": "Microsoft Education Stack",
       "path": "Apps/Microsoft/Microsoft Education Stack.md"
-    },
-    {
-      "basename": "Apps to explore",
-      "path": "Apps/Apps to explore.md"
     },
     {
       "basename": "Itch.io",
