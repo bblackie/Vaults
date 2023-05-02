@@ -1,20 +1,100 @@
 {
   "recentFiles": [
     {
-      "basename": "Wairarapa Adventure",
-      "path": "Timeout/Wairarapa Adventure.md"
+      "basename": "Python",
+      "path": "Subjects/Programming/Python.md"
+    },
+    {
+      "basename": "Y13 Kanban",
+      "path": "Kanban/Y13 Kanban.md"
+    },
+    {
+      "basename": "Career Activties",
+      "path": "Pathways/Career Activties.md"
     },
     {
       "basename": "Learn 2 Teach Kanban",
       "path": "Kanban/Learn 2 Teach Kanban.md"
     },
     {
+      "basename": "AI (Artificial Intelligence)",
+      "path": "Subjects/Computer Science/AI (Artificial Intelligence).md"
+    },
+    {
+      "basename": "Y12 Kanban",
+      "path": "Kanban/Y12 Kanban.md"
+    },
+    {
       "basename": "Y11 Kanban",
       "path": "Kanban/Y11 Kanban.md"
     },
     {
+      "basename": "Infrastructure",
+      "path": "Infrastructure/Infrastructure.md"
+    },
+    {
+      "basename": "Teacher Resources",
+      "path": "Resources/Teacher Resources.md"
+    },
+    {
+      "basename": "Images",
+      "path": "Resources/Web Design/Images.md"
+    },
+    {
+      "basename": "Communication",
+      "path": "Subjects/Communication.md"
+    },
+    {
+      "basename": "Tools & Techniques",
+      "path": "Subjects/Web Development/Tools & Techniques.md"
+    },
+    {
+      "basename": "2023-04-26",
+      "path": "Journal/2023-04-26.md"
+    },
+    {
+      "basename": "MS Outlook",
+      "path": "Apps/Microsoft/MS Outlook.md"
+    },
+    {
+      "basename": "Daily Note Template",
+      "path": "Templates/Daily Note Template.md"
+    },
+    {
+      "basename": "Python",
+      "path": "Resources/Programming/Python.md"
+    },
+    {
+      "basename": "Programming activities",
+      "path": "Activities/Programming activities.md"
+    },
+    {
+      "basename": "Hour of Code",
+      "path": "Activities/Hour of Code.md"
+    },
+    {
+      "basename": "Activities",
+      "path": "Activities/Activities.md"
+    },
+    {
+      "basename": "Games",
+      "path": "Activities/Games.md"
+    },
+    {
+      "basename": "Robotics",
+      "path": "Subjects/Robotics.md"
+    },
+    {
       "basename": "Y9 Kanban",
       "path": "Kanban/Y9 Kanban.md"
+    },
+    {
+      "basename": "Windows 10",
+      "path": "My computers/Windows 10.md"
+    },
+    {
+      "basename": "Wairarapa Adventure",
+      "path": "Timeout/Wairarapa Adventure.md"
     },
     {
       "basename": "Online Courses",
@@ -23,10 +103,6 @@
     {
       "basename": "My Health",
       "path": "Journal/My Health.md"
-    },
-    {
-      "basename": "Y12 Kanban",
-      "path": "Kanban/Y12 Kanban.md"
     },
     {
       "basename": "Robotics",
@@ -57,28 +133,12 @@
       "path": "Apps/Repl.it.md"
     },
     {
-      "basename": "Python",
-      "path": "Teach/Programming/Python.md"
-    },
-    {
       "basename": "Python for Beginners - Learn Python in 1 Hour",
       "path": "Tutorials/Python for Beginners - Learn Python in 1 Hour.md"
     },
     {
-      "basename": "Python",
-      "path": "Resources/Programming/Python.md"
-    },
-    {
-      "basename": "Y13 Kanban",
-      "path": "Kanban/Y13 Kanban.md"
-    },
-    {
       "basename": "Y10 Kanban",
       "path": "Kanban/Y10 Kanban.md"
-    },
-    {
-      "basename": "Teacher Resources",
-      "path": "Resources/Teacher Resources.md"
     },
     {
       "basename": "Mental Health",
@@ -105,24 +165,12 @@
       "path": "Tools/Game Development.md"
     },
     {
-      "basename": "Hour of Code",
-      "path": "Activities/Hour of Code.md"
-    },
-    {
       "basename": "Lesson ideas",
       "path": "Lessons/Ideas/Lesson ideas.md"
     },
     {
       "basename": "Challenges & Competitions",
       "path": "Activities/Challenges & Competitions.md"
-    },
-    {
-      "basename": "Images",
-      "path": "Resources/Web Design/Images.md"
-    },
-    {
-      "basename": "Activities",
-      "path": "Activities/Activities.md"
     },
     {
       "basename": "Feedback",
@@ -151,54 +199,6 @@
     {
       "basename": "Teacher Registration",
       "path": "Teach/Teacher Registration.md"
-    },
-    {
-      "basename": "VSCode",
-      "path": "Apps/Microsoft/VSCode.md"
-    },
-    {
-      "basename": "Essentials",
-      "path": "_quick/Essentials.md"
-    },
-    {
-      "basename": "The Movie Database (TMDB) API",
-      "path": "APIs/The Movie Database (TMDB) API.md"
-    },
-    {
-      "basename": "Everything Kanban",
-      "path": "Kanban/Everything Kanban.md"
-    },
-    {
-      "basename": "Programming resources",
-      "path": "Resources/Programming/Programming resources.md"
-    },
-    {
-      "basename": "CodeHS",
-      "path": "Apps/CodeHS.md"
-    },
-    {
-      "basename": "Programming",
-      "path": "Projects/Programming.md"
-    },
-    {
-      "basename": "Paul Kim",
-      "path": "People/Paul Kim.md"
-    },
-    {
-      "basename": "People to check out",
-      "path": "People/People to check out.md"
-    },
-    {
-      "basename": "Itch.io",
-      "path": "Apps/Itch.io.md"
-    },
-    {
-      "basename": "Infrastructure",
-      "path": "Infrastructure/Infrastructure.md"
-    },
-    {
-      "basename": "Discord",
-      "path": "Community/Discord.md"
     }
   ],
   "omittedPaths": [],

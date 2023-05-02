@@ -18,11 +18,11 @@ tags: #sites/cs-unplugged
 ## General
 
 ### GBL (game based learning)
-	- Build a program or application that help validate learning through flashcards
+ 
+ Ideas:
+ - Build a program or application that help validate learning through flashcards
 	- Build a program or application that help validate learning through the Leitner System, i.e. staged flashcards
-
 - Build a hangman game
-
 - Two minute paper
 - App round up and review
 - People worth following app

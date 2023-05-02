@@ -4,10 +4,12 @@ tags: programming/python
 
 # Basics
 
-# Local dev setup
-## Vritual Environments
+# Getting Started
 
-### Create a venv
+## Local dev setup
+### Vritual Environments
+
+#### Create a venv
 
 [iOS]
 
@@ -15,20 +17,24 @@ tags: programming/python
 e.g. virtualenv dev
 
 
-### Activate venv
+#### Activate venv
 
 [iOS] source {venv_name}/bin/activate 
 e.g. source env/bin/activate
 [Win] {venv_name}/Scripts/activate
 e.g. dev/Scripts/activate
 
-### Enable Powershell
+#### Enable Powershell
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 
-### To exit the virtualenv
+#### To exit the virtualenv
 [Win] deactivate
 
-# Cloud development
+#### Configure VS Code
+
+[Using Python environments in VS Code](https://code.visualstudio.com/docs/python/environments)
+
+## Cloud development
 
 ## Sandbox environments
 
@@ -43,7 +49,16 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 
 # Web Development
 
-## Flask
+## Frameworks
+
+### Anvil
+[Anvil | Build Web Apps with Nothing but Python](https://anvil.works/)
+Pricing: [Anvil | Pricing Plans](https://anvil.works/pricing) ***Free for education but need to contact***
+Tutorials:
+- [Anvil | Tutorials](https://anvil.works/learn/tutorials)
+
+
+### Flask
 
 Getting started: https://pypi.org/project/Flask/
 
@@ -52,6 +67,8 @@ Getting started: https://pypi.org/project/Flask/
 In a terminal:
 - pip install -U Flask
 - flask --app main.py run # unless the default app.py file is present
+
+### Django
 
 
 # Best practices

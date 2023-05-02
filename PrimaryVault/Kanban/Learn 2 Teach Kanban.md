@@ -17,8 +17,12 @@ kanban-plugin: basic
 
 ## Important
 
-- [ ] Y13 HOUR<br>---<br>- [x] Effort grades in KAMAR<br>- [ ] Update log for Damo
-- [ ] Y12 HOUR<br>---<br>- [x] Effort grades in KAMAR
+- [ ] Networking<br>---<br>- [ ] Diagnostics for rathkeale_BYOD<br>- [ ] Check classroom wired connections
+- [ ] Y9 HOUR<br>---<br>- See [[Y9 Kanban]]
+- [ ] Y10 HOUR<br>---<br>- [ ] See [[Y10 Kanban]]<br>- [x] Effort grades in KAMAR
+- [ ] Y11 HOUR<br>---<br>- [ ] See [[Y11 Kanban]]
+- [ ] Y12 HOUR<br>---<br>- See [[Y12 Kanban]]
+- [ ] Y13 HOUR<br>---<br>- See [[Y13 Kanban]]
 - [ ] EdPay Setup<br>---<br>- [ ] Complete NOVO7t<br>- [ ] Getting certified copies of quals - see Work2Do<br>- [ ] Getting statements of service for work  - see Work2Do
 - [ ] Review Policies & Procedures<br>---<br>- [x] Download to folder<br>- [ ] Review
 - [ ] Reporting<br>---<br>-[ ] Effort grade reporting<br>-[ ] Parent teacher meetings
@@ -38,16 +42,21 @@ kanban-plugin: basic
 
 ## In progress
 
-- [ ] Y10 HOUR<br>---<br>- [ ] See [[Y10 Kanban]]<br>- [x] Effort grades in KAMAR
-- [ ] Y11 HOUR<br>---<br>- [ ] See [[Y11 Kanban]]
-- [ ] Y9 HOUR<br>---<br>- See [[Y9 Kanban]]
 - [ ] PLD Key Learning<br>---<br>[Online Assessor Support » NZQA](https://www.nzqa.govt.nz/about-us/events/assessor-support/online-assessor-support/)<br>See Adam email "NZQA Update"
 - [ ] DCAT Exams<br>---<br>- [ ] Read<br>- [ ] Students make their selection
+- [ ] Miscel<br>---<br>- [ ] Promote Grapple
 
 
 ## Done
 
 **Complete**
+- [x] In-house Football<br>---<br>- [x] Setup
+
+
+***
+
+## Archive
+
 - [x] Prepare for moderation
 - [x] Reengage local DGT teachers
 - [x] Moderation process<br>---<br>- [ ] Moderation NAs go to deans
@@ -60,9 +69,6 @@ kanban-plugin: basic
 - [x] Explore Education Perfect<br>---<br>- [x] Are there grades?<br>- [x] Can I create classes?<br>- [x] What content?
 - [x] STEM Online NZ<br>---<br>- [ ] Review courses
 - [x] Setup Grok Learning account<br>---<br>- [x] Create account<br>- [x] Get verified - IN PROG<br>- [x] Validate access<br>- [ ] Read getting started guide<br>https://groklearning.com/teacher-grokit-guide/
-
-
-
 
 %% kanban:settings
 ```
