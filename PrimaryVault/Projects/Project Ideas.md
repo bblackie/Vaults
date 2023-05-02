@@ -5,6 +5,26 @@ tags: [verbs/build, verbs/make, verbs/create, build-type/poc, build-type/prototy
 
 # Apps
 
+## Authentic/Rathkeale
+
+##### Time keeping
+
+Lane based
+- Each user logs in with their name and lane
+- Events are uploaded
+- Time are recorded in app and automatically uploaded to a central system
+
+##### Event management
+
+- Sporting events
+	- web app with spreadsheet view to easily upload events
+	- validation to pick out any issues
+	- ability to slice and dice views based on event type, etc
+
+
+
+## General
+
 ##### Activity timer
 See Electronics
 
@@ -32,6 +52,14 @@ To learn about some of the pre human, Maori and European history of the area
 To look at endemic flora (and fauna) cycles and evidence of pre european uses.
 To talk about the significance of the Ruamahanga and Kopuaranga Rivers
 We would park by the tennis courts behind the auditorium then walk on the edge of the eastern edge of the rugby fields, along the western edge of the cricket oval and back through Burma Road. We would be at the college a maximum of 1.5hrs.”
+
+# Robotics
+
+- [World's Simplest Line Following Robot : 4 Steps - Instructables](https://www.instructables.com/Simplest-Line-Following-Robot/) #topic/electronics
+
+
+
+
 
 
 # Electronics

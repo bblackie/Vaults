@@ -1,6 +1,6 @@
 ---
 type: note-type/braindump
-tags: [programming/python, language/python, resourses]
+tags: [programming/python]
 ---
 
 
@@ -15,6 +15,25 @@ https://pythonprinciples.com/lessons/
 ## Teaching
 
 [Mr Fraser](https://www.mrfraser.org/resources/programming/python/theory.php)
+
+
+## e-Books
+
+https://inventwithpython.com/
+Books relate to:
+- Python
+- Minecraft
+- Scratch
+
+Topics include:
+- Python programming
+- Games
+- Practical coding
+
+Further:
+- courses on Udemy. Link from his website for discounts #udemy
+- videos on YouTube- [Al Sweigart](https://www.youtube.com/@Albert10110/playlists) #youtube
+
 
 ## Exercises
 
