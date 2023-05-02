@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Flask",
-      "path": "Subjects/Programming/Flask.md"
+      "basename": "Learn 2 Teach Kanban",
+      "path": "Kanban/Learn 2 Teach Kanban.md"
+    },
+    {
+      "basename": "NZC",
+      "path": "Education/NZC.md"
     },
     {
       "basename": "Python",
       "path": "Teach/Programming/Python.md"
+    },
+    {
+      "basename": "Flask",
+      "path": "Subjects/Programming/Flask.md"
     },
     {
       "basename": "AI",
@@ -79,10 +87,6 @@
     {
       "basename": "Y13 Kanban",
       "path": "Kanban/Y13 Kanban.md"
-    },
-    {
-      "basename": "Learn 2 Teach Kanban",
-      "path": "Kanban/Learn 2 Teach Kanban.md"
     },
     {
       "basename": "Natural Reader",
