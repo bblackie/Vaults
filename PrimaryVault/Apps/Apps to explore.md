@@ -30,4 +30,15 @@ Turnitin
 
 ##### birme
 https://www.birme.net/
+#utility/img-auto-resize
+
+
+Thunkable
+
+
+# Game dev
+
+### Game Maker
+
+https://gamemaker.io/en
 #utility/img-auto-resize, #software/birme

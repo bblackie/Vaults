@@ -7,6 +7,11 @@ tags: [programming/python]
 
 # Resources
 
+## e-Learning
+
+***Simple and clean with 42 lessons for learning python as a beginner***
+https://pythonprinciples.com/lessons/
+
 ## Teaching
 
 [Mr Fraser](https://www.mrfraser.org/resources/programming/python/theory.php)
@@ -32,6 +37,9 @@ Further:
 
 ## Exercises
 
+See [[Programming activites]]
+
+
 [w3schools](https://www.w3schools.com/python/python_exercises.asp](https://www.w3schools.com/python/python_exercises.asp)
 
 [Sololearn](https://www.sololearn.com/codes)
@@ -55,6 +63,8 @@ Features
  - Blog
 
 ## Projects
+
+See [[Programming Projects]]
 
 ##### Tiny Python Projects
 by Ken Youens-Clark		
