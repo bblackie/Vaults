@@ -11,6 +11,7 @@ kanban-plugin: basic
 - [ ] Exemplars<br>---<br>- [ ] By grade for each standard
 - [ ] AS Q&A<br>---<br>- [ ] Work in groups allowed?<br>- [ ] Factor stakeholders?
 - [ ] Lesson Prep<br>---<br>- [ ] AS Q&A session for class
+- [ ] Finalise student course<br>---<br>- [ ] Print 9 x course outline<br>- [ ] Site with each student to finalise
 
 
 ## Committed
@@ -25,6 +26,7 @@ kanban-plugin: basic
 
 - [ ] Internal Moderation<br>---<br>- [ ] Prepare for moderation<br>- [ ] 1 Sep DEADLINE but can submit earlier!<br>- [ ] DO internal moderations 1st
 - [ ] Course selection<br>---<br>- [ ] Update spread with student course selection<br>- [ ] Prepare for demo of exemplars
+- [ ] Explore<br>---<br>- [ ] Godot basics<br>- [ ] Unity basics<br>- [ ] ReactJS basics
 
 
 ## Completed

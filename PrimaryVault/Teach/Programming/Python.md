@@ -28,6 +28,11 @@ e.g. source env/bin/activate
 [Win] {venv_name}/Scripts/activate
 e.g. dev/Scripts/activate
 
+### Gotchas
+[Win]
+Error: "The file <filename> is not digitally signed "
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
 # To exit the virtualenv
 deactivate
 

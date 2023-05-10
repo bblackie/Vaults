@@ -26,7 +26,6 @@ kanban-plugin: basic
 - [ ] EdPay Setup<br>---<br>- [ ] Complete NOVO7t<br>- [ ] Getting certified copies of quals - see Work2Do<br>- [ ] Getting statements of service for work  - see Work2Do
 - [ ] Review Policies & Procedures<br>---<br>- [x] Download to folder<br>- [ ] Review
 - [ ] Reporting<br>---<br>-[ ] Effort grade reporting<br>-[ ] Parent teacher meetings
-- [ ] PLD - ProfLearnDevmt<br>---<br>- [ ] Process emails<br>- [ ] Create evidence log<br>- [ ] Create templates for year, unit and lesson based on JWW chat<br>- [ ] Download ProfDevCycle doc from TEC sharepoint site
 - [ ] Explore > Code Avengers<br>---<br>[Profile | Code Avengers](https://www.codeavengers.com/profile#tab-library)<br>- [ ] Curriculum ties<br>- [ ] Y9/10 relevance<br>- [ ] Y11-13 relevance
 - [ ] Qs for Shane<br>---<br>- [ ]
 - [ ] Feedback<br>---<br>- [ ] POC Forms > Sharepoint integration<br>- [ ] Create evidence log<br>How to capture:<br>- [ ] Conversations<br>- [ ] Observations<br>- [ ] Peer review<br>- [ ] Self-assessment
@@ -42,9 +41,18 @@ kanban-plugin: basic
 
 ## In progress
 
+- [ ] Y11 assessment checkup
+- [ ] Y13 - Marking review
+- [ ] Y12 - Assessment results mailout
+- [ ] PLD - ProfLearnDevmt<br>---<br>- [ ] Update evidence log<br>- [ ] Process emails<br>- [ ] Create SMART goal re CA course matrix<br>- [ ] Update templates for year, unit and lesson based on JWW chat<br>- [ ] Download ProfDevCycle doc from TEC sharepoint site<br>---<br>- [ ] PLD Key Learning<br>[Online Assessor Support » NZQA](https://www.nzqa.govt.nz/about-us/events/assessor-support/online-assessor-support/)<br>See Adam email "NZQA Update"
 - [ ] PLD Key Learning<br>---<br>[Online Assessor Support » NZQA](https://www.nzqa.govt.nz/about-us/events/assessor-support/online-assessor-support/)<br>See Adam email "NZQA Update"
 - [ ] DCAT Exams<br>---<br>- [ ] Read<br>- [ ] Students make their selection
 - [ ] Miscel<br>---<br>- [ ] Promote Grapple
+- [ ] Sort NXT lego
+- [ ] Sort field monitors
+- [ ] Stretching
+- [ ] Find cycling gear
+- [ ] Light run
 
 
 ## Done

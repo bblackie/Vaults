@@ -8,9 +8,7 @@ kanban-plugin: basic
 
 - [ ] Plan for the week
 - [ ] Finalise student course<br>---<br>- [ ] Print 9 x course outline<br>- [ ] Site with each student to finalise
-- [ ] Student Requests<br>---<br>- [ ] Get Flask notes for Zoe
-- [ ] All standards<br>---<br>- [ ] Upload to OneNote
-- [ ] Exemplars<br>---<br>- [ ] By grade for each standard
+- [ ] Student Requests<br>---<br>- [x] Get Flask notes for Zoe
 
 
 ## Committed
@@ -25,11 +23,14 @@ kanban-plugin: basic
 
 ## In progress
 
+- [ ] Explore<br>---<br>- [ ] Modding with Minecraft and Java
 
 
 ## Done
 
 - [ ] MS Team updates<br>---<br>- [x] Upload ASs<br>- [x] Upload marking schedules<br>- [x] Upload evidence templates<br>- [x] Upload LEM exemplars<br>- [x] Upload official exemplars<br>- [x] Upload miscel exemplars<br>- [x] Create assignment for 3.4<br>- [x] Create assignment for 3.7<br>- [x] Create assignment for 3.8
+- [ ] Exemplars<br>---<br>- [ ] By grade for each standard
+- [ ] All standards<br>---<br>- [x] Upload to OneNote
 - [ ] Review AS91900 (3.1)<br>---<br>- [ ] Create notes file<br>- [ ] Create rubric<br>- [x] Download resources
 - [ ] Review standards in progress
 - [ ] Review student work<br>---<br>- [x] Kaahu<br>- [x] Damo<br>- [x] Tanatat

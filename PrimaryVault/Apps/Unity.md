@@ -4,7 +4,9 @@
 ## Licensing
 
 Free to students and for education
-https://unity.com/learn/educators
+https://unity.com/learn
+
+
 
 ### Team size
 
