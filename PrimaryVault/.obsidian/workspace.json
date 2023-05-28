@@ -13,24 +13,36 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Kanban/Y12 Kanban.md"
+                "file": "Kanban/Learn 2 Teach Kanban.md"
               }
             }
           },
           {
-            "id": "daaf8c53e1d4c63a",
+            "id": "6328b3ae66229c9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apps/Microsoft/MS Windows.md",
+                "file": "Subjects/Programming/Source Control.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b5ad16f9e3283c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teach/Programming/Python.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -67,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "venv",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,9 +95,17 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "d2cc3f6af146be36",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -113,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apps/Microsoft/MS Windows.md",
+                "file": "Teach/Programming/Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apps/Microsoft/MS Windows.md",
+                "file": "Teach/Programming/Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apps/Microsoft/MS Windows.md"
+                "file": "Teach/Programming/Python.md"
               }
             }
           }
@@ -176,37 +196,43 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "daaf8c53e1d4c63a",
+  "active": "2b5ad16f9e3283c0",
   "lastOpenFiles": [
-    "Kanban/Y12 Kanban.md",
-    "Apps/Microsoft/MS Windows.md",
-    "Subjects/Systems Engineering/Overview.md",
-    "Subjects/Systems Engineering/Untitled",
-    "Kanban/Learn 2 Teach Kanban.md",
-    "Kanban/Y13 Kanban.md",
-    "Subjects/Robotics.md",
-    "Teach/Programming/Python.md",
-    "Learn/Learn maths.md",
-    "Tools/Game Development.md",
-    "Apps/Unity.md",
-    "Subjects/Programming/Python.md",
-    "Kanban/Y9 Kanban.md",
-    "Kanban/Y10 Kanban.md",
-    "Kanban/Y11 Kanban.md",
-    "Journal/2023-04-26.md",
-    "Subjects/Web Development/Tools & Techniques.md",
+    "Activities/Challenges & Competitions.md",
+    "Subjects/Programming/Source Control.md",
     "Subjects/Programming/Flask.md",
-    "Apps/Apps to explore.md",
-    "Untitled 8.md",
-    "Teach/Programming/Version Control.md",
+    "Subjects/Programming/Python/Python.md",
+    "Teach/Programming/Python.md",
+    "Apps/Microsoft/MS OneNote.md",
+    "Kanban/Learn 2 Teach Kanban.md",
+    "Tools/Game Development.md",
+    "Apps/code.org.md",
+    "Kanban/Y13 Kanban.md",
+    "Apps/Microsoft/MS Word.md",
+    "Kanban/Y9 Kanban.md",
+    "Apps/Visual Studio Code (VSCode).md",
+    "Subjects/DVC/Design/Tutorials.md",
+    "Pasted image 20230514102922.png",
+    "Kanban/Y11 Kanban.md",
+    "Subjects/DVC/Design",
+    "Subjects/DVC",
+    "Subjects/Programming/Python/Solution Design.md",
+    "Subjects/Programming/Python",
+    "Kanban/Y12 Kanban.md",
+    "Subjects/Software Engineering/Software Architecture.md",
+    "Subjects/Systems Engineering/Systems Engineering.md",
+    "Subjects/Software Engineering/Design Patterns.md",
+    "Subjects/Software Engineering",
+    "Apps/Microsoft/MS Windows.md",
+    "Education/NZC.md",
+    "Education",
+    "Subjects/Systems Engineering/Untitled",
+    "Subjects/Robotics.md",
+    "Learn/Learn maths.md",
+    "Apps/Unity.md",
+    "Kanban/Y10 Kanban.md",
     "Teach/Programming",
-    "Resources/Explore.md",
-    "Projects/Programming Projects.md",
-    "Create/Create cool images.md",
     "Create",
-    "Apps/Design.md",
-    "Apps/AI.md",
-    "Activities/Programming activites.md",
     "Subjects",
     "Lessons/Programming"
   ]

@@ -1,60 +1,104 @@
 {
   "recentFiles": [
     {
-      "basename": "MS Windows",
-      "path": "Apps/Microsoft/MS Windows.md"
+      "basename": "Python",
+      "path": "Teach/Programming/Python.md"
     },
     {
-      "basename": "Y12 Kanban",
-      "path": "Kanban/Y12 Kanban.md"
+      "basename": "Challenges & Competitions",
+      "path": "Activities/Challenges & Competitions.md"
     },
     {
-      "basename": "Overview",
-      "path": "Subjects/Systems Engineering/Overview.md"
+      "basename": "Source Control",
+      "path": "Subjects/Programming/Source Control.md"
+    },
+    {
+      "basename": "Flask",
+      "path": "Subjects/Programming/Flask.md"
+    },
+    {
+      "basename": "Python",
+      "path": "Subjects/Programming/Python/Python.md"
+    },
+    {
+      "basename": "MS OneNote",
+      "path": "Apps/Microsoft/MS OneNote.md"
     },
     {
       "basename": "Learn 2 Teach Kanban",
       "path": "Kanban/Learn 2 Teach Kanban.md"
     },
     {
-      "basename": "Y13 Kanban",
-      "path": "Kanban/Y13 Kanban.md"
-    },
-    {
-      "basename": "Robotics",
-      "path": "Subjects/Robotics.md"
-    },
-    {
-      "basename": "Python",
-      "path": "Teach/Programming/Python.md"
-    },
-    {
-      "basename": "Learn maths",
-      "path": "Learn/Learn maths.md"
-    },
-    {
       "basename": "Game Development",
       "path": "Tools/Game Development.md"
     },
     {
-      "basename": "Unity",
-      "path": "Apps/Unity.md"
+      "basename": "code.org",
+      "path": "Apps/code.org.md"
     },
     {
-      "basename": "Python",
-      "path": "Subjects/Programming/Python.md"
+      "basename": "Y13 Kanban",
+      "path": "Kanban/Y13 Kanban.md"
+    },
+    {
+      "basename": "MS Word",
+      "path": "Apps/Microsoft/MS Word.md"
     },
     {
       "basename": "Y9 Kanban",
       "path": "Kanban/Y9 Kanban.md"
     },
     {
-      "basename": "Y10 Kanban",
-      "path": "Kanban/Y10 Kanban.md"
+      "basename": "Visual Studio Code (VSCode)",
+      "path": "Apps/Visual Studio Code (VSCode).md"
+    },
+    {
+      "basename": "Tutorials",
+      "path": "Subjects/DVC/Design/Tutorials.md"
     },
     {
       "basename": "Y11 Kanban",
       "path": "Kanban/Y11 Kanban.md"
+    },
+    {
+      "basename": "Solution Design",
+      "path": "Subjects/Programming/Python/Solution Design.md"
+    },
+    {
+      "basename": "Y12 Kanban",
+      "path": "Kanban/Y12 Kanban.md"
+    },
+    {
+      "basename": "Software Architecture",
+      "path": "Subjects/Software Engineering/Software Architecture.md"
+    },
+    {
+      "basename": "Systems Engineering",
+      "path": "Subjects/Systems Engineering/Systems Engineering.md"
+    },
+    {
+      "basename": "Design Patterns",
+      "path": "Subjects/Software Engineering/Design Patterns.md"
+    },
+    {
+      "basename": "MS Windows",
+      "path": "Apps/Microsoft/MS Windows.md"
+    },
+    {
+      "basename": "Robotics",
+      "path": "Subjects/Robotics.md"
+    },
+    {
+      "basename": "Learn maths",
+      "path": "Learn/Learn maths.md"
+    },
+    {
+      "basename": "Unity",
+      "path": "Apps/Unity.md"
+    },
+    {
+      "basename": "Y10 Kanban",
+      "path": "Kanban/Y10 Kanban.md"
     },
     {
       "basename": "2023-04-26",
@@ -63,10 +107,6 @@
     {
       "basename": "Tools & Techniques",
       "path": "Subjects/Web Development/Tools & Techniques.md"
-    },
-    {
-      "basename": "Flask",
-      "path": "Subjects/Programming/Flask.md"
     },
     {
       "basename": "Apps to explore",
@@ -157,48 +197,8 @@
       "path": "Lessons/Programming/Flow-chart.md"
     },
     {
-      "basename": "code.org",
-      "path": "Apps/code.org.md"
-    },
-    {
       "basename": "Repl.it",
       "path": "Apps/Repl.it.md"
-    },
-    {
-      "basename": "Python for Beginners - Learn Python in 1 Hour",
-      "path": "Tutorials/Python for Beginners - Learn Python in 1 Hour.md"
-    },
-    {
-      "basename": "Mental Health",
-      "path": "Mental Health.md"
-    },
-    {
-      "basename": "Electronics",
-      "path": "Lessons/Electronics.md"
-    },
-    {
-      "basename": "Emerson Spartz",
-      "path": "People/Emerson Spartz.md"
-    },
-    {
-      "basename": "Literacy & Numeracy",
-      "path": "Resources/Literacy & Numeracy.md"
-    },
-    {
-      "basename": "Lesson ideas",
-      "path": "Lessons/Ideas/Lesson ideas.md"
-    },
-    {
-      "basename": "Challenges & Competitions",
-      "path": "Activities/Challenges & Competitions.md"
-    },
-    {
-      "basename": "Feedback",
-      "path": "Feedback/Feedback.md"
-    },
-    {
-      "basename": "Projects",
-      "path": "Activities/Projects.md"
     }
   ],
   "omittedPaths": [],
