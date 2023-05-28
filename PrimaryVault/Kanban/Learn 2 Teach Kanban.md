@@ -41,24 +41,31 @@ kanban-plugin: basic
 
 ## In progress
 
-- [ ] Y11 assessment checkup
-- [ ] Y13 - Marking review
-- [ ] Y12 - Assessment results mailout
+- [ ] Moderation PLD<br>---<br>***Assessor Practice Tool (APT)***<br><br>[APT Pilot Site](https://apt-pilot.nzqa.govt.nz/) using the teacher’s Education Sector Logon
 - [ ] PLD - ProfLearnDevmt<br>---<br>- [ ] Update evidence log<br>- [ ] Process emails<br>- [ ] Create SMART goal re CA course matrix<br>- [ ] Update templates for year, unit and lesson based on JWW chat<br>- [ ] Download ProfDevCycle doc from TEC sharepoint site<br>---<br>- [ ] PLD Key Learning<br>[Online Assessor Support » NZQA](https://www.nzqa.govt.nz/about-us/events/assessor-support/online-assessor-support/)<br>See Adam email "NZQA Update"
-- [ ] PLD Key Learning<br>---<br>[Online Assessor Support » NZQA](https://www.nzqa.govt.nz/about-us/events/assessor-support/online-assessor-support/)<br>See Adam email "NZQA Update"
-- [ ] DCAT Exams<br>---<br>- [ ] Read<br>- [ ] Students make their selection
+- [ ] DCAT Exams<br>---<br>- [x] Read<br>- [ ] Students make their selection
 - [ ] Miscel<br>---<br>- [ ] Promote Grapple
-- [ ] Sort NXT lego
 - [ ] Sort field monitors
 - [ ] Stretching
-- [ ] Find cycling gear
 - [ ] Light run
+- [ ] Follow up with PLD courses<br>- [ ] Holidays courses - behaviour mgmt - <br>- [ ] PPTA
+- [ ] Change deadline for Y11
 
 
 ## Done
 
 **Complete**
+- [x] Y12 assessment checkup<br>---<br>- [ ] Update KAMAR markbook with student selection of ASs
+- [x] Repton House<br>---<br>- [ ] Fill doc re performance
+- [x] Y9 Reporting<br>---<br>- [x] Assessment comments
 - [x] In-house Football<br>---<br>- [x] Setup
+- [x] Y13 - Marking review
+- [x] ew
+- [x] Y12 - Assessment results mailout
+- [x] Sort NXT lego
+- [x] Find cycling gear
+- [x] check Enzo's work Y11
+- [x] PLD Key Learning<br>---<br>[Online Assessor Support » NZQA](https://www.nzqa.govt.nz/about-us/events/assessor-support/online-assessor-support/)<br>See Adam email "NZQA Update"
 
 
 ***

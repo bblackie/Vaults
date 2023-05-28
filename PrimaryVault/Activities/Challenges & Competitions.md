@@ -106,6 +106,16 @@ Overview:  competition oriented and not for beginners, i.e. gets hard quickly
 Languages:
 - [Python]([www.hackerrank.com/domains/python](http://www.hackerrank.com/domains/python))
 
+### Leetcode
+https://leetcode.com/
+Accounts:
+	Google auth: learndigitech2day@gmail.com
+
+Codewars
+
+Accounts:
+	Githut auth: bblackie
+
 
 
 # Game Development

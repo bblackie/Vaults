@@ -24,6 +24,7 @@ kanban-plugin: basic
 ## In progress
 
 - [ ] Explore<br>---<br>- [ ] Modding with Minecraft and Java
+- [ ] Review Externals<br>---<br>- [ ] How much time is required<br>- [ ] Rearrange timelines accordingly
 
 
 ## Done

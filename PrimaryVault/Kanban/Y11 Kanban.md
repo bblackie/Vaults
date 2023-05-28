@@ -15,10 +15,12 @@ kanban-plugin: basic
 ## Committed
 
 - [ ] Doc changes<br>---<br>- [ ] Incl checklist in marking schedule<br>- [ ] Include authenticity and acceptance sections in Marking Schedule
+- [ ] Mark AS91879 (1.3) DB<br>---<br>- [ ] Check marks in KAMAR<br>- [ ] Update comments
 
 
 ## In progress
 
+- [ ] UPDATE KANBAN
 - [ ] OneNote updates<br>---<br>- [ ] Create Unpacking the standard page - see CA<br>	- [ ] 1.7 DCP<br>- [ ] Provide examples screenshots for each section<br>	- [ ] 1.7 DCP
 - [ ] MS Team updates<br>---<br>- [x] Upload ASs<br>- [x] Upload marking schedules<br>- [x] Upload evidence templates<br>- [x] Upload LEM exemplars<br>- [x] Upload official exemplars<br>- [x] Upload miscel exemplars<br>- [ ] Create assignment for 3.7
 

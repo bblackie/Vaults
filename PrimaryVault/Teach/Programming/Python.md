@@ -20,6 +20,8 @@ pip install virtualenv
 e.g. virtualenv dev
 [Mac] virtualenv dev
 
+Issues:
+- The term 'virtualenv' is not recognised
 
 ### Activate venv
 
