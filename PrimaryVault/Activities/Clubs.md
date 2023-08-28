@@ -6,6 +6,12 @@
 
 ## Programming
 
+
+Code Club Aotearoa
+[Code Club Aotearoa](https://codeclub.nz/)
+
+
+
 ## Big ideas
 ### Philosophy
 Want to find your voice? Have opinions and wish to hone how to express them eloquently.

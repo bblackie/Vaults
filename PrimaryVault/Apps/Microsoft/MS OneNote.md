@@ -13,6 +13,34 @@ file types:
 [Educator Centre](https://learn.microsoft.com/en-us/training/educator-center/?source=mec%3Fsource%3Dmec)
 
 
+## Installation
+### Versions
+
+OneNote for Windows 10
+
+
+
+OneNote for Microsoft 365
+
+
+
+## Setup
+
+
+
+Adding the Class Notebook extension/plugin/add-in
+https://support.microsoft.com/en-gb/topic/install-class-notebook-add-in-for-onenote-app-8d30736e-39ac-40d4-84a9-d6a0b2138182
+
+Downloaded to Apps/MS OneNote
+
+Audit:
+Have
+- Class Notebook Add-in for OneNote 3.5.0.0 (2023)
+	- Launched OneNote for M365
+	- NB: Running repair on this brought back Class Notebook
+- Learning Tools for OneNote (2020)
+- OneNote for Windows 10 (2023)
+
 
 # Explore
 

@@ -20,13 +20,22 @@ pip install virtualenv
 e.g. virtualenv dev
 [Mac] virtualenv dev
 
+Issues:
+- The term 'virtualenv' is not recognised
 
 ### Activate venv
 
-[Mac] source {venv_name}/bin/activate 
-e.g. source env/bin/activate
 [Win] {venv_name}/Scripts/activate
 e.g. dev/Scripts/activate
+
+[Mac] source {venv_name}/bin/activate 
+e.g. source env/bin/activate
+
+
+### Gotchas
+[Win]
+Error: "The file <filename> is not digitally signed "
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 
 # To exit the virtualenv
 deactivate

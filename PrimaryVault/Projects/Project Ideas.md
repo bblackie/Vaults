@@ -23,6 +23,15 @@ Lane based
 
 
 
+
+## Pathways
+
+##### Clickable maps
+Create a clickable world map showing the university exchange locations
+[Exchange partner university fact sheets - The University of Auckland](https://www.auckland.ac.nz/en/study/study-options/360-international/semester-exchange/exchange-partners2/exchange-partner-fact-sheets.html)
+
+
+
 ## General
 
 ##### Activity timer

@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "a302835718939310",
+    "id": "706ab4b82594bfa2",
     "type": "split",
     "children": [
       {
-        "id": "0ae3b45448b11ee8",
+        "id": "0a85b7462a05a60a",
         "type": "tabs",
         "children": [
           {
-            "id": "913787715f164bed",
+            "id": "9d2001692706d559",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Activities/Challenges & Competitions.md",
+                "file": "Productivity/AI Tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3dcbf0568a77be77",
+    "id": "11e03c95e6417254",
     "type": "split",
     "children": [
       {
-        "id": "437fcb7ee4419791",
+        "id": "347ff7c25a6c9e5e",
         "type": "tabs",
         "children": [
           {
-            "id": "68a4e93dd97eda45",
+            "id": "cbb338ebf5a1c67a",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -41,7 +41,7 @@
             }
           },
           {
-            "id": "b248b17d41b51fbe",
+            "id": "bae17ae36663604f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,12 +51,12 @@
             }
           },
           {
-            "id": "f5ccd8c6b07f3082",
+            "id": "002c1a54829848dd",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "hack",
+                "query": "venv",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,7 @@
             }
           },
           {
-            "id": "8da4e96591c06b1c",
+            "id": "6be9de85b37e82f6",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -74,7 +74,7 @@
             }
           },
           {
-            "id": "0e62cea8aad2a7e6",
+            "id": "d2cc3f6af146be36",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,22 +82,22 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "f411e3dcecf91059",
+    "id": "3b1206ebedde8031",
     "type": "split",
     "children": [
       {
-        "id": "2f5eaa5588d935b4",
+        "id": "1fe3d7c7c0e236f8",
         "type": "tabs",
         "children": [
           {
-            "id": "e8a8718067334518",
+            "id": "b8bc6828a83354de",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -105,12 +105,12 @@
             }
           },
           {
-            "id": "e9a3a355a08f5998",
+            "id": "18fb80ba691a9d01",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Activities/Challenges & Competitions.md",
+                "file": "Productivity/AI Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,35 +122,35 @@
             }
           },
           {
-            "id": "f55f3cd91a8eca7e",
+            "id": "e970fffac523e23d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Activities/Challenges & Competitions.md",
+                "file": "Productivity/AI Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "6c6dab1764e47126",
+            "id": "4b521b82c2656553",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
           },
           {
-            "id": "eb9e0fbd6cc51992",
+            "id": "bca3574cd02aae8a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Activities/Challenges & Competitions.md"
+                "file": "Productivity/AI Tools.md"
               }
             }
           }
@@ -173,42 +173,46 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "913787715f164bed",
+  "active": "9d2001692706d559",
   "lastOpenFiles": [
-    "Activities/Projects.md",
-    "Teach/Programming/Python.md",
-    "Subjects/Programming/Flask.md",
     "Kanban/Y12 Kanban.md",
     "Kanban/Y13 Kanban.md",
-    "Kanban/Learn 2 Teach Kanban.md",
-    "Education/NZC.md",
-    "Education",
+    "Teach/Programming/Python.md",
+    "Kanban/Y11 Kanban.md",
+    "Kanban/Y9 Kanban.md",
+    "Kanban/Y10 Kanban.md",
+    "Subjects/Web Development/Overview.md",
     "Subjects/Web Development/Tools & Techniques.md",
     "Subjects/Web Development/Frontend web development.md",
-    "Subjects/Web Development",
-    "Subjects/Robotics.md",
-    "Subjects/Programming/Python.md",
-    "Subjects/Computer Science/Computer Security.md",
-    "Subjects/Computer Science/AI (Artificial Intelligence).md",
-    "Subjects/Computer Science",
-    "Subjects/Communication.md",
-    "Resources/Web Design/Images.md",
-    "Resources/Web Design",
-    "Pathways/Career Activties.md",
-    "My computers/Windows 10.md",
-    "Mental Health.md",
-    "Lessons/Programming/Pseudo-code.md",
-    "Lessons/Programming/Flow-chart.md",
-    "Lessons/Programming",
-    "Learn/Compuer Sciences.md",
-    "Journal/My Health.md",
-    "Journal/2023-04-26.md",
-    "Journal/2023-02-24.md",
-    "Apps/code.org.md",
-    "Apps/Repl.it.md",
-    "Subjects/Programming",
-    "Untitled",
-    "Subjects",
-    "Create"
+    "Books/To buy.md",
+    "Activities/Challenges & Competitions.md",
+    "Activities/Exercises.md",
+    "Activities/Programming activities.md",
+    "Learn/Robotics.md",
+    "Lessons/AI - Artificial Intelligence.md",
+    "Activities/Camps.md",
+    "Resources/Programming/Python.md",
+    "Resources/Books.md",
+    "Apps/IDEs/IDEs.md",
+    "Apps/Note taking/Notion.md",
+    "Apps/IDEs",
+    "Apps/Exercises",
+    "Apps/Hosting",
+    "Apps/Apps to explore.md",
+    "Apps/Note taking",
+    "Activities/Clubs.md",
+    "Kanban/Learn 2 Teach Kanban.md",
+    "Kanban/Everything Kanban.md",
+    "Projects/Project Ideas.md",
+    "Activities/Conferences.md",
+    "Pasted image 20230802104440.png",
+    "Videos",
+    "Pasted image 20230714110450.png",
+    "Pasted image 20230514102922.png",
+    "Subjects/DVC/Design",
+    "Subjects/DVC",
+    "Subjects/Programming/Python",
+    "Subjects/Software Engineering",
+    "Education"
   ]
 }

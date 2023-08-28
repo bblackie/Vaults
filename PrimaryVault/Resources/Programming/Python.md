@@ -19,7 +19,12 @@ https://pythonprinciples.com/lessons/
 
 ## e-Books
 
-https://inventwithpython.com/
+
+
+[Python for Everybody](https://books.trinket.io/pfe/)
+
+
+[Invent with Python](https://inventwithpython.com/)
 Books relate to:
 - Python
 - Minecraft
@@ -37,7 +42,7 @@ Further:
 
 ## Exercises
 
-See [[Programming activites]]
+See [[Exercises]]
 
 
 [w3schools](https://www.w3schools.com/python/python_exercises.asp](https://www.w3schools.com/python/python_exercises.asp)

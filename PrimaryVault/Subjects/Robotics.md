@@ -1,9 +1,19 @@
+---
+type: note-type/braindump
+tags: [robotics, microbit, vex]
+---
+
+# BBC Micro:bit
+
+Tutorials:
+[Introducing Python & the micro:bit (thinkific.com)](https://microbit.thinkific.com/courses/introducing-python-micro-bit)
+
+
 
 
 # VEX
 
-
-# VEX IQ
+## VEX IQ
 
 
 ## Programming stack

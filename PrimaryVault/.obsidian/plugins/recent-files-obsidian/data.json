@@ -1,20 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Challenges & Competitions",
-      "path": "Activities/Challenges & Competitions.md"
-    },
-    {
-      "basename": "Projects",
-      "path": "Activities/Projects.md"
-    },
-    {
-      "basename": "Python",
-      "path": "Teach/Programming/Python.md"
-    },
-    {
-      "basename": "Flask",
-      "path": "Subjects/Programming/Flask.md"
+      "basename": "AI Tools",
+      "path": "Productivity/AI Tools.md"
     },
     {
       "basename": "Y12 Kanban",
@@ -25,112 +13,192 @@
       "path": "Kanban/Y13 Kanban.md"
     },
     {
-      "basename": "Learn 2 Teach Kanban",
-      "path": "Kanban/Learn 2 Teach Kanban.md"
+      "basename": "Python",
+      "path": "Teach/Programming/Python.md"
     },
     {
-      "basename": "NZC",
-      "path": "Education/NZC.md"
+      "basename": "Y11 Kanban",
+      "path": "Kanban/Y11 Kanban.md"
     },
     {
-      "basename": "AI",
-      "path": "Apps/AI.md"
+      "basename": "Y9 Kanban",
+      "path": "Kanban/Y9 Kanban.md"
     },
     {
-      "basename": "Create cool images",
-      "path": "Create/Create cool images.md"
+      "basename": "Y10 Kanban",
+      "path": "Kanban/Y10 Kanban.md"
     },
     {
-      "basename": "Untitled 8",
-      "path": "Untitled 8.md"
+      "basename": "Overview",
+      "path": "Subjects/Web Development/Overview.md"
     },
     {
-      "basename": "Unity",
-      "path": "Apps/Unity.md"
+      "basename": "Tools & Techniques",
+      "path": "Subjects/Web Development/Tools & Techniques.md"
     },
     {
-      "basename": "Inspiration",
-      "path": "Inspiration.md"
+      "basename": "Frontend web development",
+      "path": "Subjects/Web Development/Frontend web development.md"
     },
     {
-      "basename": "Apps to explore",
-      "path": "Apps/Apps to explore.md"
+      "basename": "To buy",
+      "path": "Books/To buy.md"
     },
     {
-      "basename": "GitHub",
-      "path": "Apps/GitHub.md"
+      "basename": "Challenges & Competitions",
+      "path": "Activities/Challenges & Competitions.md"
+    },
+    {
+      "basename": "Exercises",
+      "path": "Activities/Exercises.md"
+    },
+    {
+      "basename": "Programming activities",
+      "path": "Activities/Programming activities.md"
+    },
+    {
+      "basename": "Robotics",
+      "path": "Learn/Robotics.md"
+    },
+    {
+      "basename": "AI - Artificial Intelligence",
+      "path": "Lessons/AI - Artificial Intelligence.md"
+    },
+    {
+      "basename": "Camps",
+      "path": "Activities/Camps.md"
     },
     {
       "basename": "Python",
       "path": "Resources/Programming/Python.md"
     },
     {
-      "basename": "Python for Beginners - Learn Python in 1 Hour",
-      "path": "Tutorials/Python for Beginners - Learn Python in 1 Hour.md"
+      "basename": "Books",
+      "path": "Resources/Books.md"
     },
     {
-      "basename": "Programming activites",
-      "path": "Activities/Programming activites.md"
+      "basename": "IDEs",
+      "path": "Apps/IDEs/IDEs.md"
     },
     {
-      "basename": "Programming Projects",
-      "path": "Projects/Programming Projects.md"
+      "basename": "Notion",
+      "path": "Apps/Note taking/Notion.md"
     },
     {
-      "basename": "Version Control",
-      "path": "Teach/Programming/Version Control.md"
+      "basename": "Apps to explore",
+      "path": "Apps/Apps to explore.md"
     },
     {
-      "basename": "Exams",
-      "path": "Resources/Exams.md"
+      "basename": "Clubs",
+      "path": "Activities/Clubs.md"
     },
     {
-      "basename": "Explore",
-      "path": "Resources/Explore.md"
-    },
-    {
-      "basename": "Teacher Resources",
-      "path": "Resources/Teacher Resources.md"
-    },
-    {
-      "basename": "Natural Reader",
-      "path": "Apps/Natural Reader.md"
-    },
-    {
-      "basename": "Mobile Apps",
-      "path": "Apps/Mobile Apps.md"
-    },
-    {
-      "basename": "Design",
-      "path": "Apps/Design.md"
-    },
-    {
-      "basename": "Companies",
-      "path": "Domain/Companies.md"
-    },
-    {
-      "basename": "VSCode",
-      "path": "Apps/Microsoft/VSCode.md"
+      "basename": "Learn 2 Teach Kanban",
+      "path": "Kanban/Learn 2 Teach Kanban.md"
     },
     {
       "basename": "Everything Kanban",
       "path": "Kanban/Everything Kanban.md"
     },
     {
-      "basename": "PLD",
-      "path": "Teach/PLD/PLD.md"
+      "basename": "Project Ideas",
+      "path": "Projects/Project Ideas.md"
     },
     {
-      "basename": "The Movie Database (TMDB) API",
-      "path": "APIs/The Movie Database (TMDB) API.md"
+      "basename": "Conferences",
+      "path": "Activities/Conferences.md"
     },
     {
-      "basename": "Microsoft Education Stack",
-      "path": "Apps/Microsoft/Microsoft Education Stack.md"
+      "basename": "Teacher Resources",
+      "path": "Resources/Teacher Resources.md"
     },
     {
-      "basename": "Itch.io",
-      "path": "Apps/Itch.io.md"
+      "basename": "Video",
+      "path": "Resources/Web Design/Video.md"
+    },
+    {
+      "basename": "Images",
+      "path": "Resources/Web Design/Images.md"
+    },
+    {
+      "basename": "Audio",
+      "path": "Resources/Web Design/Audio.md"
+    },
+    {
+      "basename": "Spotify",
+      "path": "Apps/Spotify.md"
+    },
+    {
+      "basename": "AI",
+      "path": "Apps/AI.md"
+    },
+    {
+      "basename": "MS OneNote",
+      "path": "Apps/Microsoft/MS OneNote.md"
+    },
+    {
+      "basename": "Learning to Change-Changing to Learn",
+      "path": "Videos/Learning to Change-Changing to Learn.md"
+    },
+    {
+      "basename": "Essentials",
+      "path": "_quick/Essentials.md"
+    },
+    {
+      "basename": "New Video Template",
+      "path": "Templates/New Video Template.md"
+    },
+    {
+      "basename": "New Article Template",
+      "path": "Templates/New Article Template.md"
+    },
+    {
+      "basename": "Future of education",
+      "path": "Teach/Future of education.md"
+    },
+    {
+      "basename": "Deep Learning",
+      "path": "Deep Learning.md"
+    },
+    {
+      "basename": "Accelerated Learning",
+      "path": "Productivity/Accelerated Learning.md"
+    },
+    {
+      "basename": "DevOps",
+      "path": "Subjects/Systems Engineering/DevOps.md"
+    },
+    {
+      "basename": "Activities",
+      "path": "Activities/Activities.md"
+    },
+    {
+      "basename": "JavaScript",
+      "path": "Subjects/Programming/JavaScript.md"
+    },
+    {
+      "basename": "Programming Projects",
+      "path": "Projects/Programming Projects.md"
+    },
+    {
+      "basename": "Books",
+      "path": "Books/Books.md"
+    },
+    {
+      "basename": "2023-07-08",
+      "path": "Journal/2023-07-08.md"
+    },
+    {
+      "basename": "code.org",
+      "path": "Apps/code.org.md"
+    },
+    {
+      "basename": "Hosting",
+      "path": "Tools/Hosting.md"
+    },
+    {
+      "basename": "DVC",
+      "path": "Tools/DVC.md"
     }
   ],
   "omittedPaths": [],
