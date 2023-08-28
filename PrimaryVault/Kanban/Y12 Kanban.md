@@ -25,6 +25,7 @@ kanban-plugin: basic
 
 - [ ] Internal Moderation<br>---<br>- [ ] Prepare for moderation<br>- [ ] 1 Sep DEADLINE but can submit earlier!<br>- [ ] DO internal moderations 1st
 - [ ] Course selection<br>---<br>- [ ] Update spread with student course selection<br>- [ ] Prepare for demo of exemplars
+- [ ] AS Clarification<br>---<br>- [ ] Define each design convention
 
 
 ## Completed

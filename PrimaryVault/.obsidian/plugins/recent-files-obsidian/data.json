@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Learn 2 Teach Kanban",
-      "path": "Kanban/Learn 2 Teach Kanban.md"
+      "basename": "Challenges & Competitions",
+      "path": "Activities/Challenges & Competitions.md"
     },
     {
-      "basename": "NZC",
-      "path": "Education/NZC.md"
+      "basename": "Projects",
+      "path": "Activities/Projects.md"
     },
     {
       "basename": "Python",
@@ -15,6 +15,22 @@
     {
       "basename": "Flask",
       "path": "Subjects/Programming/Flask.md"
+    },
+    {
+      "basename": "Y12 Kanban",
+      "path": "Kanban/Y12 Kanban.md"
+    },
+    {
+      "basename": "Y13 Kanban",
+      "path": "Kanban/Y13 Kanban.md"
+    },
+    {
+      "basename": "Learn 2 Teach Kanban",
+      "path": "Kanban/Learn 2 Teach Kanban.md"
+    },
+    {
+      "basename": "NZC",
+      "path": "Education/NZC.md"
     },
     {
       "basename": "AI",
@@ -57,20 +73,12 @@
       "path": "Activities/Programming activites.md"
     },
     {
-      "basename": "Challenges & Competitions",
-      "path": "Activities/Challenges & Competitions.md"
-    },
-    {
       "basename": "Programming Projects",
       "path": "Projects/Programming Projects.md"
     },
     {
       "basename": "Version Control",
       "path": "Teach/Programming/Version Control.md"
-    },
-    {
-      "basename": "Y12 Kanban",
-      "path": "Kanban/Y12 Kanban.md"
     },
     {
       "basename": "Exams",
@@ -83,10 +91,6 @@
     {
       "basename": "Teacher Resources",
       "path": "Resources/Teacher Resources.md"
-    },
-    {
-      "basename": "Y13 Kanban",
-      "path": "Kanban/Y13 Kanban.md"
     },
     {
       "basename": "Natural Reader",

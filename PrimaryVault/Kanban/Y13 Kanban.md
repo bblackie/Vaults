@@ -25,6 +25,8 @@ kanban-plugin: basic
 
 ## In progress
 
+- [ ] Check Postman and OpenWeatherMap
+- [ ] Review who is doing what AS and look to extend project deadline to match work done.
 
 
 ## Done

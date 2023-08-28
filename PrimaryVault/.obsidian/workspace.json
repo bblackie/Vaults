@@ -11,9 +11,11 @@
             "id": "913787715f164bed",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban/Learn 2 Teach Kanban.md"
+                "file": "Activities/Challenges & Competitions.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -54,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "flask",
+                "query": "hack",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,9 +72,17 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "0e62cea8aad2a7e6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -100,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/Learn 2 Teach Kanban.md",
+                "file": "Activities/Challenges & Competitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban/Learn 2 Teach Kanban.md",
+                "file": "Activities/Challenges & Competitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban/Learn 2 Teach Kanban.md"
+                "file": "Activities/Challenges & Competitions.md"
               }
             }
           }
@@ -165,11 +175,14 @@
   },
   "active": "913787715f164bed",
   "lastOpenFiles": [
-    "Education/NZC.md",
-    "Kanban/Learn 2 Teach Kanban.md",
-    "Education",
+    "Activities/Projects.md",
     "Teach/Programming/Python.md",
     "Subjects/Programming/Flask.md",
+    "Kanban/Y12 Kanban.md",
+    "Kanban/Y13 Kanban.md",
+    "Kanban/Learn 2 Teach Kanban.md",
+    "Education/NZC.md",
+    "Education",
     "Subjects/Web Development/Tools & Techniques.md",
     "Subjects/Web Development/Frontend web development.md",
     "Subjects/Web Development",
@@ -193,9 +206,6 @@
     "Journal/2023-02-24.md",
     "Apps/code.org.md",
     "Apps/Repl.it.md",
-    "Apps/Microsoft/MS Outlook.md",
-    "Activities/Projects.md",
-    "Activities/Programming activities.md",
     "Subjects/Programming",
     "Untitled",
     "Subjects",
