@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Productivity/AI Tools.md",
+                "file": "Subjects/Computer Science/AI/Intro to AI - elementsofai.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Productivity/AI Tools.md",
+                "file": "Subjects/Computer Science/AI/Intro to AI - elementsofai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Productivity/AI Tools.md",
+                "file": "Subjects/Computer Science/AI/Intro to AI - elementsofai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Productivity/AI Tools.md"
+                "file": "Subjects/Computer Science/AI/Intro to AI - elementsofai.md"
               }
             }
           }
@@ -175,6 +175,11 @@
   },
   "active": "9d2001692706d559",
   "lastOpenFiles": [
+    "url-to-image-here.md",
+    "Subjects/Computer Science/AI/Intro to AI - elementsofai.md",
+    "Subjects/Computer Science/AI/AI (Artificial Intelligence).md",
+    "Subjects/Computer Science/AI",
+    "Productivity/AI Tools.md",
     "Kanban/Y12 Kanban.md",
     "Kanban/Y13 Kanban.md",
     "Teach/Programming/Python.md",
@@ -201,10 +206,6 @@
     "Apps/Apps to explore.md",
     "Apps/Note taking",
     "Activities/Clubs.md",
-    "Kanban/Learn 2 Teach Kanban.md",
-    "Kanban/Everything Kanban.md",
-    "Projects/Project Ideas.md",
-    "Activities/Conferences.md",
     "Pasted image 20230802104440.png",
     "Videos",
     "Pasted image 20230714110450.png",
@@ -212,7 +213,6 @@
     "Subjects/DVC/Design",
     "Subjects/DVC",
     "Subjects/Programming/Python",
-    "Subjects/Software Engineering",
-    "Education"
+    "Subjects/Software Engineering"
   ]
 }

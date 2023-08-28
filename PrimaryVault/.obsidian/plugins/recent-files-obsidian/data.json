@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Intro to AI - elementsofai",
+      "path": "Subjects/Computer Science/AI/Intro to AI - elementsofai.md"
+    },
+    {
+      "basename": "url-to-image-here",
+      "path": "url-to-image-here.md"
+    },
+    {
+      "basename": "AI (Artificial Intelligence)",
+      "path": "Subjects/Computer Science/AI/AI (Artificial Intelligence).md"
+    },
+    {
       "basename": "AI Tools",
       "path": "Productivity/AI Tools.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "2023-07-08",
       "path": "Journal/2023-07-08.md"
-    },
-    {
-      "basename": "code.org",
-      "path": "Apps/code.org.md"
-    },
-    {
-      "basename": "Hosting",
-      "path": "Tools/Hosting.md"
-    },
-    {
-      "basename": "DVC",
-      "path": "Tools/DVC.md"
     }
   ],
   "omittedPaths": [],
