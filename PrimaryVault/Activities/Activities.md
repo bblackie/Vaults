@@ -2,6 +2,15 @@
 Type: braindump
 Tags: [activities, note-type/braindump]
 ---
+
+# Ideas
+
+Napkins challenge
+
+Unusual competitions like the ‘Napkin Challenge’ (best idea on back of a napkin wins)
+
+
+
 # Subject specific
 
 ## Computer Science

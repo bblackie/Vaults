@@ -28,6 +28,7 @@ kanban-plugin: basic
 
 - [ ] Van maintenance<br>---<br>+ [ ] Update diary<br>+ [ ] Book WOF
 - [ ] Teaching Prep<br>---<br>See [[Learn 2 Teach Kanban]]
+- [ ] TODO<br>---<br>- [ ] Update insurance policy for new address: Recently moved house or got a new car?<br><br> Give us a call on 0800 80 24 24 and we'll get your policies updated
 
 
 ## DONE

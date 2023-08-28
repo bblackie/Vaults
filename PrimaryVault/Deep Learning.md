@@ -1,5 +1,5 @@
 ---
-tags: [deep-learning, AI]
+tags: [Subjects/Computer-Science, Topics/Deep-Learning, Topics/AI]
 ---
 
 # Resources

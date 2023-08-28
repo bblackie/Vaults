@@ -14,20 +14,23 @@ kanban-plugin: basic
 
 ## Committed
 
-- [ ] Explore Code Avengers<br>---<br>- [ ] Check access
-- [ ] Check timetable for when rotation starts
+- [ ] Explore Code.Org<br>---<br>- [ ] Check Unit 2 - Web Dev
+- [ ] Explore Raspberry Pi Foundation<br>---<br>- [ ] Check downloaded KS3 lessons
 
 
 ## In progress
 
-- [ ] Where Minecraft workshops sit in schedule
-- [ ] Review CA materials for clues
-- [ ] Scope CA modules with times and rough plan
+- [ ] Game design<br>---<br>- [x] Use Ozaria for prep<br>- [x] Plan for Game Jam<br>- [ ] Use CA Javascript 0 to follow
 
 
 ## Completed
 
+- [ ] Explore Code Avengers<br>---<br>- [x] Check access
+- [ ] Review CA materials for clues
 - [ ] What next?<br>---<br>- [ ] 3 weeks left
+- [ ] Scope CA modules with times and rough plan
+- [ ] Check timetable for when rotation starts
+- [ ] Where Minecraft workshops sit in schedule
 
 
 

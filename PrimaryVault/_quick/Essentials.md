@@ -15,4 +15,7 @@ brian.blackie
 
 ##### Heading 5
 
-ddd
+# Howto
+
+[CTRL]+P  - Open command panel 
+

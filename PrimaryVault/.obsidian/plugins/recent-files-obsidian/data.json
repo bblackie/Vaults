@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "Python",
-      "path": "Teach/Programming/Python.md"
-    },
-    {
-      "basename": "Challenges & Competitions",
-      "path": "Activities/Challenges & Competitions.md"
-    },
-    {
-      "basename": "Source Control",
-      "path": "Subjects/Programming/Source Control.md"
-    },
-    {
-      "basename": "Flask",
-      "path": "Subjects/Programming/Flask.md"
-    },
-    {
-      "basename": "Python",
-      "path": "Subjects/Programming/Python/Python.md"
-    },
-    {
-      "basename": "MS OneNote",
-      "path": "Apps/Microsoft/MS OneNote.md"
-    },
-    {
-      "basename": "Learn 2 Teach Kanban",
-      "path": "Kanban/Learn 2 Teach Kanban.md"
-    },
-    {
-      "basename": "Game Development",
-      "path": "Tools/Game Development.md"
-    },
-    {
-      "basename": "code.org",
-      "path": "Apps/code.org.md"
-    },
-    {
-      "basename": "Y13 Kanban",
-      "path": "Kanban/Y13 Kanban.md"
-    },
-    {
-      "basename": "MS Word",
-      "path": "Apps/Microsoft/MS Word.md"
-    },
-    {
-      "basename": "Y9 Kanban",
-      "path": "Kanban/Y9 Kanban.md"
-    },
-    {
-      "basename": "Visual Studio Code (VSCode)",
-      "path": "Apps/Visual Studio Code (VSCode).md"
-    },
-    {
-      "basename": "Tutorials",
-      "path": "Subjects/DVC/Design/Tutorials.md"
-    },
-    {
-      "basename": "Y11 Kanban",
-      "path": "Kanban/Y11 Kanban.md"
-    },
-    {
-      "basename": "Solution Design",
-      "path": "Subjects/Programming/Python/Solution Design.md"
+      "basename": "AI Tools",
+      "path": "Productivity/AI Tools.md"
     },
     {
       "basename": "Y12 Kanban",
       "path": "Kanban/Y12 Kanban.md"
     },
     {
-      "basename": "Software Architecture",
-      "path": "Subjects/Software Engineering/Software Architecture.md"
+      "basename": "Y13 Kanban",
+      "path": "Kanban/Y13 Kanban.md"
     },
     {
-      "basename": "Systems Engineering",
-      "path": "Subjects/Systems Engineering/Systems Engineering.md"
+      "basename": "Python",
+      "path": "Teach/Programming/Python.md"
     },
     {
-      "basename": "Design Patterns",
-      "path": "Subjects/Software Engineering/Design Patterns.md"
+      "basename": "Y11 Kanban",
+      "path": "Kanban/Y11 Kanban.md"
     },
     {
-      "basename": "MS Windows",
-      "path": "Apps/Microsoft/MS Windows.md"
-    },
-    {
-      "basename": "Robotics",
-      "path": "Subjects/Robotics.md"
-    },
-    {
-      "basename": "Learn maths",
-      "path": "Learn/Learn maths.md"
-    },
-    {
-      "basename": "Unity",
-      "path": "Apps/Unity.md"
+      "basename": "Y9 Kanban",
+      "path": "Kanban/Y9 Kanban.md"
     },
     {
       "basename": "Y10 Kanban",
       "path": "Kanban/Y10 Kanban.md"
     },
     {
-      "basename": "2023-04-26",
-      "path": "Journal/2023-04-26.md"
+      "basename": "Overview",
+      "path": "Subjects/Web Development/Overview.md"
     },
     {
       "basename": "Tools & Techniques",
       "path": "Subjects/Web Development/Tools & Techniques.md"
     },
     {
-      "basename": "Apps to explore",
-      "path": "Apps/Apps to explore.md"
+      "basename": "Frontend web development",
+      "path": "Subjects/Web Development/Frontend web development.md"
     },
     {
-      "basename": "Career Activties",
-      "path": "Pathways/Career Activties.md"
+      "basename": "To buy",
+      "path": "Books/To buy.md"
     },
     {
-      "basename": "AI (Artificial Intelligence)",
-      "path": "Subjects/Computer Science/AI (Artificial Intelligence).md"
+      "basename": "Challenges & Competitions",
+      "path": "Activities/Challenges & Competitions.md"
     },
     {
-      "basename": "Teacher Resources",
-      "path": "Resources/Teacher Resources.md"
-    },
-    {
-      "basename": "Images",
-      "path": "Resources/Web Design/Images.md"
-    },
-    {
-      "basename": "Communication",
-      "path": "Subjects/Communication.md"
-    },
-    {
-      "basename": "MS Outlook",
-      "path": "Apps/Microsoft/MS Outlook.md"
-    },
-    {
-      "basename": "Daily Note Template",
-      "path": "Templates/Daily Note Template.md"
-    },
-    {
-      "basename": "Python",
-      "path": "Resources/Programming/Python.md"
+      "basename": "Exercises",
+      "path": "Activities/Exercises.md"
     },
     {
       "basename": "Programming activities",
       "path": "Activities/Programming activities.md"
     },
     {
-      "basename": "Hour of Code",
-      "path": "Activities/Hour of Code.md"
-    },
-    {
-      "basename": "Activities",
-      "path": "Activities/Activities.md"
-    },
-    {
-      "basename": "Games",
-      "path": "Activities/Games.md"
-    },
-    {
-      "basename": "Windows 10",
-      "path": "My computers/Windows 10.md"
-    },
-    {
-      "basename": "Wairarapa Adventure",
-      "path": "Timeout/Wairarapa Adventure.md"
-    },
-    {
-      "basename": "Online Courses",
-      "path": "Courses/Online Courses.md"
-    },
-    {
-      "basename": "My Health",
-      "path": "Journal/My Health.md"
-    },
-    {
       "basename": "Robotics",
       "path": "Learn/Robotics.md"
+    },
+    {
+      "basename": "AI - Artificial Intelligence",
+      "path": "Lessons/AI - Artificial Intelligence.md"
+    },
+    {
+      "basename": "Camps",
+      "path": "Activities/Camps.md"
+    },
+    {
+      "basename": "Python",
+      "path": "Resources/Programming/Python.md"
+    },
+    {
+      "basename": "Books",
+      "path": "Resources/Books.md"
+    },
+    {
+      "basename": "IDEs",
+      "path": "Apps/IDEs/IDEs.md"
+    },
+    {
+      "basename": "Notion",
+      "path": "Apps/Note taking/Notion.md"
+    },
+    {
+      "basename": "Apps to explore",
+      "path": "Apps/Apps to explore.md"
+    },
+    {
+      "basename": "Clubs",
+      "path": "Activities/Clubs.md"
+    },
+    {
+      "basename": "Learn 2 Teach Kanban",
+      "path": "Kanban/Learn 2 Teach Kanban.md"
+    },
+    {
+      "basename": "Everything Kanban",
+      "path": "Kanban/Everything Kanban.md"
     },
     {
       "basename": "Project Ideas",
       "path": "Projects/Project Ideas.md"
     },
     {
-      "basename": "Electronics",
-      "path": "Learn/Electronics.md"
+      "basename": "Conferences",
+      "path": "Activities/Conferences.md"
     },
     {
-      "basename": "Pseudo-code",
-      "path": "Lessons/Programming/Pseudo-code.md"
+      "basename": "Teacher Resources",
+      "path": "Resources/Teacher Resources.md"
     },
     {
-      "basename": "Flow-chart",
-      "path": "Lessons/Programming/Flow-chart.md"
+      "basename": "Video",
+      "path": "Resources/Web Design/Video.md"
     },
     {
-      "basename": "Repl.it",
-      "path": "Apps/Repl.it.md"
+      "basename": "Images",
+      "path": "Resources/Web Design/Images.md"
+    },
+    {
+      "basename": "Audio",
+      "path": "Resources/Web Design/Audio.md"
+    },
+    {
+      "basename": "Spotify",
+      "path": "Apps/Spotify.md"
+    },
+    {
+      "basename": "AI",
+      "path": "Apps/AI.md"
+    },
+    {
+      "basename": "MS OneNote",
+      "path": "Apps/Microsoft/MS OneNote.md"
+    },
+    {
+      "basename": "Learning to Change-Changing to Learn",
+      "path": "Videos/Learning to Change-Changing to Learn.md"
+    },
+    {
+      "basename": "Essentials",
+      "path": "_quick/Essentials.md"
+    },
+    {
+      "basename": "New Video Template",
+      "path": "Templates/New Video Template.md"
+    },
+    {
+      "basename": "New Article Template",
+      "path": "Templates/New Article Template.md"
+    },
+    {
+      "basename": "Future of education",
+      "path": "Teach/Future of education.md"
+    },
+    {
+      "basename": "Deep Learning",
+      "path": "Deep Learning.md"
+    },
+    {
+      "basename": "Accelerated Learning",
+      "path": "Productivity/Accelerated Learning.md"
+    },
+    {
+      "basename": "DevOps",
+      "path": "Subjects/Systems Engineering/DevOps.md"
+    },
+    {
+      "basename": "Activities",
+      "path": "Activities/Activities.md"
+    },
+    {
+      "basename": "JavaScript",
+      "path": "Subjects/Programming/JavaScript.md"
+    },
+    {
+      "basename": "Programming Projects",
+      "path": "Projects/Programming Projects.md"
+    },
+    {
+      "basename": "Books",
+      "path": "Books/Books.md"
+    },
+    {
+      "basename": "2023-07-08",
+      "path": "Journal/2023-07-08.md"
+    },
+    {
+      "basename": "code.org",
+      "path": "Apps/code.org.md"
+    },
+    {
+      "basename": "Hosting",
+      "path": "Tools/Hosting.md"
+    },
+    {
+      "basename": "DVC",
+      "path": "Tools/DVC.md"
     }
   ],
   "omittedPaths": [],

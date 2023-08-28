@@ -1,7 +1,7 @@
 
 ---
 type: listing
-tags: [programming/javascript, programming/react, programming/typescript, programming/python]
+tags: [Programming/JavaScript, Programming/ReactJS, Programming/TypeScript, Programming/Python]
 ---
 
 

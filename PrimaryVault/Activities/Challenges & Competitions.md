@@ -3,6 +3,34 @@ Type: listing
 Tags: [activity/challenge, activity/competition, activity/code-jam, NZC/CTDT, activity/event]
 ---
 
+# Inspiration
+
+[The Webby Awards](https://www.webbyawards.com/)
+
+
+# Competitions
+
+
+##### INTERFACE Competitions
+https://interfaceonline.co.nz/competitions/
+
+Uber Global Hackathon
+https://www.uberglobalhackathon.org/
+Categories:
+- Coding
+- Data Analytics
+
+##### Kaggle
+https://www.kaggle.com/competitions
+Grow your data science skills by competing in our exciting competitions.
+
+Walk-through Solutions
+[Kaggle Competition Solutions by Aladdin Persson](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxkVb3Yx4mjLdwMWP5S_Hct)
+
+
+
+
+
 # Programmes
 
 [[Challenges & Competitions#Evolcity]]
@@ -47,8 +75,28 @@ The NZOI’s goals are to:
 	- The IOI (International Olympiad in Informatics) is the foremost high school programming contest in the world.- To foster informatics and programming in high schools across New Zealand.
 Training - https://train.nzoi.org.nz/
 
+***More...***
+NZIC is an online programming competition run on our training website [https://train.nzoi.org.nz/](https://nzacditt.mobilize.io/links?url=https%3A%2F%2Ftrain.nzoi.org.nz%2F&lid=ot-nZ7N7XHFvZfVPsV-wPw). You work individually with access only to your programming language documentation, the contest site, and a calculator. There will be around 4 problems of varying difficulty. You have 3 hours to earn as many points as you can by either solving problems or coming up with partial solutions. For a taste of the action, create an account on [https://train.nzoi.org.nz/](https://nzacditt.mobilize.io/links?url=https%3A%2F%2Ftrain.nzoi.org.nz%2F&lid=ot-nZ7N7XHFvZfVPsV-wPw) and have a go at some of the past problems on the home screen. Start with one of the language specific problems then try the NZIC Practice problems.
+
+Available languages: Python 3, C++, C, C#, JavaScript (V8), Java 11, Ruby 2.2, and Haskell 2010.
+
+In each contest there should be a problem aimed at students who have just learned Python in school, as well as something more difficult for those more advanced. The goal of these rounds is not necessarily to complete all the questions, but rather to have a go and see what you can do. Questions have sub-tasks that give you partial marks, so even getting some of those is an achievement. At the end of the day it is about having fun.
+
+When you compete in the NZIC, there is a possibility you could be invited to join us for our [January informatics camp](https://nzacditt.mobilize.io/links?url=https%3A%2F%2Fwww.nzoi.org.nz%2Findex.html%23camp&lid=ot-nZ7N7XHFvZfVPsV-wPw)! For those interested, more signup information for camp will be released after round 3. Our camp has different streams depending on your ability.
+
+Contact your teacher now. Get registered. Organise a time and room for your school to compete in the NZIC. Tell your friends! If you cannot do it at school, home is fine too. Just make sure to read the rules and be a good sport.
+
+After each competition, solutions for all problems will be posted on the NZIC website. In the meantime, check out the solutions and results for past competitions at [https://www.nzoi.org.nz/nzic/past/](https://nzacditt.mobilize.io/links?url=https%3A%2F%2Fwww.nzoi.org.nz%2Fnzic%2Fpast%2F&lid=ot-nZ7N7XHFvZfVPsV-wPw)
+
+For rules, FAQ, resources, and more information, check out the NZIC website at [https://www.nzoi.org.nz/nzic/](https://nzacditt.mobilize.io/links?url=https%3A%2F%2Fwww.nzoi.org.nz%2Fnzic%2F&lid=ot-nZ7N7XHFvZfVPsV-wPw)
+
+
+
 
 - Tahi Rua Toru Tech
+
+# Contests
+
 
 
 # Challenges
@@ -63,7 +111,16 @@ https://dofehillary.org.nz/
 
 ## Gardening
 
+### NZ Programming Contest
 
+The NZPC is an annual contest, usually held in August or September, and open to all programmers in New Zealand. Teams from outside New Zealand may usually enter the ANZAC League which runs at the same time and uses the same problem set.
+
+The contest is for teams of up to 3 contestants who have 5 hours to solve problems on a single computer.
+
+To solve a problem, a team must write a solution in one of the available languages (usually C#, C++, Java and Python) and submit it to the automatic judging system. If this solution gives the same output to all test cases as does the judge’s solution, then the problem is considered solved.
+
+Pricing: FREE if entering online
+[Contest categories | New Zealand Programming Contest (nzprogcontest.org.nz)](https://nzprogcontest.org.nz/categories/)
 
 ## Science and Engineering
 
@@ -115,6 +172,19 @@ Codewars
 
 Accounts:
 	Githut auth: bblackie
+
+
+# Robotics
+
+#### Robocup Junior
+
+[RoboCupJunior (RCJ)](https://junior.robocup.org/)
+A project-oriented educational initiative that sponsors local, regional and international robotic events for young students up through age 19.
+
+[Robocup Junior New Zealand](https://sites.google.com/view/robocupjuniornewzealand/home)
+
+
+
 
 
 
