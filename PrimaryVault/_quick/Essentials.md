@@ -5,6 +5,9 @@ brian.blackie
 
 
 
+
+
+
 # Styles
 
 ## Heading 2
@@ -19,3 +22,7 @@ brian.blackie
 
 [CTRL]+P  - Open command panel 
 
+
+
+
+https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax

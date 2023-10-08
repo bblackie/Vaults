@@ -8,7 +8,7 @@
 - Can we remember everything?
 - How to capture throughts, ideas, info for later?
 	- Use a note-taking app
-		- [[Obsidian]]
+		- [[Apps/Note taking/Obsidian]]
 		- Notion
 		- etc
 

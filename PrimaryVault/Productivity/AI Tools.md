@@ -67,6 +67,11 @@ Use for:  Chat
 #### Adobe Podcast
 [Enhance Speech from Adobe | Free AI filter for cleaning up spoken audio](https://podcast.adobe.com/enhance)
 
+### To explore
+
+vectorize them using vectorizer. ai
+
+
 ## Chat
 
 #### Perplexity
@@ -74,7 +79,25 @@ Use for:  Chat
 Model: GPT-3 (Pro provides GPT-4)
 
 
+## Image Generation
 
+
+
+#### DALL-E 
+#AI-Tools/Dall-E
+
+#### Stable Diffusion
+#AI-Tools/Stable-Diffusion
+***Exploration:***
+[How to Run Stable Diffusion](https://www.datacamp.com/tutorial/how-to-run-stable-diffusion).
+#### Midjourney
+#AI-Tools/Midjourney 
+Exploration:
+[How to Use Midjourney: A Comprehensive Guide to AI-Generated Artwork Creation](https://www.datacamp.com/tutorial/how-to-use-midjourney-a-comprehensive-guide-to-ai-generated-artwork-creation)
+[Midjourney AI Prompt Tips for Teachers: guide for beginners](https://www.youtube.com/watch?v=TfYBUPhojUQ)
+***Pricing:***
+https://docs.midjourney.com/docs/plans
+Basic: $10USD per month
 ## Image Post-Production
 
 #### Upscale.media
@@ -86,6 +109,9 @@ Pricing: FREEmium
 #### remove bg
 [Remove Background from Image for Free – remove.bg](https://www.remove.bg/)
 Remove image background
+
+- Try Clipdrop to remove the background for free.
+
 
 
 
@@ -168,34 +194,3 @@ https://bard.google.com/
 #### Gradescope
 https://turnitin.gradescope.com/pricing
 Pricing: Basic plan is FREE
-# Prompts
-
-
-
-Understand the power of body language. Prompt: Discuss the importance of body language in communication. Guide me through a role-play where I need to convey confidence and positivity through body language in [specific situation].
-
-Master decision-making under pressure. Prompt: Outline strategies for making good decisions under pressure. Demonstrate these using a scenario where I need to make a crucial decision in a [high-pressure context].
-
-Enhance active listening skills. Prompt: Outline the techniques for effective active listening. Demonstrate how to use these techniques in a scenario where I'm engaging in a conversation with [individual/group] about [topic].
-
-Apply critical thinking to decision making. Prompt: Explain the importance of critical thinking in decision making. Demonstrate this using a case where I need to decide on [specific issue/decision].
-
-Understand emotional intelligence. Prompt: Elucidate the principles of emotional intelligence. Apply them to a situation where I need to manage my emotions and reactions while dealing with [specific situation/person].
-
-Improve time management. Prompt: Discuss effective time management strategies and their benefits. Help me create a weekly schedule optimized for productivity around [specific activities/tasks].
-
-Boost your creativity. Prompt: Share techniques to enhance creativity. Demonstrate how I can apply these techniques when brainstorming ideas for [specific project/task].
-
-Increase productivity with technology. Prompt: Present ways to leverage technology for productivity. Help me choose and implement relevant apps/tools for enhancing productivity in my [work/study/hobbies]
-
-Master the art of delegation. Prompt: Explain the principles of effective delegation. Simulate a scenario where I have to delegate tasks to [team/individual] for the project [describe project].
-
-Become a more strategic thinker. Prompt: Present the principles of strategic thinking and apply them to a scenario where I need to make a major decision in [context/business/life]. Detail potential outcomes of different strategic choices.
-
-
-## As a professor
-
-'''Data analytics'''
-Prompt:  Act as a Berkeley data science professor and provide new students with a 10 week plan to learn python for data science and data analysis.  Students don't have any background in coding and time is limited.  Include resources and links for learning so students can learn their own time when not in class.
-Follow-up:  Add more details to project requirements so it's clear for students
-Takeaway follow-up:  Create resume bullet points for all these projects

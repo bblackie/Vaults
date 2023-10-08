@@ -4,6 +4,8 @@ tags: programming/python
 
 # Basics
 
+
+
 ## Vritual Environments
 
 

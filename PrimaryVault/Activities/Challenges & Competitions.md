@@ -2,6 +2,13 @@
 Type: listing
 Tags: [activity/challenge, activity/competition, activity/code-jam, NZC/CTDT, activity/event]
 ---
+# Latest
+
+https://www.samsung.com/nz/solvefortomorrow/
+
+
+
+
 
 # Inspiration
 

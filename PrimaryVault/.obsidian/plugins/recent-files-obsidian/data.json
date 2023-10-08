@@ -1,20 +1,116 @@
 {
   "recentFiles": [
     {
-      "basename": "Intro to AI - elementsofai",
-      "path": "Subjects/Computer Science/AI/Intro to AI - elementsofai.md"
+      "basename": "test",
+      "path": "Productivity/test.md"
     },
     {
-      "basename": "url-to-image-here",
-      "path": "url-to-image-here.md"
+      "basename": "Midjourney",
+      "path": "Productivity/Midjourney.md"
     },
     {
-      "basename": "AI (Artificial Intelligence)",
-      "path": "Subjects/Computer Science/AI/AI (Artificial Intelligence).md"
+      "basename": "ChatGPT",
+      "path": "Productivity/ChatGPT.md"
     },
     {
       "basename": "AI Tools",
       "path": "Productivity/AI Tools.md"
+    },
+    {
+      "basename": "To buy",
+      "path": "Books/To buy.md"
+    },
+    {
+      "basename": "Books",
+      "path": "Books/Books.md"
+    },
+    {
+      "basename": "Integration platforms",
+      "path": "Note taking/Integrations/Integration platforms.md"
+    },
+    {
+      "basename": "Python",
+      "path": "Teach/Programming/Python.md"
+    },
+    {
+      "basename": "Learning resources",
+      "path": "Resources/Learning resources.md"
+    },
+    {
+      "basename": "Online Courses",
+      "path": "Courses/Online Courses.md"
+    },
+    {
+      "basename": "Python",
+      "path": "Resources/Programming/Python.md"
+    },
+    {
+      "basename": "Programming resources",
+      "path": "Resources/Programming/Programming resources.md"
+    },
+    {
+      "basename": "Explore",
+      "path": "Resources/Explore.md"
+    },
+    {
+      "basename": "Hour of Code",
+      "path": "Activities/Hour of Code.md"
+    },
+    {
+      "basename": "Programming activities",
+      "path": "Activities/Programming activities.md"
+    },
+    {
+      "basename": "Activities",
+      "path": "Activities/Activities.md"
+    },
+    {
+      "basename": "Challenges & Competitions",
+      "path": "Activities/Challenges & Competitions.md"
+    },
+    {
+      "basename": "Exercises",
+      "path": "Activities/Exercises.md"
+    },
+    {
+      "basename": "Quizzes",
+      "path": "Activities/Quizzes.md"
+    },
+    {
+      "basename": "Projects",
+      "path": "Activities/Projects.md"
+    },
+    {
+      "basename": "Miscel resources",
+      "path": "Resources/Miscel/Miscel resources.md"
+    },
+    {
+      "basename": "Midjourney",
+      "path": "Apps/AI/Midjourney.md"
+    },
+    {
+      "basename": "ChatGPT-4",
+      "path": "Apps/AI/ChatGPT-4.md"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "_quick/Obsidian.md"
+    },
+    {
+      "basename": "Essentials",
+      "path": "_quick/Essentials.md"
+    },
+    {
+      "basename": "AI",
+      "path": "Apps/AI/AI.md"
+    },
+    {
+      "basename": "Note taking techniques",
+      "path": "Note taking/Note taking techniques.md"
+    },
+    {
+      "basename": "Intro to AI - elementsofai",
+      "path": "Subjects/Computer Science/AI/Intro to AI - elementsofai.md"
     },
     {
       "basename": "Y12 Kanban",
@@ -23,10 +119,6 @@
     {
       "basename": "Y13 Kanban",
       "path": "Kanban/Y13 Kanban.md"
-    },
-    {
-      "basename": "Python",
-      "path": "Teach/Programming/Python.md"
     },
     {
       "basename": "Y11 Kanban",
@@ -53,22 +145,6 @@
       "path": "Subjects/Web Development/Frontend web development.md"
     },
     {
-      "basename": "To buy",
-      "path": "Books/To buy.md"
-    },
-    {
-      "basename": "Challenges & Competitions",
-      "path": "Activities/Challenges & Competitions.md"
-    },
-    {
-      "basename": "Exercises",
-      "path": "Activities/Exercises.md"
-    },
-    {
-      "basename": "Programming activities",
-      "path": "Activities/Programming activities.md"
-    },
-    {
       "basename": "Robotics",
       "path": "Learn/Robotics.md"
     },
@@ -79,10 +155,6 @@
     {
       "basename": "Camps",
       "path": "Activities/Camps.md"
-    },
-    {
-      "basename": "Python",
-      "path": "Resources/Programming/Python.md"
     },
     {
       "basename": "Books",
@@ -127,78 +199,6 @@
     {
       "basename": "Video",
       "path": "Resources/Web Design/Video.md"
-    },
-    {
-      "basename": "Images",
-      "path": "Resources/Web Design/Images.md"
-    },
-    {
-      "basename": "Audio",
-      "path": "Resources/Web Design/Audio.md"
-    },
-    {
-      "basename": "Spotify",
-      "path": "Apps/Spotify.md"
-    },
-    {
-      "basename": "AI",
-      "path": "Apps/AI.md"
-    },
-    {
-      "basename": "MS OneNote",
-      "path": "Apps/Microsoft/MS OneNote.md"
-    },
-    {
-      "basename": "Learning to Change-Changing to Learn",
-      "path": "Videos/Learning to Change-Changing to Learn.md"
-    },
-    {
-      "basename": "Essentials",
-      "path": "_quick/Essentials.md"
-    },
-    {
-      "basename": "New Video Template",
-      "path": "Templates/New Video Template.md"
-    },
-    {
-      "basename": "New Article Template",
-      "path": "Templates/New Article Template.md"
-    },
-    {
-      "basename": "Future of education",
-      "path": "Teach/Future of education.md"
-    },
-    {
-      "basename": "Deep Learning",
-      "path": "Deep Learning.md"
-    },
-    {
-      "basename": "Accelerated Learning",
-      "path": "Productivity/Accelerated Learning.md"
-    },
-    {
-      "basename": "DevOps",
-      "path": "Subjects/Systems Engineering/DevOps.md"
-    },
-    {
-      "basename": "Activities",
-      "path": "Activities/Activities.md"
-    },
-    {
-      "basename": "JavaScript",
-      "path": "Subjects/Programming/JavaScript.md"
-    },
-    {
-      "basename": "Programming Projects",
-      "path": "Projects/Programming Projects.md"
-    },
-    {
-      "basename": "Books",
-      "path": "Books/Books.md"
-    },
-    {
-      "basename": "2023-07-08",
-      "path": "Journal/2023-07-08.md"
     }
   ],
   "omittedPaths": [],

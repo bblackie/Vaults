@@ -27,6 +27,18 @@ e.g. Y11_2021
 Y11_2023 - https://www.khanacademy.org/join/P83MGMK2
 
 
+##### Raspberry Pi Foundation
+
+https://projects.raspberrypi.org/en/projects/astro-pi-mission-zero
+
+
+
+##### Brilliant
+
+Pricing:
+- 3 months @ $25NZD p/m
+- 1 year @ $17 p/m
+- Groups (3+) @ $516 annually
 
 ##### CodeHS
 [CodeHS](https://codehs.com/)
