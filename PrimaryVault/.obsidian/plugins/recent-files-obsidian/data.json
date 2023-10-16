@@ -1,8 +1,17 @@
 {
   "recentFiles": [
     {
+<<<<<<< Updated upstream
       "basename": "test",
       "path": "Productivity/test.md"
+=======
+      "basename": "Python",
+      "path": "Teach/Programming/Python.md"
+    },
+    {
+      "basename": "Intro to AI - elementsofai",
+      "path": "Subjects/Computer Science/AI/Intro to AI - elementsofai.md"
+>>>>>>> Stashed changes
     },
     {
       "basename": "Midjourney",

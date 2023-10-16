@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Productivity/test.md",
+=======
+                "file": "Teach/Programming/Python.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -110,7 +114,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Productivity/test.md",
+=======
+                "file": "Teach/Programming/Python.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +135,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Productivity/test.md",
+=======
+                "file": "Teach/Programming/Python.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Productivity/test.md"
+=======
+                "file": "Teach/Programming/Python.md"
+>>>>>>> Stashed changes
               }
             }
           }
@@ -175,12 +191,19 @@
   },
   "active": "3f88ecafb01581f5",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "Productivity/World fo web development.png",
     "Productivity/bblackie_Fractal_mandelbulb3d_psychedelic_dimethyltryptamine_ly_a47f3d65-759d-47c5-8da6-ec8bb281fdc6.png",
     "Productivity/Midjourney.md",
     "Productivity/test.md",
     "Productivity/ChatGPT.md",
     "Productivity/test2.md",
+=======
+    "Subjects/Computer Science/AI/Intro to AI - elementsofai.md",
+    "url-to-image-here.md",
+    "Subjects/Computer Science/AI/AI (Artificial Intelligence).md",
+    "Subjects/Computer Science/AI",
+>>>>>>> Stashed changes
     "Productivity/AI Tools.md",
     "Books/To buy.md",
     "Books/Books.md",
