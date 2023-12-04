@@ -85,6 +85,12 @@ e.g. https://www.chesscity.nz/chess-clocks.html
 - Countdown timer for activities and exams
 - Can countdown in increments, i.e. 10 mins, and then flipped to minutes and seconds later
 - This could also be an app
+- Examples:
+	- Exam clock
+	- Game clocks
+		- Rugby 80 min count up with one minute shot counter
+	- Egg timer
+	- Steak timer (for flipping sides) - could enter in steak thickness
 
 ## IOT/Embedded
 

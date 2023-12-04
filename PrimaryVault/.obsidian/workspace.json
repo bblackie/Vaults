@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1429c97040f8b876",
+        "id": "0125e51b664929a4",
         "type": "tabs",
         "children": [
           {
-            "id": "3f88ecafb01581f5",
+            "id": "d145edaac0578b5c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Productivity/test.md",
-                "mode": "source",
-                "source": false
+                "file": "Kanban/Everything Kanban.md"
               }
             }
           }
@@ -56,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "midjou",
+                "query": "tag:#Subjects/Systems-Engineering",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Productivity/test.md",
+                "file": "Kanban/Everything Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Productivity/test.md",
+                "file": "Kanban/Everything Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Productivity/test.md"
+                "file": "Kanban/Everything Kanban.md"
               }
             }
           }
@@ -173,53 +171,53 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3f88ecafb01581f5",
+  "active": "d145edaac0578b5c",
   "lastOpenFiles": [
-    "Productivity/World fo web development.png",
-    "Productivity/bblackie_Fractal_mandelbulb3d_psychedelic_dimethyltryptamine_ly_a47f3d65-759d-47c5-8da6-ec8bb281fdc6.png",
-    "Productivity/Midjourney.md",
-    "Productivity/test.md",
-    "Productivity/ChatGPT.md",
-    "Productivity/test2.md",
-    "Productivity/AI Tools.md",
-    "Books/To buy.md",
-    "Books/Books.md",
-    "Books/To purchase.md",
-    "Note taking/Integrations/Integration platforms.md",
-    "Note taking/Integrations",
-    "Teach/Programming/Python.md",
-    "Resources/Learning resources.md",
-    "Courses/Online Courses.md",
-    "Resources/Programming/Python.md",
-    "Resources/Programming/Programming resources.md",
-    "Resources/Explore.md",
-    "Activities/Hour of Code.md",
+    "Kanban/Learn 2 Teach Kanban.md",
+    "Kanban/Y13 Kanban.md",
+    "Kanban/Y12 Kanban.md",
     "Activities/Programming activities.md",
+    "Activities/Hour of Code.md",
     "Activities/Activities.md",
+    "Kanban/Y11 Kanban.md",
+    "Kanban/Y10 Kanban.md",
+    "Subjects/Systems Engineering/Windows Install.md",
+    "Subjects/Systems Engineering/Systems Engineering.md",
+    "Subjects/Systems Engineering/DevOps.md",
+    "Teach/Programming/Python.md",
+    "Resources/Explore.md",
+    "Activities/Camps.md",
     "Activities/Challenges & Competitions.md",
+    "Activities/Clubs.md",
+    "Activities/Conferences.md",
     "Activities/Exercises.md",
+    "Activities/Exploring identity.md",
+    "Activities/Games.md",
+    "Activities/Write a paper.md",
     "Activities/Quizzes.md",
     "Activities/Projects.md",
-    "Resources/Miscel/Miscel resources.md",
+    "Productivity/Midjourney.md",
+    "Productivity/AI Tools.md",
+    "Productivity/Pasted image 20231017083512.png",
+    "Subjects/Web Development/Overview.md",
+    "Apps/Utility",
+    "Productivity/World fo web development.png",
+    "Productivity/bblackie_Fractal_mandelbulb3d_psychedelic_dimethyltryptamine_ly_a47f3d65-759d-47c5-8da6-ec8bb281fdc6.png",
+    "Note taking/Integrations",
     "Resources/Miscel",
-    "Apps/AI/Midjourney.md",
     "Pasted image 20230901131807.png",
     "Pasted image 20230901113240.png",
     "Pasted image 20230901113236.png",
     "Pasted image 20230901113231.png",
-    "Apps/AI/ChatGPT-4.md",
     "Pasted image 20230831143741.png",
     "Pasted image 20230831143622.png",
     "Pasted image 20230831143450.png",
-    "Pasted image 20230831143436.png",
     "Apps/AI",
     "Note taking/Mindmaps",
     "Note taking",
     "Subjects/Computer Science/AI",
     "Apps/IDEs",
     "Apps/Exercises",
-    "Apps/Hosting",
-    "Apps/Note taking",
-    "Pasted image 20230802104440.png"
+    "Apps/Hosting"
   ]
 }

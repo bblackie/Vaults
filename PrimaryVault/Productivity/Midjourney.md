@@ -1,5 +1,34 @@
 
 
+# To try
+
+a flat modern clean web icon for a kitchen, have vegtables in the kitchen
+
+**what if globalisation goes into reverse? in the style of a 1950s drawing of the future --v 4** - Variations by @kateb99 (fast)
+
+![Image](https://media.discordapp.net/attachments/995431305066065950/1163640392269447259/kateb99_what_if_globalisation_goes_into_reverse_in_the_style_of_9e673f4e-402e-43f3-b2c6-b2fe313d1da6.png?ex=65404f90&is=652dda90&hm=9de3369b02c3368afbdb9cccb8d82b651fb423673e84412eedebbf20574959d8&=&width=350&height=350)
+
+**what if globalisation goes into reverse? in the style of a 1950s illustration of life in the future --v 4** - @kateb99 (fast)
+
+[](https://cdn.discordapp.com/attachments/995431305066065950/1163640492131618846/kateb99_what_if_globalisation_goes_into_reverse_in_the_style_of_b88207b0-e931-4a78-877e-9b8fb5acdeb1.png?ex=65404fa8&is=652ddaa8&hm=f4b85a9266b03467b39139eadf7dfb4efc41d04fbcb2d4f2e3a4b562681d9636&)
+
+![Image](https://media.discordapp.net/attachments/995431305066065950/1163640492131618846/kateb99_what_if_globalisation_goes_into_reverse_in_the_style_of_b88207b0-e931-4a78-877e-9b8fb5acdeb1.png?ex=65404fa8&is=652ddaa8&hm=f4b85a9266b03467b39139eadf7dfb4efc41d04fbcb2d4f2e3a4b562681d9636&=&width=350&height=350)
+
+**book cover for a book of human resources themed spells** - @Kioui07 (fast)
+
+[](https://cdn.discordapp.com/attachments/995431305066065950/1163644469824999504/kioui07_67957_book_cover_for_a_book_of_human_resources_themed_s_49af685b-3437-4f04-9889-ffb467046334.png?ex=6540535d&is=652dde5d&hm=c507ef73116cb3fe6c73126ef902a6bd30248e0eb6bc465842ee387da99c31d6&)
+
+![Image](https://media.discordapp.net/attachments/995431305066065950/1163644469824999504/kioui07_67957_book_cover_for_a_book_of_human_resources_themed_s_49af685b-3437-4f04-9889-ffb467046334.png?ex=6540535d&is=652dde5d&hm=c507ef73116cb3fe6c73126ef902a6bd30248e0eb6bc465842ee387da99c31d6&=&width=350&height=350)
+
+
+
+Prompt: Black and white technical drawing showcasing a [nimble rogue thief with a hooded cloak, dual daggers, and various hidden tools]. Annotations detail [her stealth equipment and techniques].
+
+![[Pasted image 20231017083512.png]]
+
+
+Prompt: Black and white technical drawing showcasing a office LAN with connected devices and a connection to the internet and outside world. Annotations detail the connectivity protocols and method.
+
 
 [How to Use Midjourney: A Comprehensive Guide to AI-Generated Artwork Creation](https://www.datacamp.com/tutorial/how-to-use-midjourney-a-comprehensive-guide-to-ai-generated-artwork-creation)
 
@@ -76,6 +105,9 @@ Negative keywords are terms you do not want to appear in your image. Many advanc
 ## Examples
 
 a vast fantasy landscape, swirling blue rivers, meteor showers overhead, gigantic craters, lush grass and megafauna, weird alien dinosaurs with twisted heads | brutalist 2000s autumn architecture, greys and dark reds, large stables | Victorian hoopskirt dressed women, satin, hot pink | --v 5.2
+
+
+**jungle,health fair work poster for casino, heart of darkness, foilage, cougar, ammo boxes, jeep**
 
 
 beautiful beach with sunset ar 16:9

@@ -22,6 +22,16 @@ Notes:
 
 # Dump
 
+
+Text to image generation
+
+[[Productivity/Midjourney|Midjourney]] | [[Apps/AI/Midjourney|Midjourney]] 
+
+DALL-E 3
+Firefly 2
+
+
+
 Bard (by Google)
 ChatGPT (by OpenAI)
 Claude by ?

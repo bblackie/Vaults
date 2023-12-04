@@ -6,25 +6,26 @@ kanban-plugin: basic
 
 ## Backlog
 
+- [ ] NZC Refresh<br>---<br>- [ ] Check for the latest updates
 - [ ] Make a plan for the week
 - [ ] Y10 HOUR<br>---<br>- [ ] See [[Y10 Kanban]]
 
 
 ## Committed
 
-- [ ] NZC Refresh<br>---<br>- [ ] Check for the latest updates
-- [ ] DCAT Prep (Ginni and Teresa)<br>---<br>- [ ] Check for the admin update<br>- [ ] See Ginni emails and share drive<br>- [ ] 31 Aug DEADLINE for HCI practice exam.
+- [ ] 1.4 Moderation<br>---<br>- [ ] Select a range for moderation<br>- [ ] Package up submissions<br>- [ ] DDTA call for moderation<br>- [ ] Handle process
 
 
 ## In progress
 
-- [ ] AS1.4 Feedback round<br>---<br>- [ ] William
-- [ ] Review AS91886 (1.10) - HCI<br>---<br>- [x] Create notes<br>- [x] Download resources<br>- [ ] Analyse past exams<br>- [ ] Gather exemplars<br>- [ ] Prepare exercises
 
 
 ## Completed
 
-- [ ] Review AS91880 (1.4) Website<br>---<br>- [x] Create notes file<br>- [x] Create rubric<br>- [x] Download resources<br>- [x] Prepare task sheet<br>- [x] Setup assignment<br>- [x] Walk-through requirements<br>- [x] Show exemplars<br>- [x] Find how to begin a website build video
+- [ ] 1.4 Website Review<br>---<br>- [x] Review outcomes & marks
+- [ ] DCAT Prep (Ginni and Teresa)<br>---<br>- [ ] Check for the admin update<br>- [ ] See Ginni emails and share drive<br>- [ ] 31 Aug DEADLINE for HCI practice exam.
+- [ ] Review AS91886 (1.10) - HCI<br>---<br>- [x] Create notes<br>- [x] Download resources<br>- [ ] Analyse past exams<br>- [ ] Gather exemplars<br>- [ ] Prepare exercises
+- [ ] AS1.4 Feedback round<br>---<br>- [ ] William
 - [ ] Prep/homework<br>---<br>- [ ] 16 Feb
 - [ ] Doc changes<br>---<br>- [x] Incl checklist in marking schedule<br>- [x] Include authenticity and acceptance sections in Marking Schedule
 - [ ] Mark AS91879 (1.3) DB<br>---<br>- [ ] Check marks in KAMAR<br>- [ ] Update comments

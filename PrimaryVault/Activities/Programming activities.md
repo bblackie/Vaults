@@ -2,14 +2,24 @@
 
 # Use case
 
-- FREE lesson long activities for test student understanding
+- FREE lesson long activities to test student understanding
+
+
+# Explore 
+
+CodinGame
+
+
 
 Options:
 - CodeWOF
-- Repl.it
+- Replit
 - [[Activities/Hour of Code]]
 	- [Learn (hourofcode.com)](https://hourofcode.com/nz/learn) ***Includes filtered search!*** 
 	- **REVIEW: Not much on Python
+
+
+
 
 
 

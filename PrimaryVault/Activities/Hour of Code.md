@@ -9,6 +9,12 @@ The Hour of Code is a one-hour introduction to computer science, using fun tutor
 # Explore
 
 
+
+## NZ specific
+[Learn (hourofcode.com)](https://hourofcode.com/nz/learn)
+
+## General
+
 [Hour of Code Teacher Resources | Code.org](https://code.org/hourofcode/overview)
 
 [Learn (hourofcode.com)](https://hourofcode.com/us/learn?student_experience=comfortable)

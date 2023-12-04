@@ -1,20 +1,148 @@
 {
   "recentFiles": [
     {
-      "basename": "test",
-      "path": "Productivity/test.md"
+      "basename": "Everything Kanban",
+      "path": "Kanban/Everything Kanban.md"
+    },
+    {
+      "basename": "Learn 2 Teach Kanban",
+      "path": "Kanban/Learn 2 Teach Kanban.md"
+    },
+    {
+      "basename": "Y13 Kanban",
+      "path": "Kanban/Y13 Kanban.md"
+    },
+    {
+      "basename": "Y12 Kanban",
+      "path": "Kanban/Y12 Kanban.md"
+    },
+    {
+      "basename": "Programming activities",
+      "path": "Activities/Programming activities.md"
+    },
+    {
+      "basename": "Hour of Code",
+      "path": "Activities/Hour of Code.md"
+    },
+    {
+      "basename": "Activities",
+      "path": "Activities/Activities.md"
+    },
+    {
+      "basename": "Y11 Kanban",
+      "path": "Kanban/Y11 Kanban.md"
+    },
+    {
+      "basename": "Y10 Kanban",
+      "path": "Kanban/Y10 Kanban.md"
+    },
+    {
+      "basename": "Windows Install",
+      "path": "Subjects/Systems Engineering/Windows Install.md"
+    },
+    {
+      "basename": "Systems Engineering",
+      "path": "Subjects/Systems Engineering/Systems Engineering.md"
+    },
+    {
+      "basename": "DevOps",
+      "path": "Subjects/Systems Engineering/DevOps.md"
+    },
+    {
+      "basename": "Python",
+      "path": "Teach/Programming/Python.md"
+    },
+    {
+      "basename": "Explore",
+      "path": "Resources/Explore.md"
+    },
+    {
+      "basename": "Camps",
+      "path": "Activities/Camps.md"
+    },
+    {
+      "basename": "Challenges & Competitions",
+      "path": "Activities/Challenges & Competitions.md"
+    },
+    {
+      "basename": "Clubs",
+      "path": "Activities/Clubs.md"
+    },
+    {
+      "basename": "Conferences",
+      "path": "Activities/Conferences.md"
+    },
+    {
+      "basename": "Exercises",
+      "path": "Activities/Exercises.md"
+    },
+    {
+      "basename": "Exploring identity",
+      "path": "Activities/Exploring identity.md"
+    },
+    {
+      "basename": "Games",
+      "path": "Activities/Games.md"
+    },
+    {
+      "basename": "Write a paper",
+      "path": "Activities/Write a paper.md"
+    },
+    {
+      "basename": "Quizzes",
+      "path": "Activities/Quizzes.md"
+    },
+    {
+      "basename": "Projects",
+      "path": "Activities/Projects.md"
     },
     {
       "basename": "Midjourney",
       "path": "Productivity/Midjourney.md"
     },
     {
+      "basename": "AI Tools",
+      "path": "Productivity/AI Tools.md"
+    },
+    {
+      "basename": "Overview",
+      "path": "Subjects/Web Development/Overview.md"
+    },
+    {
+      "basename": "Online Courses",
+      "path": "Courses/Online Courses.md"
+    },
+    {
+      "basename": "Project Ideas",
+      "path": "Projects/Project Ideas.md"
+    },
+    {
+      "basename": "Receipt Parser",
+      "path": "Projects/Receipt Parser.md"
+    },
+    {
       "basename": "ChatGPT",
       "path": "Productivity/ChatGPT.md"
     },
     {
-      "basename": "AI Tools",
-      "path": "Productivity/AI Tools.md"
+      "basename": "Overall plan",
+      "path": "Courses/Rathkeale/Year 9/Overall plan.md"
+    },
+    {
+      "basename": "Create images",
+      "path": "Create/Create images.md"
+    },
+    {
+      "basename": "Utilities",
+      "path": "Apps/Utility/Utilities.md"
+    },
+    {
+      "basename": "Spotify",
+      "path": "Apps/Spotify.md"
+    },
+    {
+      "basename": "test",
+      "path": "Productivity/test.md"
     },
     {
       "basename": "To buy",
@@ -29,16 +157,8 @@
       "path": "Note taking/Integrations/Integration platforms.md"
     },
     {
-      "basename": "Python",
-      "path": "Teach/Programming/Python.md"
-    },
-    {
       "basename": "Learning resources",
       "path": "Resources/Learning resources.md"
-    },
-    {
-      "basename": "Online Courses",
-      "path": "Courses/Online Courses.md"
     },
     {
       "basename": "Python",
@@ -47,38 +167,6 @@
     {
       "basename": "Programming resources",
       "path": "Resources/Programming/Programming resources.md"
-    },
-    {
-      "basename": "Explore",
-      "path": "Resources/Explore.md"
-    },
-    {
-      "basename": "Hour of Code",
-      "path": "Activities/Hour of Code.md"
-    },
-    {
-      "basename": "Programming activities",
-      "path": "Activities/Programming activities.md"
-    },
-    {
-      "basename": "Activities",
-      "path": "Activities/Activities.md"
-    },
-    {
-      "basename": "Challenges & Competitions",
-      "path": "Activities/Challenges & Competitions.md"
-    },
-    {
-      "basename": "Exercises",
-      "path": "Activities/Exercises.md"
-    },
-    {
-      "basename": "Quizzes",
-      "path": "Activities/Quizzes.md"
-    },
-    {
-      "basename": "Projects",
-      "path": "Activities/Projects.md"
     },
     {
       "basename": "Miscel resources",
@@ -111,94 +199,6 @@
     {
       "basename": "Intro to AI - elementsofai",
       "path": "Subjects/Computer Science/AI/Intro to AI - elementsofai.md"
-    },
-    {
-      "basename": "Y12 Kanban",
-      "path": "Kanban/Y12 Kanban.md"
-    },
-    {
-      "basename": "Y13 Kanban",
-      "path": "Kanban/Y13 Kanban.md"
-    },
-    {
-      "basename": "Y11 Kanban",
-      "path": "Kanban/Y11 Kanban.md"
-    },
-    {
-      "basename": "Y9 Kanban",
-      "path": "Kanban/Y9 Kanban.md"
-    },
-    {
-      "basename": "Y10 Kanban",
-      "path": "Kanban/Y10 Kanban.md"
-    },
-    {
-      "basename": "Overview",
-      "path": "Subjects/Web Development/Overview.md"
-    },
-    {
-      "basename": "Tools & Techniques",
-      "path": "Subjects/Web Development/Tools & Techniques.md"
-    },
-    {
-      "basename": "Frontend web development",
-      "path": "Subjects/Web Development/Frontend web development.md"
-    },
-    {
-      "basename": "Robotics",
-      "path": "Learn/Robotics.md"
-    },
-    {
-      "basename": "AI - Artificial Intelligence",
-      "path": "Lessons/AI - Artificial Intelligence.md"
-    },
-    {
-      "basename": "Camps",
-      "path": "Activities/Camps.md"
-    },
-    {
-      "basename": "Books",
-      "path": "Resources/Books.md"
-    },
-    {
-      "basename": "IDEs",
-      "path": "Apps/IDEs/IDEs.md"
-    },
-    {
-      "basename": "Notion",
-      "path": "Apps/Note taking/Notion.md"
-    },
-    {
-      "basename": "Apps to explore",
-      "path": "Apps/Apps to explore.md"
-    },
-    {
-      "basename": "Clubs",
-      "path": "Activities/Clubs.md"
-    },
-    {
-      "basename": "Learn 2 Teach Kanban",
-      "path": "Kanban/Learn 2 Teach Kanban.md"
-    },
-    {
-      "basename": "Everything Kanban",
-      "path": "Kanban/Everything Kanban.md"
-    },
-    {
-      "basename": "Project Ideas",
-      "path": "Projects/Project Ideas.md"
-    },
-    {
-      "basename": "Conferences",
-      "path": "Activities/Conferences.md"
-    },
-    {
-      "basename": "Teacher Resources",
-      "path": "Resources/Teacher Resources.md"
-    },
-    {
-      "basename": "Video",
-      "path": "Resources/Web Design/Video.md"
     }
   ],
   "omittedPaths": [],

@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## Backlog
 
+- [ ] Explore<br>---<br>- [ ] https://prog4fun.csse.canterbury.ac.nz/
 - [ ] Periodic > Check sources<br>---<br>- [ ] [dthm4kaiako.ac.nz](https://www.dthm4kaiako.ac.nz/resources/)
 - [ ] Hour of Code - Explore<br>---<br>- [ ] https://code.org/minecraft<br>- [ ] https://www.youtube.com/watch?v=eRNv5dGFaas<br>- [ ] https://education.minecraft.net/en-us/resources/hour-code-2022<br>- [ ] https://hourofcode.com/learn
 - [ ] Setup CodeHS account<br>---<br>- [x] Create account<br>- [x] Get verified - need staff page on website update OR digital documentation<br>- [x] Validate access<br>- [ ] Explore further
@@ -23,34 +24,37 @@ kanban-plugin: basic
 
 ## Important
 
-- [ ] DCAT Exams<br>---<br>- [x] Read<br>- [x] Students make their selection<br>- [ ] Plan hosting
-- [ ] Y13 HOUR<br>---<br>- See [[Y13 Kanban]]
 - [ ] Y12 HOUR<br>---<br>- See [[Y12 Kanban]]
 - [ ] Y11 HOUR<br>---<br>- [ ] See [[Y11 Kanban]]
 - [ ] Y10 HOUR<br>---<br>- [ ] See [[Y10 Kanban]]
 - [ ] Y9 HOUR<br>---<br>- See [[Y9 Kanban]]
 - [ ] Feedback<br>---<br>- [ ] POC Forms > Sharepoint integration<br>- [ ] Create evidence log<br>How to capture:<br>- [ ] Conversations<br>- [ ] Observations<br>- [ ] Peer review<br>- [ ] Self-assessment
+- [ ] Code Avengers UPDATE<br>---<br>- [ ] Sales emails going to RC Principal <principal@rathkeale.school.nz> need to go me.
 
 
 ## In progress
 
-- [ ] External Moderation<br>---<br>Y13 - AS91900 - Sep 1 deadline<br>See [[Y13 Kanban]]<br>- [x] get tasks and supporting resources<br>- [x] get copy of assessment schedule<br>- [x] get student work<br>- [x] Submit - WHERE?
-- [ ] Explore<br>---<br>- [ ] https://prog4fun.csse.canterbury.ac.nz/
+- [ ] DCAT/DGE Exams<br>---<br>- [x] Read<br>- [x] Students make their selection<br>- [x] Plan hosting<br>- [ ] Moderation<br>	- [ ] Y11<br>		- [x] In play<br>		- [ ] My moderation<br>		- [ ] Mod received<br>	- [ ] Y12<br>		- [ ] In play<br>		- [ ] My moderation<br>		- [ ] Mod received<br>	- [ ] Y13<br>		- [ ] In play<br>		- [ ] My moderation<br>		- [ ] Mod received<br>- [ ] Update KAMAR
+- [ ] Y13 HOUR<br>---<br>- See [[Y13 Kanban]]
+- [ ] Prizes<br>---<br>- [ ] Read email<br>- [ ] Submit
+- [ ] SPORTS REVIEW<br>---<br>Write up of sport review to Susan Jonas
+- [ ] SECRET SANTA<br>---<br>Buy something for Mason
 
 
-## Done
+## Complete
 
 **Complete**
-- [x] Mentor<br>---<br>- [x] Check Cara emails<br>- [x] Update wishlist
-- [x] Sort field monitors
-- [x] Change deadline for Y11
-- [x] Follow up with PLD courses<br>- [x] Holidays courses - behaviour mgmt - <br>- [x] PPTA
 
 
 ***
 
 ## Archive
 
+- [x] External Moderation<br>---<br>Y13 - AS91900 - Sep 1 deadline<br>See [[Y13 Kanban]]<br>- [x] get tasks and supporting resources<br>- [x] get copy of assessment schedule<br>- [x] get student work<br>- [x] Submit - WHERE?
+- [x] Mentor<br>---<br>- [x] Check Cara emails<br>- [x] Update wishlist
+- [x] Sort field monitors
+- [x] Change deadline for Y11
+- [x] Follow up with PLD courses<br>- [x] Holidays courses - behaviour mgmt - <br>- [x] PPTA
 - [x] Networking<br>---<br>- [x] Diagnostics for rathkeale_BYOD<br>- [x] Check classroom wired connections
 - [ ] 
 - [x] Miscel<br>---<br>- [ ] Promote Grapple

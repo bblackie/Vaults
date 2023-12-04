@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## Backlog
 
+- [ ] Teaching Prep<br>---<br>See [[Learn 2 Teach Kanban]]
 - [ ] Make van curtains<br>---<br>+ [ ] Find plugs
 - [ ] Shop Mitre 10<br>---<br>Prelim<br>- [x] Check tap size<br>---<br>- [ ] Plastic plugs for curtains<br>- [x] Tap for water container - drum tap 20mm
 - [ ] Do accounts<br>---<br>+ [ ] Important receipt - today<br>+ [ ] 10 other receipts - today
@@ -21,18 +22,20 @@ kanban-plugin: basic
 
 ## TODO
 
-- [ ] EdPay Documentation<br>---<br>- [ ] quals docs<br>- [ ] jobs docs
+- [ ] Van maintenance<br>---<br>+ [ ] Service<br>+ [ ] WOF<br>+ [ ] Clean out
+- [ ] Content Insurance<br>---<br>- [ ] Tally up contents
+- [ ] Dash cam<br>---<br>- [ ] Find parts<br>- [ ] Learn how it works<br>- [ ] Test for installation<br>- [ ] Installation
+- [ ] Test solar system<br>---<br>- [ ] Test using laptop<br>- [ ] Test in sun
 
 
 ## Doing
 
-- [ ] Van maintenance<br>---<br>+ [ ] Update diary<br>+ [ ] Book WOF
-- [ ] Teaching Prep<br>---<br>See [[Learn 2 Teach Kanban]]
-- [ ] TODO<br>---<br>- [ ] Update insurance policy for new address: Recently moved house or got a new car?<br><br> Give us a call on 0800 80 24 24 and we'll get your policies updated
 
 
 ## DONE
 
+- [ ] TODO<br>---<br>- [x] Update insurance policy for new address: Recently moved house or got a new car?<br><br> Give us a call on 0800 80 24 24 and we'll get your policies updated
+- [ ] EdPay Documentation<br>---<br>- [x] quals docs<br>- [x] jobs docs
 - [ ] Buy iPad holder
 - [ ] Xmas prezzies<br>---<br>+ [ ] Mum<br>+ [ ] Stuart $40-50<br>+ [x] Activate Secret Santa<br>+ [ ] Liam<br>+ [ ] Theo<br>+ [ ] Lewis
 - [ ] Nelson tramp prep<br>----<br>- [x] Contact DOC re road<br>- [ ] Water santisation<br>- [x] Sleeping bag inner<br>- [ ] Sea to Summit Quagmire Gaiters
