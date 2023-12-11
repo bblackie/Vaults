@@ -6,13 +6,11 @@ kanban-plugin: basic
 
 ## Backlog
 
-- [ ] Teaching Prep<br>---<br>See [[Learn 2 Teach Kanban]]
 - [ ] Make van curtains<br>---<br>+ [ ] Find plugs
 - [ ] Shop Mitre 10<br>---<br>Prelim<br>- [x] Check tap size<br>---<br>- [ ] Plastic plugs for curtains<br>- [x] Tap for water container - drum tap 20mm
-- [ ] Do accounts<br>---<br>+ [ ] Important receipt - today<br>+ [ ] 10 other receipts - today
 - [ ] TENZ survey<br>---------------<br>Parts to do:<br>+ Future vision for <br>+ TENZPersonal bio
 - [ ] Study Economics<br>----<br>+ [ ] Capture data sources from books
-- [ ] Review stocks<br>---<br>https://www.lynalden.com/members/<br>+ [ ] TMSC
+- [ ] Invest<br>---<br>- [ ] Review stocks<br>https://www.lynalden.com/members/<br>+ [ ] TMSC
 - [ ] Compare Electronics<br>----<br>- [ ] Study what RC already has<br>- [ ] Look at other options
 - [ ] Org storage<br>---<br> - [x] Set aside hiking gear<br> - [x] Check bike<br> - [x] Tidy up
 - [ ] Find audiobooks for road trips
@@ -22,14 +20,18 @@ kanban-plugin: basic
 
 ## TODO
 
-- [ ] Van maintenance<br>---<br>+ [ ] Service<br>+ [ ] WOF<br>+ [ ] Clean out
+- [ ] Do accounts<br>---<br>+ [ ] Important receipt - today<br>+ [ ] 10 other receipts - today
+- [ ] Van maintenance<br>---<br>+ [ ] Service - when is it?<br>+ [ ] WOF<br>+ [ ] Clean out
 - [ ] Content Insurance<br>---<br>- [ ] Tally up contents
-- [ ] Dash cam<br>---<br>- [ ] Find parts<br>- [ ] Learn how it works<br>- [ ] Test for installation<br>- [ ] Installation
+- [ ] Setup dash cam<br>---<br>- [ ] Find parts<br>- [ ] Learn how it works<br>- [ ] Test for installation<br>- [ ] Installation
 - [ ] Test solar system<br>---<br>- [ ] Test using laptop<br>- [ ] Test in sun
+- [ ] Shopping<br>---<br>- [ ] Specsavers
 
 
 ## Doing
 
+- [ ] Tramp prep<br>---<br>- [ ] Check weather<br>- [ ] Print checklist
+- [ ] Teaching Prep<br>---<br>See [[Learn 2 Teach Kanban]]
 
 
 ## DONE

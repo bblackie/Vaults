@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## Backlog
 
+- [ ] Code Avengers UPDATE<br>---<br>- [ ] Sales emails going to RC Principal <principal@rathkeale.school.nz> need to go me.
 - [ ] Explore<br>---<br>- [ ] https://prog4fun.csse.canterbury.ac.nz/
 - [ ] Periodic > Check sources<br>---<br>- [ ] [dthm4kaiako.ac.nz](https://www.dthm4kaiako.ac.nz/resources/)
 - [ ] Hour of Code - Explore<br>---<br>- [ ] https://code.org/minecraft<br>- [ ] https://www.youtube.com/watch?v=eRNv5dGFaas<br>- [ ] https://education.minecraft.net/en-us/resources/hour-code-2022<br>- [ ] https://hourofcode.com/learn
@@ -24,26 +25,26 @@ kanban-plugin: basic
 
 ## Important
 
+- [ ] Y13 HOUR<br>---<br>- See [[Y13 Kanban]]
 - [ ] Y12 HOUR<br>---<br>- See [[Y12 Kanban]]
 - [ ] Y11 HOUR<br>---<br>- [ ] See [[Y11 Kanban]]
 - [ ] Y10 HOUR<br>---<br>- [ ] See [[Y10 Kanban]]
 - [ ] Y9 HOUR<br>---<br>- See [[Y9 Kanban]]
 - [ ] Feedback<br>---<br>- [ ] POC Forms > Sharepoint integration<br>- [ ] Create evidence log<br>How to capture:<br>- [ ] Conversations<br>- [ ] Observations<br>- [ ] Peer review<br>- [ ] Self-assessment
-- [ ] Code Avengers UPDATE<br>---<br>- [ ] Sales emails going to RC Principal <principal@rathkeale.school.nz> need to go me.
 
 
 ## In progress
 
-- [ ] DCAT/DGE Exams<br>---<br>- [x] Read<br>- [x] Students make their selection<br>- [x] Plan hosting<br>- [ ] Moderation<br>	- [ ] Y11<br>		- [x] In play<br>		- [ ] My moderation<br>		- [ ] Mod received<br>	- [ ] Y12<br>		- [ ] In play<br>		- [ ] My moderation<br>		- [ ] Mod received<br>	- [ ] Y13<br>		- [ ] In play<br>		- [ ] My moderation<br>		- [ ] Mod received<br>- [ ] Update KAMAR
-- [ ] Y13 HOUR<br>---<br>- See [[Y13 Kanban]]
-- [ ] Prizes<br>---<br>- [ ] Read email<br>- [ ] Submit
-- [ ] SPORTS REVIEW<br>---<br>Write up of sport review to Susan Jonas
-- [ ] SECRET SANTA<br>---<br>Buy something for Mason
+- [ ] Explore audio to text<br>---<br>- [ ] Validate that the transcription seems reasonable<br>- [ ] Search transcript for:<br>	- [ ] books<br>- [ ]
 
 
 ## Complete
 
 **Complete**
+- [x] DCAT/DGE Exams<br>---<br>- [x] Read<br>- [x] Students make their selection<br>- [x] Plan hosting<br>- [x] Moderation<br>	- [x] Y11<br>		- [x] In play<br>		- [x] My moderation<br>		- [ ] Mod received<br>	- [x] Y12<br>		- [ ] In play<br>		- [ ] My moderation<br>		- [ ] Mod received<br>	- [x] Y13<br>		- [ ] In play<br>		- [ ] My moderation<br>		- [ ] Mod received<br>- [x] Update KAMAR
+- [x] SECRET SANTA<br>---<br>Buy something for Mason
+- [x] SPORTS REVIEW<br>---<br>Write up of sport review to Susan Jonas
+- [x] Prizes<br>---<br>- [ ] Read email<br>- [ ] Submit
 
 
 ***

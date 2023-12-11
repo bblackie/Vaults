@@ -13,7 +13,6 @@ kanban-plugin: basic
 
 ## Committed
 
-- [ ] 1.4 Moderation<br>---<br>- [ ] Select a range for moderation<br>- [ ] Package up submissions<br>- [ ] DDTA call for moderation<br>- [ ] Handle process
 
 
 ## In progress
@@ -22,7 +21,14 @@ kanban-plugin: basic
 
 ## Completed
 
+
+
+***
+
+## Archive
+
 - [ ] 1.4 Website Review<br>---<br>- [x] Review outcomes & marks
+- [ ] 1.4 Moderation<br>---<br>- [x] Select a range for moderation<br>- [x] Package up submissions<br>- [x] DDTA call for moderation<br>- [x] Handle process
 - [ ] DCAT Prep (Ginni and Teresa)<br>---<br>- [ ] Check for the admin update<br>- [ ] See Ginni emails and share drive<br>- [ ] 31 Aug DEADLINE for HCI practice exam.
 - [ ] Review AS91886 (1.10) - HCI<br>---<br>- [x] Create notes<br>- [x] Download resources<br>- [ ] Analyse past exams<br>- [ ] Gather exemplars<br>- [ ] Prepare exercises
 - [ ] AS1.4 Feedback round<br>---<br>- [ ] William
@@ -30,12 +36,6 @@ kanban-plugin: basic
 - [ ] Doc changes<br>---<br>- [x] Incl checklist in marking schedule<br>- [x] Include authenticity and acceptance sections in Marking Schedule
 - [ ] Mark AS91879 (1.3) DB<br>---<br>- [ ] Check marks in KAMAR<br>- [ ] Update comments
 - [ ] UPDATE KANBAN
-
-
-***
-
-## Archive
-
 - [ ] MS Team updates<br>---<br>- [x] Upload ASs<br>- [x] Upload marking schedules<br>- [x] Upload evidence templates<br>- [x] Upload LEM exemplars<br>- [x] Upload official exemplars<br>- [x] Upload miscel exemplars<br>- [x] Create assignment for 3.7
 - [ ] Exemplars<br>---<br>- [ ] By grade for each standard
 - [ ] Review AS91883 (1.7) DCP<br>---<br>- [x] Create notes file<br>- [x] Create rubric<br>- [x] Download resources

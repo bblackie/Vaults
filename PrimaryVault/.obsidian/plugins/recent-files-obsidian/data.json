@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Everything Kanban",
-      "path": "Kanban/Everything Kanban.md"
+      "basename": "Y11 Kanban",
+      "path": "Kanban/Y11 Kanban.md"
+    },
+    {
+      "basename": "Reading",
+      "path": "Productivity/Reading.md"
+    },
+    {
+      "basename": "Books",
+      "path": "Books/Books.md"
+    },
+    {
+      "basename": "To buy",
+      "path": "Books/To buy.md"
+    },
+    {
+      "basename": "The Grapes of Wrath",
+      "path": "Books/The Grapes of Wrath.md"
+    },
+    {
+      "basename": "Beyond Order by Jordan B. Peterson",
+      "path": "Books/Beyond Order by Jordan B. Peterson.md"
+    },
+    {
+      "basename": "Audio to text transcription",
+      "path": "Productivity/Audio to text transcription.md"
     },
     {
       "basename": "Learn 2 Teach Kanban",
       "path": "Kanban/Learn 2 Teach Kanban.md"
+    },
+    {
+      "basename": "Everything Kanban",
+      "path": "Kanban/Everything Kanban.md"
     },
     {
       "basename": "Y13 Kanban",
@@ -27,10 +55,6 @@
     {
       "basename": "Activities",
       "path": "Activities/Activities.md"
-    },
-    {
-      "basename": "Y11 Kanban",
-      "path": "Kanban/Y11 Kanban.md"
     },
     {
       "basename": "Y10 Kanban",
@@ -145,14 +169,6 @@
       "path": "Productivity/test.md"
     },
     {
-      "basename": "To buy",
-      "path": "Books/To buy.md"
-    },
-    {
-      "basename": "Books",
-      "path": "Books/Books.md"
-    },
-    {
       "basename": "Integration platforms",
       "path": "Note taking/Integrations/Integration platforms.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Obsidian",
       "path": "_quick/Obsidian.md"
-    },
-    {
-      "basename": "Essentials",
-      "path": "_quick/Essentials.md"
-    },
-    {
-      "basename": "AI",
-      "path": "Apps/AI/AI.md"
-    },
-    {
-      "basename": "Note taking techniques",
-      "path": "Note taking/Note taking techniques.md"
-    },
-    {
-      "basename": "Intro to AI - elementsofai",
-      "path": "Subjects/Computer Science/AI/Intro to AI - elementsofai.md"
     }
   ],
   "omittedPaths": [],
