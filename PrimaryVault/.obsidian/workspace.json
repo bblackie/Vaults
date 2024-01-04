@@ -165,6 +165,7 @@
       "periodic-notes:Open today": false
     }
   },
+<<<<<<< Updated upstream
   "active": "96e40e382b1fa11b",
   "lastOpenFiles": [
     "Subjects/Systems Engineering/Windows Install.md",
@@ -176,4 +177,8 @@
     "Apps/Utility/Utilities.md",
     "Apps/Utility"
   ]
+=======
+  "active": "9d33027c42cd6e88",
+  "lastOpenFiles": []
+>>>>>>> Stashed changes
 }

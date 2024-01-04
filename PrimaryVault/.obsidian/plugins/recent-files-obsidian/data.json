@@ -1,6 +1,7 @@
 {
   "recentFiles": [
     {
+<<<<<<< Updated upstream
       "basename": "Y11 Kanban",
       "path": "Kanban/Y11 Kanban.md"
     },
@@ -199,6 +200,10 @@
     {
       "basename": "Obsidian",
       "path": "_quick/Obsidian.md"
+=======
+      "basename": "Project Ideas",
+      "path": "Projects/Project Ideas.md"
+>>>>>>> Stashed changes
     }
   ],
   "omittedPaths": [],
