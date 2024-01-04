@@ -1,214 +1,21 @@
 {
   "recentFiles": [
     {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      "basename": "Y11 Kanban",
       "path": "Kanban/Y11 Kanban.md"
+      "basename": "Daily Challenges",
+      "path": "Activities/Daily/Daily Challenges.md"
     },
     {
-      "basename": "Reading",
-      "path": "Productivity/Reading.md"
-    },
-    {
-      "basename": "Books",
-      "path": "Books/Books.md"
-    },
-    {
-      "basename": "To buy",
-      "path": "Books/To buy.md"
-    },
-    {
-      "basename": "The Grapes of Wrath",
-      "path": "Books/The Grapes of Wrath.md"
-    },
-    {
-      "basename": "Beyond Order by Jordan B. Peterson",
-      "path": "Books/Beyond Order by Jordan B. Peterson.md"
-    },
-    {
-      "basename": "Audio to text transcription",
-      "path": "Productivity/Audio to text transcription.md"
-    },
-    {
-      "basename": "Learn 2 Teach Kanban",
-      "path": "Kanban/Learn 2 Teach Kanban.md"
+      "basename": "Apps to explore",
+      "path": "Apps/Apps to explore.md"
     },
     {
       "basename": "Everything Kanban",
       "path": "Kanban/Everything Kanban.md"
     },
     {
-      "basename": "Y13 Kanban",
-      "path": "Kanban/Y13 Kanban.md"
-    },
-    {
-      "basename": "Y12 Kanban",
-      "path": "Kanban/Y12 Kanban.md"
-    },
-    {
-      "basename": "Programming activities",
-      "path": "Activities/Programming activities.md"
-    },
-    {
-      "basename": "Hour of Code",
-      "path": "Activities/Hour of Code.md"
-    },
-    {
-      "basename": "Activities",
-      "path": "Activities/Activities.md"
-    },
-    {
-      "basename": "Y10 Kanban",
-      "path": "Kanban/Y10 Kanban.md"
-    },
-    {
-      "basename": "Windows Install",
-      "path": "Subjects/Systems Engineering/Windows Install.md"
-    },
-    {
-      "basename": "Systems Engineering",
-      "path": "Subjects/Systems Engineering/Systems Engineering.md"
-    },
-    {
-      "basename": "DevOps",
-      "path": "Subjects/Systems Engineering/DevOps.md"
-    },
-    {
       "basename": "Python",
       "path": "Teach/Programming/Python.md"
-    },
-    {
-      "basename": "Explore",
-      "path": "Resources/Explore.md"
-    },
-    {
-      "basename": "Camps",
-      "path": "Activities/Camps.md"
-    },
-    {
-      "basename": "Challenges & Competitions",
-      "path": "Activities/Challenges & Competitions.md"
-    },
-    {
-      "basename": "Clubs",
-      "path": "Activities/Clubs.md"
-    },
-    {
-      "basename": "Conferences",
-      "path": "Activities/Conferences.md"
-    },
-    {
-      "basename": "Exercises",
-      "path": "Activities/Exercises.md"
-    },
-    {
-      "basename": "Exploring identity",
-      "path": "Activities/Exploring identity.md"
-    },
-    {
-      "basename": "Games",
-      "path": "Activities/Games.md"
-    },
-    {
-      "basename": "Write a paper",
-      "path": "Activities/Write a paper.md"
-    },
-    {
-      "basename": "Quizzes",
-      "path": "Activities/Quizzes.md"
-    },
-    {
-      "basename": "Projects",
-      "path": "Activities/Projects.md"
-    },
-    {
-      "basename": "Midjourney",
-      "path": "Productivity/Midjourney.md"
-    },
-    {
-      "basename": "AI Tools",
-      "path": "Productivity/AI Tools.md"
-    },
-    {
-      "basename": "Overview",
-      "path": "Subjects/Web Development/Overview.md"
-    },
-    {
-      "basename": "Online Courses",
-      "path": "Courses/Online Courses.md"
-    },
-    {
-      "basename": "Project Ideas",
-      "path": "Projects/Project Ideas.md"
-    },
-    {
-      "basename": "Receipt Parser",
-      "path": "Projects/Receipt Parser.md"
-    },
-    {
-      "basename": "ChatGPT",
-      "path": "Productivity/ChatGPT.md"
-    },
-    {
-      "basename": "Overall plan",
-      "path": "Courses/Rathkeale/Year 9/Overall plan.md"
-    },
-    {
-      "basename": "Create images",
-      "path": "Create/Create images.md"
-    },
-    {
-      "basename": "Utilities",
-      "path": "Apps/Utility/Utilities.md"
-    },
-    {
-      "basename": "Spotify",
-      "path": "Apps/Spotify.md"
-    },
-    {
-      "basename": "test",
-      "path": "Productivity/test.md"
-    },
-    {
-      "basename": "Integration platforms",
-      "path": "Note taking/Integrations/Integration platforms.md"
-    },
-    {
-      "basename": "Learning resources",
-      "path": "Resources/Learning resources.md"
-    },
-    {
-      "basename": "Python",
-      "path": "Resources/Programming/Python.md"
-    },
-    {
-      "basename": "Programming resources",
-      "path": "Resources/Programming/Programming resources.md"
-    },
-    {
-      "basename": "Miscel resources",
-      "path": "Resources/Miscel/Miscel resources.md"
-    },
-    {
-      "basename": "Midjourney",
-      "path": "Apps/AI/Midjourney.md"
-    },
-    {
-      "basename": "ChatGPT-4",
-      "path": "Apps/AI/ChatGPT-4.md"
-    },
-    {
-      "basename": "Obsidian",
-      "path": "_quick/Obsidian.md"
-=======
-      "basename": "Project Ideas",
-      "path": "Projects/Project Ideas.md"
->>>>>>> Stashed changes
-=======
-      "basename": "Python",
-      "path": "Teach/Programming/Python.md"
->>>>>>> Stashed changes
     }
   ],
   "omittedPaths": [],

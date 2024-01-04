@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1a032bc65b9e6935",
+        "id": "d9f1e47883cca39a",
         "type": "tabs",
         "children": [
           {
-            "id": "9b7a00925688bee2",
+            "id": "98e0e2468f245dc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teach/Programming/Python.md",
+                "file": "Activities/Daily/Daily Challenges.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teach/Programming/Python.md",
+                "file": "Activities/Daily/Daily Challenges.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teach/Programming/Python.md",
+                "file": "Activities/Daily/Daily Challenges.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teach/Programming/Python.md"
+                "file": "Activities/Daily/Daily Challenges.md"
               }
             }
           },
@@ -165,9 +164,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9b7a00925688bee2",
-<<<<<<< Updated upstream
+  "active": "98e0e2468f245dc2",
   "lastOpenFiles": [
+    "Apps/Apps to explore.md",
+    "Activities/Daily/Daily Challenges.md",
+    "Activities/Daily",
+    "Kanban/Everything Kanban.md",
+    "Teach/Programming/Python.md",
     "Subjects/Systems Engineering/Windows Install.md",
     "Projects/Receipt Parser.md",
     "Productivity/Reading.md",
@@ -177,7 +180,4 @@
     "Apps/Utility/Utilities.md",
     "Apps/Utility"
   ]
-=======
-  "lastOpenFiles": []
->>>>>>> Stashed changes
 }
