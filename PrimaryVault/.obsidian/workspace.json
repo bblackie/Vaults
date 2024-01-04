@@ -1,29 +1,19 @@
 {
   "main": {
-    "id": "706ab4b82594bfa2",
+    "id": "900beee81d6281e4",
     "type": "split",
     "children": [
       {
-        "id": "0125e51b664929a4",
+        "id": "c9888b9ea55e2f90",
         "type": "tabs",
         "children": [
           {
-            "id": "d145edaac0578b5c",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanban/Y11 Kanban.md"
-              }
-            }
-          },
-          {
-            "id": "457381c3aa1af9a7",
+            "id": "9d33027c42cd6e88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Productivity/Reading.md",
+                "file": "Projects/Project Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "11e03c95e6417254",
+    "id": "b1afc75f300b5b6b",
     "type": "split",
     "children": [
       {
-        "id": "347ff7c25a6c9e5e",
+        "id": "725f3a8024d3cfae",
         "type": "tabs",
         "children": [
           {
-            "id": "cbb338ebf5a1c67a",
+            "id": "f0c5ab187628f936",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -51,7 +41,7 @@
             }
           },
           {
-            "id": "bae17ae36663604f",
+            "id": "96e40e382b1fa11b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -61,12 +51,12 @@
             }
           },
           {
-            "id": "002c1a54829848dd",
+            "id": "510a5a8c026761e2",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Subjects/Systems-Engineering",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,15 +66,7 @@
             }
           },
           {
-            "id": "6be9de85b37e82f6",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "d2cc3f6af146be36",
+            "id": "29e80c5b4dfe2613",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -99,15 +81,15 @@
     "width": 300
   },
   "right": {
-    "id": "3b1206ebedde8031",
+    "id": "46c08a505e82ddd0",
     "type": "split",
     "children": [
       {
-        "id": "1fe3d7c7c0e236f8",
+        "id": "0757318a39810ed5",
         "type": "tabs",
         "children": [
           {
-            "id": "b8bc6828a83354de",
+            "id": "0fd0d65e2f35da4a",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -115,12 +97,12 @@
             }
           },
           {
-            "id": "18fb80ba691a9d01",
+            "id": "535d7acb38b69242",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/Y11 Kanban.md",
+                "file": "Projects/Project Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,44 +114,44 @@
             }
           },
           {
-            "id": "e970fffac523e23d",
+            "id": "257b9614910ca5e6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban/Y11 Kanban.md",
+                "file": "Projects/Project Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4b521b82c2656553",
+            "id": "01a414bb0d34507c",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequency",
                 "useHierarchy": true
               }
             }
           },
           {
-            "id": "bca3574cd02aae8a",
+            "id": "7a2b2a0a6c79c2ae",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban/Y11 Kanban.md"
+                "file": "Projects/Project Ideas.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,53 +165,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d145edaac0578b5c",
+  "active": "96e40e382b1fa11b",
   "lastOpenFiles": [
-    "Productivity/Reading.md",
-    "Books/Books.md",
-    "Books/To buy.md",
-    "Books/The Grapes of Wrath.md",
-    "Books/Beyond Order by Jordan B. Peterson.md",
-    "Productivity/Audio to text transcription.md",
-    "Kanban/Learn 2 Teach Kanban.md",
-    "Kanban/Everything Kanban.md",
-    "Kanban/Y11 Kanban.md",
-    "Kanban/Y13 Kanban.md",
-    "Kanban/Y12 Kanban.md",
-    "Activities/Programming activities.md",
-    "Activities/Hour of Code.md",
-    "Activities/Activities.md",
-    "Kanban/Y10 Kanban.md",
     "Subjects/Systems Engineering/Windows Install.md",
-    "Subjects/Systems Engineering/Systems Engineering.md",
-    "Subjects/Systems Engineering/DevOps.md",
-    "Teach/Programming/Python.md",
-    "Resources/Explore.md",
-    "Activities/Camps.md",
-    "Activities/Challenges & Competitions.md",
-    "Activities/Clubs.md",
-    "Activities/Conferences.md",
-    "Activities/Exercises.md",
-    "Activities/Exploring identity.md",
+    "Projects/Receipt Parser.md",
+    "Productivity/Reading.md",
     "Productivity/Pasted image 20231017083512.png",
-    "Apps/Utility",
-    "Productivity/World fo web development.png",
-    "Productivity/bblackie_Fractal_mandelbulb3d_psychedelic_dimethyltryptamine_ly_a47f3d65-759d-47c5-8da6-ec8bb281fdc6.png",
-    "Note taking/Integrations",
-    "Resources/Miscel",
-    "Pasted image 20230901131807.png",
-    "Pasted image 20230901113240.png",
-    "Pasted image 20230901113236.png",
-    "Pasted image 20230901113231.png",
-    "Pasted image 20230831143741.png",
-    "Pasted image 20230831143622.png",
-    "Pasted image 20230831143450.png",
-    "Apps/AI",
-    "Note taking/Mindmaps",
-    "Note taking",
-    "Subjects/Computer Science/AI",
-    "Apps/IDEs",
-    "Apps/Exercises",
-    "Apps/Hosting"
+    "Productivity/Audio to text transcription.md",
+    "Create/Create images.md",
+    "Apps/Utility/Utilities.md",
+    "Apps/Utility"
   ]
 }
