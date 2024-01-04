@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "900beee81d6281e4",
+    "id": "2ee4956ea3a977f8",
     "type": "split",
     "children": [
       {
-        "id": "c9888b9ea55e2f90",
+        "id": "1a032bc65b9e6935",
         "type": "tabs",
         "children": [
           {
-            "id": "9d33027c42cd6e88",
+            "id": "9b7a00925688bee2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Project Ideas.md",
+                "file": "Teach/Programming/Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,23 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b1afc75f300b5b6b",
+    "id": "31651d7866385cbc",
     "type": "split",
     "children": [
       {
-        "id": "725f3a8024d3cfae",
+        "id": "d8eaed4ae735d3f9",
         "type": "tabs",
         "children": [
           {
-            "id": "f0c5ab187628f936",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
-          {
-            "id": "96e40e382b1fa11b",
+            "id": "10e350905b53025d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,12 +43,12 @@
             }
           },
           {
-            "id": "510a5a8c026761e2",
+            "id": "b13cec2576f7bdef",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "venv",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,10 +58,18 @@
             }
           },
           {
-            "id": "29e80c5b4dfe2613",
+            "id": "1c936521a5d0d64f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "8622589c64ca52ba",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
               "state": {}
             }
           }
@@ -81,28 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "46c08a505e82ddd0",
+    "id": "73772ff86c0164ed",
     "type": "split",
     "children": [
       {
-        "id": "0757318a39810ed5",
+        "id": "7f2796092e853056",
         "type": "tabs",
         "children": [
           {
-            "id": "0fd0d65e2f35da4a",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "535d7acb38b69242",
+            "id": "86662b3ee14e8f48",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Project Ideas.md",
+                "file": "Teach/Programming/Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,19 +106,19 @@
             }
           },
           {
-            "id": "257b9614910ca5e6",
+            "id": "c805c83be30ba471",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Project Ideas.md",
+                "file": "Teach/Programming/Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "01a414bb0d34507c",
+            "id": "b64c60e9203cfa72",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,13 +129,21 @@
             }
           },
           {
-            "id": "7a2b2a0a6c79c2ae",
+            "id": "ca7dc48dd035cc43",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Project Ideas.md"
+                "file": "Teach/Programming/Python.md"
               }
+            }
+          },
+          {
+            "id": "c8b566617bb3e31e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -155,18 +155,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
       "periodic-notes:Open today": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "96e40e382b1fa11b",
+  "active": "9b7a00925688bee2",
   "lastOpenFiles": [
     "Subjects/Systems Engineering/Windows Install.md",
     "Projects/Receipt Parser.md",
@@ -177,8 +176,4 @@
     "Apps/Utility/Utilities.md",
     "Apps/Utility"
   ]
-=======
-  "active": "9d33027c42cd6e88",
-  "lastOpenFiles": []
->>>>>>> Stashed changes
 }
