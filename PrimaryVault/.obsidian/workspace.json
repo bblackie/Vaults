@@ -166,6 +166,7 @@
     }
   },
   "active": "9b7a00925688bee2",
+<<<<<<< Updated upstream
   "lastOpenFiles": [
     "Subjects/Systems Engineering/Windows Install.md",
     "Projects/Receipt Parser.md",
@@ -176,4 +177,7 @@
     "Apps/Utility/Utilities.md",
     "Apps/Utility"
   ]
+=======
+  "lastOpenFiles": []
+>>>>>>> Stashed changes
 }

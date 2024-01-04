@@ -2,6 +2,7 @@
   "recentFiles": [
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "basename": "Y11 Kanban",
       "path": "Kanban/Y11 Kanban.md"
     },
@@ -203,6 +204,10 @@
 =======
       "basename": "Project Ideas",
       "path": "Projects/Project Ideas.md"
+>>>>>>> Stashed changes
+=======
+      "basename": "Python",
+      "path": "Teach/Programming/Python.md"
 >>>>>>> Stashed changes
     }
   ],
