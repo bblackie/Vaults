@@ -50,3 +50,11 @@ Thunkable
 
 https://gamemaker.io/en
 #utility/img-auto-resize, #software/birme
+
+# Maths challenges
+
+### Expii
+
+https://www.expii.com/
+Founded by Po-Shen Loh
+#inspiration/interesting-people 

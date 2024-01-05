@@ -101,6 +101,11 @@ https://www.aquaread.com/sensors/nitrate
 ##### NFC Contact Card
 https://qwerty.cards/?fbclid=IwAR3HjxK59IhDoxo-POtmIRHQ9H4ETw5m_2dbwo0skNFA7K-K4wB2fWbwHrY
 
+##### RFID Tags
+
+Animals tagged in NZ using NAIT tags.  Could replicate this in the classroom, trialling the differences between high and low frequency.
+https://www.youtube.com/watch?v=QDfT2b-w-Qg
+
 ##### RFD Access Card
 
 # Computer hardware
