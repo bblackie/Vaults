@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Learn 2 Teach Kanban",
+      "path": "Kanban/Learn 2 Teach Kanban.md"
+    },
+    {
+      "basename": "Everything Kanban",
+      "path": "Kanban/Everything Kanban.md"
+    },
+    {
+      "basename": "Apps to explore",
+      "path": "Apps/Apps to explore.md"
+    },
+    {
+      "basename": "Books",
+      "path": "Books/Books.md"
+    },
+    {
+      "basename": "Python",
+      "path": "Teach/Programming/Python.md"
+    },
+    {
       "basename": "Y11 Kanban",
       "path": "Kanban/Y11 Kanban.md"
     },
     {
       "basename": "Reading",
       "path": "Productivity/Reading.md"
-    },
-    {
-      "basename": "Books",
-      "path": "Books/Books.md"
     },
     {
       "basename": "To buy",
@@ -27,14 +43,6 @@
     {
       "basename": "Audio to text transcription",
       "path": "Productivity/Audio to text transcription.md"
-    },
-    {
-      "basename": "Learn 2 Teach Kanban",
-      "path": "Kanban/Learn 2 Teach Kanban.md"
-    },
-    {
-      "basename": "Everything Kanban",
-      "path": "Kanban/Everything Kanban.md"
     },
     {
       "basename": "Y13 Kanban",
@@ -71,10 +79,6 @@
     {
       "basename": "DevOps",
       "path": "Subjects/Systems Engineering/DevOps.md"
-    },
-    {
-      "basename": "Python",
-      "path": "Teach/Programming/Python.md"
     },
     {
       "basename": "Explore",
@@ -195,10 +199,6 @@
     {
       "basename": "ChatGPT-4",
       "path": "Apps/AI/ChatGPT-4.md"
-    },
-    {
-      "basename": "Obsidian",
-      "path": "_quick/Obsidian.md"
     }
   ],
   "omittedPaths": [],

@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0125e51b664929a4",
+        "id": "ac868d592128bdd3",
         "type": "tabs",
         "children": [
           {
-            "id": "d145edaac0578b5c",
+            "id": "da1960fc28109305",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Kanban/Y11 Kanban.md"
-              }
-            }
-          },
-          {
-            "id": "457381c3aa1af9a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Productivity/Reading.md",
-                "mode": "source",
-                "source": false
+                "file": "Kanban/Learn 2 Teach Kanban.md"
               }
             }
           }
@@ -66,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Subjects/Systems-Engineering",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/Y11 Kanban.md",
+                "file": "Kanban/Learn 2 Teach Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban/Y11 Kanban.md",
+                "file": "Kanban/Learn 2 Teach Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban/Y11 Kanban.md"
+                "file": "Kanban/Learn 2 Teach Kanban.md"
               }
             }
           }
@@ -183,17 +171,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d145edaac0578b5c",
+  "active": "da1960fc28109305",
   "lastOpenFiles": [
-    "Productivity/Reading.md",
+    "Kanban/Everything Kanban.md",
+    "Apps/Apps to explore.md",
     "Books/Books.md",
+    "Teach/Programming/Python.md",
+    "Kanban/Y11 Kanban.md",
+    "Productivity/Reading.md",
     "Books/To buy.md",
     "Books/The Grapes of Wrath.md",
     "Books/Beyond Order by Jordan B. Peterson.md",
     "Productivity/Audio to text transcription.md",
     "Kanban/Learn 2 Teach Kanban.md",
-    "Kanban/Everything Kanban.md",
-    "Kanban/Y11 Kanban.md",
     "Kanban/Y13 Kanban.md",
     "Kanban/Y12 Kanban.md",
     "Activities/Programming activities.md",
@@ -203,14 +193,12 @@
     "Subjects/Systems Engineering/Windows Install.md",
     "Subjects/Systems Engineering/Systems Engineering.md",
     "Subjects/Systems Engineering/DevOps.md",
-    "Teach/Programming/Python.md",
     "Resources/Explore.md",
     "Activities/Camps.md",
     "Activities/Challenges & Competitions.md",
     "Activities/Clubs.md",
     "Activities/Conferences.md",
     "Activities/Exercises.md",
-    "Activities/Exploring identity.md",
     "Productivity/Pasted image 20231017083512.png",
     "Apps/Utility",
     "Productivity/World fo web development.png",

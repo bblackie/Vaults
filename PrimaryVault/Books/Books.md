@@ -15,6 +15,11 @@ https://open.umn.edu/opentextbooks/subjects
 
 # Education
 
+##### The Anxious Generation
+By Jonathan Haidt
+HOW THE GREAT REWIRING OF CHILDHOOD IS CAUSING AN EPIDEMIC OF MENTAL ILLNESS
+[Pre-order](https://www.penguinrandomhouse.com/books/729231/the-anxious-generation-by-jonathan-haidt/?utm_source=substack&utm_medium=email#)
+
 ##### Mediocrity: 40 Ways Government Schools Are Failing Today's Students. United States: LIBERTAS Press.
 By Boyack, C., Deangelis, C. (2023). 
 [Amazon AU](https://www.amazon.com.au/Mediocrity-Government-Schools-Failing-Students/dp/B0BSZBSP8Q/ref=sr_1_1?keywords=Mediocrity%3A+40+Ways+Government+Schools+Are+Failing+Today%27s+Students&qid=1702173370&sr=8-1)

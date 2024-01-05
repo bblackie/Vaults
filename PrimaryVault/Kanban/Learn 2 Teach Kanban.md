@@ -36,6 +36,7 @@ kanban-plugin: basic
 ## In progress
 
 - [ ] Explore audio to text<br>---<br>- [ ] Validate that the transcription seems reasonable<br>- [ ] Search transcript for:<br>	- [ ] books<br>- [ ]
+- [ ] Planning<br>---<br>- [ ] Prepare programme templates<br>- [ ] Prepare unit plans
 
 
 ## Complete
