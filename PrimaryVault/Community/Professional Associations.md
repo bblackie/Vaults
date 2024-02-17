@@ -98,12 +98,13 @@ Resources:
 				- Modules
 					- [ML for Kids](https://www.digitalfutureaotearoa.nz/digital-pikau/machine-learning)
 			- Bee-bot - **[Bee-bots and Blue-bots](https://www.bee-bot.us/bee-bot.html)**  - programmable robots designed for young children.
-			- [Sphero](https://edu.sphero.com) - programmable, spherical robots that connect via Bluetooth and roll around under the your control
-				- Shop: https://sphero.com/collections/for-school
-			- Makey Makey
+			- [Sphero](https://edu.sphero.com)  #technology/sphero
+				- programmable, spherical robots that connect via Bluetooth and roll around under the your control
+					- Shop: https://sphero.com/collections/for-school
+			- Makey Makey #technology/makey-makey 
 				- Shop: https://makeymakey.com/pages/featured-products
 		- Microbit, Python, UN, DT Unplugged, CodeClub, [Electric Garden GIANTS Competition](https://www.digitalfutureaotearoa.nz/giants)
-	- Competitions
+	- Competitions #activity/competition 
 		- [Electric Garden GIANTS Competition](https://www.digitalfutureaotearoa.nz/giants)
-			- Grow plants and sense progess with tech
+			- Grow plants and sense progress with tech
 - 

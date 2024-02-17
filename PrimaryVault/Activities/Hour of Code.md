@@ -1,29 +1,37 @@
+---
+tags:
+  - activity/hour-of-code
+---
 
 # Overview
 
 The Hour of Code is a one-hour introduction to computer science, using fun tutorials to show that anybody can learn the basics.
 
 [Join the largest learning event in history, October 1, 2022 - December 18, 2022 (hourofcode.com)](https://hourofcode.com/nz)
-
+Gist: Seems to be loaded with activities created by elearning providers which could be seen as a marketing strategy but it doesn't take away from the potential for fun.  Not sure whether they're FREE.
 
 # Explore
 
-
+Listing is here [Learn (hourofcode.com)](https://hourofcode.com/nz/learn)
 
 ## NZ specific
 [Learn (hourofcode.com)](https://hourofcode.com/nz/learn)
 
 ## General
 
+
 [Hour of Code Teacher Resources | Code.org](https://code.org/hourofcode/overview)
 
-[Learn (hourofcode.com)](https://hourofcode.com/us/learn?student_experience=comfortable)
+##### Trinket
+#provider/trinket
+- Hour of Python - https://hourofpython.com/
+Activities:
+- Python challenges
+	- String/ dictionary and type challenges
+Gist: Not the easiest IDE and tutorials can be a bit confusing
+Take: Founders look kosher.  Check in periodically.
 
-Trinket
-[Trinket](https://hourofpython.trinket.io/python-challenges#/string-challenges/lowercase-challenge)
-Gist: Not the easiest IDE
 
-https://www.101computing.net/
 
 # Listings
 

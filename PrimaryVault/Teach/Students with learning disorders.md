@@ -11,6 +11,8 @@ Augmentative and Alternative Communication apps like ‘Proloquo2Go’ and ‘Wo
 Visual timetable apps like ‘Choiceworks’ that let you create interactive daily schedules and choice boards;
 
 Technologies like ‘MaKey MaKey’, ‘Arudino’ and ‘Raspberry Pi’ that allow students to understand how computers work and lets them build their own unique inventions;
+#technology/makey-makey #technology/arduino #technology/raspberry-pi
+
 
 Software like ‘Swift Playgrounds’ and ‘Scratch’ that teach students how to code so they can create their own assistive technology apps in the future;
 

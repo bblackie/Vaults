@@ -1,14 +1,12 @@
 Tags: #educational-initiatives, #pathways 
 
-
 # Game Development
-
 
 ##### Get Into Games
 https://getintogames.nz/
 
 Included: 
-- [[Challenges & Competitions#Get Into Games 2022]]
+- [[Challenges#Get Into Games 2022]]
 - Resources
 	- Game Development
 		- Gamefroot
@@ -17,3 +15,4 @@ Included:
 		- Animation/3D Development
 		- Video Editing
 - Events
+***Status: Looks defunct***

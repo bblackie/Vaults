@@ -1,7 +1,7 @@
 
 ---
 type: Note-Type/Braindump
-tags: [Programming/JavaScript, Languages/JavaScript]
+tags: [Programming/JavaScript, Language/JavaScript]
 
 ---
 

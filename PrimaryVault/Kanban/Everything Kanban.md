@@ -34,6 +34,10 @@ kanban-plugin: basic
 ## Doing
 
 - [ ] Teaching Prep<br>---<br>See [[Learn 2 Teach Kanban]]
+- [ ] Bike Build<br>---<br>- [ ] Check email
+- [ ] Tidy up<br>---<br>- [ ] Pack away gear<br>- [ ] Clean room<br>- [ ] Clean flat
+- [ ] Daily scrounge<br>---<br>- Take notes, tidyup & reorg<br>- [ ] Check X threadappreader<br>- [ ] Check Google Keep<br>- [ ] Check YT watch lists <br>- [ ] Check emails
+- [ ] Replace glasses<br>---<br>- [ ] Check OPSM<br>- [ ] Find alternatives<br>- [ ] Price comparison
 
 
 ## DONE

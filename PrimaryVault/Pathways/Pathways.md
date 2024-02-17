@@ -23,6 +23,25 @@ This is likely to involve:
 - Systems/Business Analyst
 
 
+# School-Based Courses
+
+## Vocational Pathways
+Thoughts: Looks similar to START
+Vocational Pathways provide more options for students to complete NCEA Level 2.
+## STAR (Secondary-Tertiary Alignment Resources)
+Courses outside school which earn NCEA credits
+
+## GATEWAY 
+Work-based learning with an employer 1-2 days a week
+
+P
+
+# Trades
+
+## Apprenticeships
+
+### Providers
+
 
 
 

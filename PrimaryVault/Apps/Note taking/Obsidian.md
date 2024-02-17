@@ -82,7 +82,7 @@ How to highlight in [[Apps/Kindle]]
 ## Links
 
 Link to a page - double square brackets
-Link to a section within a page - double square brackets then # then scetion e.g. [[Clubs#Leadership and community service]]
+Link to a section within a page - double square brackets then # then scetion e.g. [[Activities/Clubs#Leadership and community service]]
 
 
 ## Formatting

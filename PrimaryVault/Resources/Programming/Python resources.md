@@ -3,14 +3,43 @@ type: note-type/braindump
 tags: [programming/python]
 ---
 
+# Getting started
 
+##### Official Python.org website
+https://docs.python.org/3/index.html
 
 # Resources
+
+## Tutorials
+
+##### Official Python.org Tutorial
+https://docs.python.org/3/tutorial/index.html
+
+##### learnpython.org
+https://www.learnpython.org/
+Gist: Quick and simple text based tutorial with online interpreter
+Cons: All tests link to learnx
 
 ## e-Learning
 
 ***Simple and clean with 42 lessons for learning python as a beginner***
 https://pythonprinciples.com/lessons/
+
+
+##### Codecademy
+#provider/codecademy
+
+See [[Learning resources#Codecademy]]
+
+
+
+##### Learn the Hard Way
+https://learncodethehardway.com/
+
+Courses: Python, JS, C, SQL
+Example:
+- https://learncodethehardway.com/client/#/product/learn-python-the-hard-way-5e-2023/
+	- Pricing: $50 NZD per course (60 lessons)
 
 ## Teaching
 
@@ -78,6 +107,11 @@ Tutorial: [YouTube](https://www.youtube.com/watch?v=o8rAOVperws&list=PLhOuww6rJJ
 Review: Lots of potential here but need to dig into one of them
 #patterns-and-practices/testing
 #level/intermediate
+
+
+##### Code Club Aotearoa
+#provider/code-club-aotearoa 
+[Python Projects](https://codeclub.nz/page/all-code-club-projects#python)
 
 
 

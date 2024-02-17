@@ -1,5 +1,8 @@
 
 
+https://coding-grace-guide.readthedocs.io/en/latest/guide/resources.html
+Gist: Irish coding community wiki with resources worth exploring
+NB: Could be slightly outdated!
 
 https://www.innovamat.com/en/registration/signup?position=teacher
 Maths ed reinvented
