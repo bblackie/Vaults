@@ -3,6 +3,14 @@ type: note-type/braindump
 tags: [learning/apps, learning/resources]
 ---
 
+
+# To explore
+
+https://learncoach.com/
+#nz-company
+
+
+
 ##### Writer's Toolbox
 #rathkeale, #curriculum/literacy , #learning/apps , #product/writers-toolboox
 https://www.wtbox.com/

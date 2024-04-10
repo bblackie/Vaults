@@ -23,7 +23,7 @@ Websites for you and your projects, hosted directly from your GitHub repository.
 
 ----
 
-Netlify
+##### Netlify
 
 Netlify: Develop & deploy the best web experiences in record time
 
@@ -33,11 +33,9 @@ A powerful serverless platform with an intuitive git-based workflow. Automated d
 
 ----
 
-Heroku
+##### Heroku
 
 [heroku.com](http://heroku.com)
-
-----
 
 Cloud Application Platform | Heroku
 
@@ -47,7 +45,7 @@ Heroku is a platform as a service (PaaS) that enables developers to build, run, 
 
 ----
 
-Firebase
+##### Firebase
 
 Firebase is Google's mobile platform that helps you quickly develop high-quality apps and grow your business.
 
@@ -55,7 +53,7 @@ Firebase is Google's mobile platform that helps you quickly develop high-quality
 
 ----
 
-Vercel
+##### Vercel
 
 Develop. Preview. Ship. For the best frontend teams – Vercel
 

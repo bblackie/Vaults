@@ -2,6 +2,40 @@
 type: listing
 tags: [verbs/build, verbs/make, verbs/create, build-type/poc, build-type/prototype, build-type/web-app, build-type/desktop-app, build-type/mobile-app, build-type/robot, build-type/electrical-circuit, build-type/thing]
 ---
+# Dump
+
+## Geo
+
+##### Address parser
+
+*Postcode*
+
+Postcodes in New Zealand consist of four digits, the first two of which specify the area, the third the type of delivery (street, PO Box, Private Bag, or Rural delivery), and the last the specific lobby, RD (rural delivery) number, or suburb.
+
+Type of delivery:
+1: Street address
+4: PO Box address
+4: Private Bag
+7: Rural Delivery
+
+Lobby: RD (rural delivery) number, or suburb
+
+*Māori names*
+
+New Zealand Post recognises Māori names for cities and towns in New Zealand; for example, the Māori Language Commission's address is:
+
+Te Taura Whiri i te Reo Māori
+Pouaka Poutāpeta 411
+Te Whanganui a Tara 6140
+In English, this translates as:
+
+Māori Language Commission
+PO Box 411
+Wellington 6140
+
+
+
+
 
 # Apps
 

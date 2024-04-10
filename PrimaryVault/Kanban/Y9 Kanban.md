@@ -15,7 +15,7 @@ kanban-plugin: basic
 ## Committed
 
 - [ ] Explore Code.Org<br>---<br>- [ ] Check Unit 2 - Web Dev
-- [ ] Explore Raspberry Pi Foundation<br>---<br>- [ ] Check downloaded KS3 lessons
+- [ ] Explore Raspberry Pi Foundation<br>---<br>#provider/raspberry-pi-foundation <br>- [ ] Check downloaded KS3 lessons
 
 
 ## In progress

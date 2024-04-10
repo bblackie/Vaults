@@ -1,6 +1,17 @@
 
 
 
+
+# Methods
+
+## Cornell System
+
+[What Are Cornell Notes?](https://www.youtube.com/watch?v=HEsBd_Rgzfs)
+[How to Use Cornell Notes](https://www.youtube.com/watch?v=nX-xshA_0m8&t=240s)
+
+https://learningessentials.auckland.ac.nz/key-study-skills/note-taking/cornell/
+![[Pasted image 20240112085736.png]]
+
 # Mindmaps
 
 

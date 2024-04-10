@@ -20,42 +20,6 @@ Notes:
 
 
 
-# Dump
-
-Bard (by Google)
-ChatGPT (by OpenAI)
-Claude by ?
-Edpuzzle AI - generate quizzes using AI
-StockIMG
-- Text to image generation
-- AI image adoption
-- AI QR code creation
-Eleven lags
-- Text to speech
-
-![[Pasted image 20230714110450.png]]
-
-
-
-# AI Models
-
-
-## GPT
-
-### Chat-GPT
-
-blah
-Use for:  Chat
-
-
-## Claude
-
-### Claude 2
-
-
-#### Anthropic
-https://www.anthropic.com/index/claude-2
-Use for:  Chat
 
 
 
@@ -79,38 +43,6 @@ vectorize them using vectorizer. ai
 Model: GPT-3 (Pro provides GPT-4)
 
 
-## Image Generation
-
-
-
-#### DALL-E 
-#AI-Tools/Dall-E
-
-#### Stable Diffusion
-#AI-Tools/Stable-Diffusion
-***Exploration:***
-[How to Run Stable Diffusion](https://www.datacamp.com/tutorial/how-to-run-stable-diffusion).
-#### Midjourney
-#AI-Tools/Midjourney 
-Exploration:
-[How to Use Midjourney: A Comprehensive Guide to AI-Generated Artwork Creation](https://www.datacamp.com/tutorial/how-to-use-midjourney-a-comprehensive-guide-to-ai-generated-artwork-creation)
-[Midjourney AI Prompt Tips for Teachers: guide for beginners](https://www.youtube.com/watch?v=TfYBUPhojUQ)
-***Pricing:***
-https://docs.midjourney.com/docs/plans
-Basic: $10USD per month
-## Image Post-Production
-
-#### Upscale.media
-[AI Image Upscaler - Enlarge & Enhance Your Photos for Free - Upscale.media](https://www.upscale.media/)
-Upscale and enhance images
-Pricing: FREEmium
-
-
-#### remove bg
-[Remove Background from Image for Free – remove.bg](https://www.remove.bg/)
-Remove image background
-
-- Try Clipdrop to remove the background for free.
 
 
 
@@ -334,4 +266,22 @@ Prompt: I want you to act as a personal trainer. I will provide you with all the
 
 
 Acting as a teacher of 10th grade students, create a 3 minute presentation on what is the web and what is web development. Along with the text which you'll create for each slide, I need you to act as a prompt generator by creating a prompt which suits the content.  Output everything as markdown. 
+
+## Create diagrams and flow charts
+
+### Whimsical plugin
+
+Plug-in: Whimsical
+
+#### Flowcharts
+
+Prompt: Can you create a flowchart that details the software development lifecycle, including stages like planning, design, development, testing and deployment.
+
+
+Prompt:  Can you design a flowchart that represents the user journey on an e-commerce website, from landing on the homepage to completing a purchase?
+
+#### Mindmaps
+
+Prompt: Can you create a mind map that explore the intricate relationships between different biological systems within the human body.
+
 

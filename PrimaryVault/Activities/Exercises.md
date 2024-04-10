@@ -51,7 +51,7 @@ Gist: Quite hard but worth exploring further
 
 
 
-See [[Resources/Programming/Python#Exercises]]
+See [[Python resources#Exercises]]
 
 
 

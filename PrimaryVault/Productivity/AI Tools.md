@@ -25,7 +25,7 @@ Notes:
 
 Text to image generation
 
-[[Productivity/Midjourney|Midjourney]] | [[Apps/AI/Midjourney|Midjourney]] 
+[[Productivity/Image gen/Midjourney|Midjourney]] | [[Apps/AI/Midjourney|Midjourney]] 
 
 DALL-E 3
 Firefly 2

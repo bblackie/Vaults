@@ -40,8 +40,8 @@ Walk-through Solutions
 
 # Programmes
 
-[[Challenges & Competitions#Evolcity]]
-[[Challenges & Competitions#Bright Sparks]]
+[[Challenges#Evolcity]]
+[[Challenges#Bright Sparks]]
 
 -   [ICAS](https://www.icasassessments.com/) #ICAS
 	- About:  developing assessments for schools
@@ -105,19 +105,6 @@ For rules, FAQ, resources, and more information, check out the NZIC website at [
 # Contests
 
 
-
-# Challenges
-
-## Recognition of dedication to service, skill or sport
-##### Duke Of Edinburgh
-https://dofehillary.org.nz/
-- Levels
-	- Bronze, silver and gold
-- PIKI AKE (RISE UP) group - see [[Clubs#Leadership and community service]]
-	- Students focusd on self-improvement  and contribution to the community leading to achieving Duke of Edinburgh
-
-## Gardening
-
 ### NZ Programming Contest
 
 The NZPC is an annual contest, usually held in August or September, and open to all programmers in New Zealand. Teams from outside New Zealand may usually enter the ANZAC League which runs at the same time and uses the same problem set.
@@ -129,28 +116,8 @@ To solve a problem, a team must write a solution in one of the available languag
 Pricing: FREE if entering online
 [Contest categories | New Zealand Programming Contest (nzprogcontest.org.nz)](https://nzprogcontest.org.nz/categories/)
 
-## Science and Engineering
 
-### EPro8 Challenge
-https://epro8challenge.co.nz/
-Contact: [info@epro8challenge.co.nz](mailto:info@epro8challenge.co.nz?subject=EPro8%20Classroom%20Week%20-%20Letter%20Template&body=)
-Kit:
-- Cost:  $1790 but reduced with $500 subsidy if first time ordering to **$890**
-	- NB: Must compete in interschool comp to qualify for subsidy
-- The EPro8 Construction Equipment contains:
-	- 24kg of quality resources - over 450 parts
-	- 60 hours of classroom resources
-	- Full access to an online electronics simulator
-	- Extensive online tutorials showing solutions to the challenges
-Activities:
-- https://epro8challenge.co.nz/epro8-school-equipment-activity-menu.html
-- 30 In-school Activities
-Competition:
-- Normally 4 kids per team
-- [Internal](https://epro8challenge.co.nz/epro8-internal-event-options.html)
-	- Gist: Would have one kit but can hire more to have more than one team
-	- 2 day hire $360 - 6 sets - Delivery **not** incl.
-	- One week hire $950 - 6 sets - incl. delivery
+
 
 ## Computational Thinking
 

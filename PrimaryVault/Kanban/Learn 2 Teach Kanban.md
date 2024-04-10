@@ -31,26 +31,33 @@ kanban-plugin: basic
 - [ ] Y10 HOUR<br>---<br>- [ ] See [[Y10 Kanban]]
 - [ ] Y9 HOUR<br>---<br>- See [[Y9 Kanban]]
 - [ ] Feedback<br>---<br>- [ ] POC Forms > Sharepoint integration<br>- [ ] Create evidence log<br>How to capture:<br>- [ ] Conversations<br>- [ ] Observations<br>- [ ] Peer review<br>- [ ] Self-assessment
+- [ ] Explore audio to text<br>---<br>- [ ] Validate that the transcription seems reasonable<br>- [ ] Search transcript for:<br>	- [ ] books<br>- [ ]
 
 
 ## In progress
 
-- [ ] Explore audio to text<br>---<br>- [ ] Validate that the transcription seems reasonable<br>- [ ] Search transcript for:<br>	- [ ] books<br>- [ ]
+- [ ] Planning<br>---<br>- [ ] Prepare programme templates<br>- [ ] Prepare unit plans
+- [ ] RC Mag<br>---<br>- [ ] Complete 2 sentence bio
+- [ ] Tidy-up<br>---<br>- [ ] Sort office<br>- [ ] Sort classroom
+- [ ] Python<br>---<br>- [ ] Try time2code<br>- [ ] Try Mission Encodeable
+- [ ] Money Matters<br>---<br>- [ ] Buy overear headphones for the class<br>- [ ] Buy mice for the class
+- [ ] Daily scrounge<br>---<br>- Take notes, tidyup & reorg<br>- [ ] Check X threadappreader<br>- [ ] Check Google Keep<br>- [ ] Check YT watch lists <br>- [ ] Check emails
+- [ ] Pathways<br>---<br>- [ ] Create school pathways document<br>See JHC resources
 
 
 ## Complete
 
 **Complete**
-- [x] DCAT/DGE Exams<br>---<br>- [x] Read<br>- [x] Students make their selection<br>- [x] Plan hosting<br>- [x] Moderation<br>	- [x] Y11<br>		- [x] In play<br>		- [x] My moderation<br>		- [ ] Mod received<br>	- [x] Y12<br>		- [ ] In play<br>		- [ ] My moderation<br>		- [ ] Mod received<br>	- [x] Y13<br>		- [ ] In play<br>		- [ ] My moderation<br>		- [ ] Mod received<br>- [x] Update KAMAR
-- [x] SECRET SANTA<br>---<br>Buy something for Mason
-- [x] SPORTS REVIEW<br>---<br>Write up of sport review to Susan Jonas
-- [x] Prizes<br>---<br>- [ ] Read email<br>- [ ] Submit
 
 
 ***
 
 ## Archive
 
+- [x] DCAT/DGE Exams<br>---<br>- [x] Read<br>- [x] Students make their selection<br>- [x] Plan hosting<br>- [x] Moderation<br>	- [x] Y11<br>		- [x] In play<br>		- [x] My moderation<br>		- [ ] Mod received<br>	- [x] Y12<br>		- [ ] In play<br>		- [ ] My moderation<br>		- [ ] Mod received<br>	- [x] Y13<br>		- [ ] In play<br>		- [ ] My moderation<br>		- [ ] Mod received<br>- [x] Update KAMAR
+- [x] SECRET SANTA<br>---<br>Buy something for Mason
+- [x] SPORTS REVIEW<br>---<br>Write up of sport review to Susan Jonas
+- [x] Prizes<br>---<br>- [ ] Read email<br>- [ ] Submit
 - [x] External Moderation<br>---<br>Y13 - AS91900 - Sep 1 deadline<br>See [[Y13 Kanban]]<br>- [x] get tasks and supporting resources<br>- [x] get copy of assessment schedule<br>- [x] get student work<br>- [x] Submit - WHERE?
 - [x] Mentor<br>---<br>- [x] Check Cara emails<br>- [x] Update wishlist
 - [x] Sort field monitors

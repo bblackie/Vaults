@@ -1,4 +1,15 @@
 
+# Overview
+
+
+#AI-Tools/Midjourney 
+Exploration:
+[How to Use Midjourney: A Comprehensive Guide to AI-Generated Artwork Creation](https://www.datacamp.com/tutorial/how-to-use-midjourney-a-comprehensive-guide-to-ai-generated-artwork-creation)
+[Midjourney AI Prompt Tips for Teachers: guide for beginners](https://www.youtube.com/watch?v=TfYBUPhojUQ)
+***Pricing:***
+https://docs.midjourney.com/docs/plans
+Basic: $10USD per month
+
 
 # To try
 

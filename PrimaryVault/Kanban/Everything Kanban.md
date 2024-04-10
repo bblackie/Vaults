@@ -26,12 +26,18 @@ kanban-plugin: basic
 - [ ] Setup dash cam<br>---<br>- [ ] Find parts<br>- [ ] Learn how it works<br>- [ ] Test for installation<br>- [ ] Installation
 - [ ] Test solar system<br>---<br>- [ ] Test using laptop<br>- [ ] Test in sun
 - [ ] Shopping<br>---<br>- [ ] Specsavers
+- [ ] Tramp prep<br>---<br>- [ ] Check weather<br>- [ ] Print checklist
+- [ ] Trading Accounts<br>---<br>- [ ] igmakets<br>- [ ] Saxobank
+- [ ] Laundry<br>---<br>- [ ] Clean suit
 
 
 ## Doing
 
-- [ ] Tramp prep<br>---<br>- [ ] Check weather<br>- [ ] Print checklist
 - [ ] Teaching Prep<br>---<br>See [[Learn 2 Teach Kanban]]
+- [ ] Bike Build<br>---<br>- [ ] Check email
+- [ ] Tidy up<br>---<br>- [ ] Pack away gear<br>- [ ] Clean room<br>- [ ] Clean flat
+- [ ] Daily scrounge<br>---<br>- Take notes, tidyup & reorg<br>- [ ] Check X threadappreader<br>- [ ] Check Google Keep<br>- [ ] Check YT watch lists <br>- [ ] Check emails
+- [ ] Replace glasses<br>---<br>- [ ] Check OPSM<br>- [ ] Find alternatives<br>- [ ] Price comparison
 
 
 ## DONE
