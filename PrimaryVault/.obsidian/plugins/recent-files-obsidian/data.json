@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "Python",
+      "path": "Teach/Programming/Python.md"
+    },
+    {
+      "basename": "Microsoft Education Stack",
+      "path": "Apps/Microsoft/Microsoft Education Stack.md"
+    },
+    {
+      "basename": "[Educator",
+      "path": "[Educator.md"
+    },
+    {
+      "basename": "[Hacking",
+      "path": "[Hacking.md"
+    },
+    {
+      "basename": "Python",
+      "path": "Subjects/Programming/Python/Python.md"
+    },
+    {
+      "basename": "CS First",
+      "path": "Apps/CS First.md"
+    },
+    {
+      "basename": "Learning resources",
+      "path": "Resources/Learning resources.md"
+    },
+    {
+      "basename": "Code Club Raspberry Pi Projects",
+      "path": "Projects/Code Club Raspberry Pi Projects.md"
+    },
+    {
+      "basename": "ChatGPT",
+      "path": "Productivity/ChatGPT.md"
+    },
+    {
+      "basename": "AI Tools",
+      "path": "Productivity/AI Tools.md"
+    },
+    {
+      "basename": "Lists",
+      "path": "Lists.md"
+    },
+    {
       "basename": "Systems Engineering",
       "path": "Subjects/Systems Engineering/Systems Engineering.md"
     },
@@ -53,10 +97,6 @@
       "path": "Kanban/Learn 2 Teach Kanban.md"
     },
     {
-      "basename": "Microsoft Education Stack",
-      "path": "Apps/Microsoft/Microsoft Education Stack.md"
-    },
-    {
       "basename": "Books",
       "path": "Books/Books.md"
     },
@@ -73,24 +113,12 @@
       "path": "Apps/IDEs/IDEs.md"
     },
     {
-      "basename": "CS First",
-      "path": "Apps/CS First.md"
-    },
-    {
       "basename": "Programming Projects",
       "path": "Projects/Programming Projects.md"
     },
     {
       "basename": "Programming resources",
       "path": "Resources/Programming/Programming resources.md"
-    },
-    {
-      "basename": "ChatGPT",
-      "path": "Productivity/ChatGPT.md"
-    },
-    {
-      "basename": "AI Tools",
-      "path": "Productivity/AI Tools.md"
     },
     {
       "basename": "Home",
@@ -107,14 +135,6 @@
     {
       "basename": "Electronics Projects",
       "path": "Projects/Electronics Projects.md"
-    },
-    {
-      "basename": "Learning resources",
-      "path": "Resources/Learning resources.md"
-    },
-    {
-      "basename": "Code Club Raspberry Pi Projects",
-      "path": "Projects/Code Club Raspberry Pi Projects.md"
     },
     {
       "basename": "Blender projects",
@@ -179,26 +199,6 @@
     {
       "basename": "Game Development",
       "path": "Tools/Game Development.md"
-    },
-    {
-      "basename": "MIT App Inventor",
-      "path": "Apps/MIT App Inventor.md"
-    },
-    {
-      "basename": "Design",
-      "path": "Subjects/Design/Design.md"
-    },
-    {
-      "basename": "PBL",
-      "path": "Projects/PBL.md"
-    },
-    {
-      "basename": "Miscel resources",
-      "path": "Resources/Miscel/Miscel resources.md"
-    },
-    {
-      "basename": "Literacy & Numeracy",
-      "path": "Resources/Literacy & Numeracy.md"
     }
   ],
   "omittedPaths": [],

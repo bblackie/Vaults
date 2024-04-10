@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b3b4688a0632b990",
+        "id": "a2e4d2cde8bf1e26",
         "type": "tabs",
         "children": [
           {
-            "id": "3c98bc738304c329",
+            "id": "54a07da8e7ec4a00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Systems Engineering/Systems Engineering.md",
+                "file": "Teach/Programming/Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hosting",
+                "query": "venv",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Systems Engineering/Systems Engineering.md",
+                "file": "Teach/Programming/Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Systems Engineering/Systems Engineering.md",
+                "file": "Teach/Programming/Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Systems Engineering/Systems Engineering.md"
+                "file": "Teach/Programming/Python.md"
               }
             }
           }
@@ -173,8 +173,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3c98bc738304c329",
+  "active": "54a07da8e7ec4a00",
   "lastOpenFiles": [
+    "Apps/Microsoft/Microsoft Education Stack.md",
+    "[Educator.md",
+    "[Hacking.md",
+    "Subjects/Programming/Python/Python.md",
+    "Apps/CS First.md",
+    "Resources/Learning resources.md",
+    "Projects/Code Club Raspberry Pi Projects.md",
+    "Teach/Programming/Python.md",
+    "Productivity/ChatGPT.md",
+    "Productivity/AI Tools.md",
+    "Lists.md",
+    "Subjects/Systems Engineering/Systems Engineering.md",
     "Tools/Hosting.md",
     "Activities/Challenges.md",
     "Hardware/Robotics.md",
@@ -189,23 +201,11 @@
     "Activities/Camps.md",
     "Activities/Activities.md",
     "Kanban/Learn 2 Teach Kanban.md",
-    "Apps/Microsoft/Microsoft Education Stack.md",
     "Apps/Microsoft/Pasted image 20240117172117.png",
     "Books/Books.md",
     "Authors.md",
-    "Journal/2023-01-12.md",
-    "Apps/IDEs/IDEs.md",
-    "Apps/CS First.md",
-    "Projects/Programming Projects.md",
-    "Resources/Programming/Programming resources.md",
-    "Productivity/ChatGPT.md",
-    "Productivity/AI Tools.md",
-    "Productivity/Image gen/Home.md",
-    "Productivity/test.md",
     "Productivity/imgs",
     "Productivity/Image gen",
-    "Productivity/Image gen/Midjourney.md",
-    "Projects/Electronics Projects.md",
     "Projects/DVC",
     "Projects/Game Design",
     "Note taking/Pasted image 20240112085736.png",

@@ -54,7 +54,7 @@ Eleven lags
 
 ### Chat-GPT
 
-blah
+[[ChatGPT]]
 Use for:  Chat
 
 

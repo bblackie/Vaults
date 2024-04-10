@@ -78,6 +78,23 @@ Bard can read responses out loud
 
 
 
+
+## Presentations
+
+Use ChatGPT to create the content and the copy/paste to Word.new before exporting as a presentation.
+
+See [# From CHATGPT to a POWERPOINT presentation! Step-by-step guide.](https://www.youtube.com/watch?v=FrqBEwsOA8c&t=37s)
+Prompt example: Give me the content for a presentation about {Presentation Topic}, spread it across {number} slides.
+
+**e.g. 2**
+Prompt:  Acting as a teacher of computer science for 11th grade students, create the content for a presentation about the engineering design process as it pertains to 3D modelling with Tinkercad.  Spread it across 5 slides. 
+Gist: Did not work very well!  Basically, the PP AI didn't parse the content well.
+
+e.g. 3
+Prompt:
+You are a content marketing expert working for a real estate firm.  Create the outline for a 20 slide presentation for a family moving into Richmond, Virginia.  Add content for activities that families would enjoy or people on a date.  Be positive, whimsical and upbeat. 
+Prompt2: Provide the VBA code for the above slides. 
+
 ## Note Taking
 
 
