@@ -1,7 +1,22 @@
 {
   "recentFiles": [
     {
-      "path": "Kanban/Y11 Kanban.md"
+      "basename": "Python",
+      "path": "Teach/Programming/Python.md"
+    },
+    {
+      "basename": "Python",
+      "path": "Subjects/Programming/Python/Python.md"
+    },
+    {
+      "basename": "Screen scraping with ChatGPT",
+      "path": "Screen scraping with ChatGPT.md"
+    },
+    {
+      "basename": "ChatGPT",
+      "path": "Productivity/ChatGPT.md"
+    },
+    {
       "basename": "Daily Challenges",
       "path": "Activities/Daily/Daily Challenges.md"
     },
@@ -12,10 +27,6 @@
     {
       "basename": "Everything Kanban",
       "path": "Kanban/Everything Kanban.md"
-    },
-    {
-      "basename": "Python",
-      "path": "Teach/Programming/Python.md"
     }
   ],
   "omittedPaths": [],

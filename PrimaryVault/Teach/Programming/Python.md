@@ -18,13 +18,30 @@ pip install virtualenv
 
 ### Create a venv
 
+```
 [Win] virtualenv {venv_name}
+```
 e.g. virtualenv dev
+```
 [Mac] virtualenv dev
+```
+
+
+Other options:
+Specific python version
+```python
+virtualenv -p <path-to-new-python-installation> <new-venv-name>
+# OR 
+python -m virtualenv -p C:\Python39\python.exe venv39
+```  
+
 
 Issues:
 - The term 'virtualenv' is not recognised
-	- solution:  python -m virtualenv env
+	- solution:  
+```
+	python -m virtualenv env
+```
 
 ### Activate venv
 

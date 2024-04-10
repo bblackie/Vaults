@@ -248,6 +248,7 @@ Prompt:  Act as a Berkeley data science professor and provide new students with 
 Follow-up:  Add more details to project requirements so it's clear for students
 Takeaway follow-up:  Create resume bullet points for all these projects
 
+[[Screen scraping with ChatGPT]]
 ## Explore
 
 15 ChatGPT Prompts That Can Transform Your Life NOW!
