@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "84f3464ecf7f0343",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Activities/Exercises.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "venv",
+                "query": "codinga",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teach/Programming/Python.md",
+                "file": "Activities/Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teach/Programming/Python.md",
+                "file": "Activities/Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teach/Programming/Python.md"
+                "file": "Activities/Exercises.md"
               }
             }
           }
@@ -173,16 +186,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "54a07da8e7ec4a00",
+  "active": "84f3464ecf7f0343",
   "lastOpenFiles": [
+    "Activities/Programming activities.md",
+    "Books/Atomic Habits.md",
+    "Books/Beyond Order by Jordan B. Peterson.md",
+    "Books/Untitled.md",
+    "Teach/Programming/Python.md",
+    "Subjects/Programming/Python/Python.md",
     "Apps/Microsoft/Microsoft Education Stack.md",
     "[Educator.md",
     "[Hacking.md",
-    "Subjects/Programming/Python/Python.md",
     "Apps/CS First.md",
     "Resources/Learning resources.md",
     "Projects/Code Club Raspberry Pi Projects.md",
-    "Teach/Programming/Python.md",
     "Productivity/ChatGPT.md",
     "Productivity/AI Tools.md",
     "Lists.md",
@@ -199,11 +216,7 @@
     "Learn/Electronics.md",
     "Pathways/Initiatives.md",
     "Activities/Camps.md",
-    "Activities/Activities.md",
-    "Kanban/Learn 2 Teach Kanban.md",
     "Apps/Microsoft/Pasted image 20240117172117.png",
-    "Books/Books.md",
-    "Authors.md",
     "Productivity/imgs",
     "Productivity/Image gen",
     "Projects/DVC",

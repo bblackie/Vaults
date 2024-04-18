@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Exercises",
+      "path": "Activities/Exercises.md"
+    },
+    {
+      "basename": "Programming activities",
+      "path": "Activities/Programming activities.md"
+    },
+    {
+      "basename": "Atomic Habits",
+      "path": "Books/Atomic Habits.md"
+    },
+    {
+      "basename": "Beyond Order by Jordan B. Peterson",
+      "path": "Books/Beyond Order by Jordan B. Peterson.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Books/Untitled.md"
+    },
+    {
       "basename": "Python",
       "path": "Teach/Programming/Python.md"
+    },
+    {
+      "basename": "Python",
+      "path": "Subjects/Programming/Python/Python.md"
     },
     {
       "basename": "Microsoft Education Stack",
@@ -15,10 +39,6 @@
     {
       "basename": "[Hacking",
       "path": "[Hacking.md"
-    },
-    {
-      "basename": "Python",
-      "path": "Subjects/Programming/Python/Python.md"
     },
     {
       "basename": "CS First",
@@ -179,26 +199,6 @@
     {
       "basename": "Everything Kanban",
       "path": "Kanban/Everything Kanban.md"
-    },
-    {
-      "basename": "Resources",
-      "path": "Subjects/Data Science/Resources.md"
-    },
-    {
-      "basename": "Overview",
-      "path": "Subjects/Data Science/Overview.md"
-    },
-    {
-      "basename": "JavaScript",
-      "path": "Subjects/Programming/JavaScript.md"
-    },
-    {
-      "basename": "Hour of Code",
-      "path": "Activities/Hour of Code.md"
-    },
-    {
-      "basename": "Game Development",
-      "path": "Tools/Game Development.md"
     }
   ],
   "omittedPaths": [],
