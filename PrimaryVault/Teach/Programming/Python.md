@@ -6,17 +6,60 @@ tags: programming/python
 
 
 
-## Vritual Environments
+## Virtual Environments
 
-### Install virtual env
+
+### venv
+
+[venv Cheatsheet](https://gist.github.com/ryanbehdad/858b47b54be441a684efb7ae6ca98a75)
+
+Create a venv
+To create a virtual environment, go to the root of your project and run
+
+```
+python -m venv venv
+```
+
+It will create a virtual environment called venv
+
+Activate venv
+```
+.\venv\Scripts\activate
+```
+
+Install packages
+```
+pip install jupyter matplotlib numpy pandas scipy scikit-learn
+```
+or
+```
+python -m pip install -U jupyter matplotlib numpy pandas scipy scikit-learn
+```
+
+
+Create requirements.txt
+```
+pip freeze > requirements.txt
+```
+
+Deactivate venv
+```
+deactivate
+```
+
+Install packages from requirements.txt
+pip install -r requirements.txt
+
+### virtualenv
+
+#### Install virtual env
 
 Enter this command into terminal
 ```
 pip install virtualenv
 ```
 
-
-### Create a venv
+#### Create a virtual env
 
 ```
 [Win] virtualenv {venv_name}
@@ -51,14 +94,18 @@ e.g. dev/Scripts/activate
 [Mac] source {venv_name}/bin/activate 
 e.g. source env/bin/activate
 
-### Gotchas
+#### Gotchas
 [Win]
 Error: "The file \<filename\> is not digitally signed "
 ```
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 ```
-### To exit the virtualenv
+#### To exit the virtualenv
 deactivate
+
+#### Resources
+
+https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/
 
 # Dependencies
 

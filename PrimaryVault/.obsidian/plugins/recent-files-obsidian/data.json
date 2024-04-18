@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Exercises",
+      "path": "Activities/Exercises.md"
+    },
+    {
+      "basename": "Programming activities",
+      "path": "Activities/Programming activities.md"
+    },
+    {
+      "basename": "Atomic Habits",
+      "path": "Books/Atomic Habits.md"
+    },
+    {
+      "basename": "Beyond Order by Jordan B. Peterson",
+      "path": "Books/Beyond Order by Jordan B. Peterson.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Books/Untitled.md"
+    },
+    {
       "basename": "Python",
       "path": "Teach/Programming/Python.md"
     },
@@ -9,16 +29,172 @@
       "path": "Subjects/Programming/Python/Python.md"
     },
     {
-      "basename": "Screen scraping with ChatGPT",
-      "path": "Screen scraping with ChatGPT.md"
+      "basename": "Microsoft Education Stack",
+      "path": "Apps/Microsoft/Microsoft Education Stack.md"
+    },
+    {
+      "basename": "[Educator",
+      "path": "[Educator.md"
+    },
+    {
+      "basename": "[Hacking",
+      "path": "[Hacking.md"
+    },
+    {
+      "basename": "CS First",
+      "path": "Apps/CS First.md"
+    },
+    {
+      "basename": "Learning resources",
+      "path": "Resources/Learning resources.md"
+    },
+    {
+      "basename": "Code Club Raspberry Pi Projects",
+      "path": "Projects/Code Club Raspberry Pi Projects.md"
     },
     {
       "basename": "ChatGPT",
       "path": "Productivity/ChatGPT.md"
     },
     {
-      "basename": "Apps to explore",
-      "path": "Apps/Apps to explore.md"
+      "basename": "AI Tools",
+      "path": "Productivity/AI Tools.md"
+    },
+    {
+      "basename": "Lists",
+      "path": "Lists.md"
+    },
+    {
+      "basename": "Systems Engineering",
+      "path": "Subjects/Systems Engineering/Systems Engineering.md"
+    },
+    {
+      "basename": "Hosting",
+      "path": "Tools/Hosting.md"
+    },
+    {
+      "basename": "Challenges",
+      "path": "Activities/Challenges.md"
+    },
+    {
+      "basename": "Robotics",
+      "path": "Hardware/Robotics.md"
+    },
+    {
+      "basename": "Hardware",
+      "path": "Hardware/Hardware.md"
+    },
+    {
+      "basename": "Professional Associations",
+      "path": "Community/Professional Associations.md"
+    },
+    {
+      "basename": "STEAM kits & tools",
+      "path": "Resources/STEAM kits & tools.md"
+    },
+    {
+      "basename": "Project Ideas",
+      "path": "Projects/Project Ideas.md"
+    },
+    {
+      "basename": "Electronics",
+      "path": "Learn/Electronics.md"
+    },
+    {
+      "basename": "Initiatives",
+      "path": "Pathways/Initiatives.md"
+    },
+    {
+      "basename": "Camps",
+      "path": "Activities/Camps.md"
+    },
+    {
+      "basename": "Activities",
+      "path": "Activities/Activities.md"
+    },
+    {
+      "basename": "Learn 2 Teach Kanban",
+      "path": "Kanban/Learn 2 Teach Kanban.md"
+    },
+    {
+      "basename": "Books",
+      "path": "Books/Books.md"
+    },
+    {
+      "basename": "Authors",
+      "path": "Authors.md"
+    },
+    {
+      "basename": "2023-01-12",
+      "path": "Journal/2023-01-12.md"
+    },
+    {
+      "basename": "IDEs",
+      "path": "Apps/IDEs/IDEs.md"
+    },
+    {
+      "basename": "Programming Projects",
+      "path": "Projects/Programming Projects.md"
+    },
+    {
+      "basename": "Programming resources",
+      "path": "Resources/Programming/Programming resources.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Productivity/Image gen/Home.md"
+    },
+    {
+      "basename": "test",
+      "path": "Productivity/test.md"
+    },
+    {
+      "basename": "Midjourney",
+      "path": "Productivity/Image gen/Midjourney.md"
+    },
+    {
+      "basename": "Electronics Projects",
+      "path": "Projects/Electronics Projects.md"
+    },
+    {
+      "basename": "Blender projects",
+      "path": "Projects/DVC/Blender projects.md"
+    },
+    {
+      "basename": "Unity projects",
+      "path": "Projects/Game Design/Unity projects.md"
+    },
+    {
+      "basename": "Code Club etc Microbit Projects",
+      "path": "Projects/Code Club etc Microbit Projects.md"
+    },
+    {
+      "basename": "Code Club Scratch Projects",
+      "path": "Projects/Code Club Scratch Projects.md"
+    },
+    {
+      "basename": "Code Club Digital Pikau",
+      "path": "Projects/Code Club Digital Pikau.md"
+    },
+    {
+      "basename": "Code Club Basic Web Projects",
+      "path": "Projects/Code Club Basic Web Projects.md"
+    },
+    {
+      "basename": "Code Club Python Projects",
+      "path": "Projects/Code Club Python Projects.md"
+    },
+    {
+      "basename": "Python resources",
+      "path": "Resources/Programming/Python resources.md"
+    },
+    {
+      "basename": "Clubs",
+      "path": "Community/Clubs.md"
+    },
+    {
+      "basename": "Techniques",
+      "path": "Note taking/Techniques.md"
     },
     {
       "basename": "Everything Kanban",

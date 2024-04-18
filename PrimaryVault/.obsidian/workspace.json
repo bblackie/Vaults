@@ -1,26 +1,14 @@
 {
   "main": {
-    "id": "2ee4956ea3a977f8",
+    "id": "706ab4b82594bfa2",
     "type": "split",
     "children": [
       {
-        "id": "d9f1e47883cca39a",
+        "id": "a2e4d2cde8bf1e26",
         "type": "tabs",
         "children": [
           {
-            "id": "98e0e2468f245dc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Subjects/Programming/Python/Python.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51af1e00b63d8922",
+            "id": "54a07da8e7ec4a00",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,33 +20,41 @@
             }
           },
           {
-            "id": "456e68b47fab370c",
+            "id": "84f3464ecf7f0343",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teach/Programming/Python.md",
+                "file": "Activities/Exercises.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "31651d7866385cbc",
+    "id": "11e03c95e6417254",
     "type": "split",
     "children": [
       {
-        "id": "d8eaed4ae735d3f9",
+        "id": "347ff7c25a6c9e5e",
         "type": "tabs",
         "children": [
           {
-            "id": "10e350905b53025d",
+            "id": "cbb338ebf5a1c67a",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "bae17ae36663604f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,12 +64,12 @@
             }
           },
           {
-            "id": "b13cec2576f7bdef",
+            "id": "002c1a54829848dd",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "venv",
+                "query": "codinga",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,43 +79,51 @@
             }
           },
           {
-            "id": "1c936521a5d0d64f",
+            "id": "6be9de85b37e82f6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "d2cc3f6af146be36",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "8622589c64ca52ba",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "73772ff86c0164ed",
+    "id": "3b1206ebedde8031",
     "type": "split",
     "children": [
       {
-        "id": "7f2796092e853056",
+        "id": "1fe3d7c7c0e236f8",
         "type": "tabs",
         "children": [
           {
-            "id": "86662b3ee14e8f48",
+            "id": "b8bc6828a83354de",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "18fb80ba691a9d01",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teach/Programming/Python.md",
+                "file": "Activities/Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,111 +135,104 @@
             }
           },
           {
-            "id": "c805c83be30ba471",
+            "id": "e970fffac523e23d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teach/Programming/Python.md",
+                "file": "Activities/Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b64c60e9203cfa72",
+            "id": "4b521b82c2656553",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
           },
           {
-            "id": "ca7dc48dd035cc43",
+            "id": "bca3574cd02aae8a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teach/Programming/Python.md"
+                "file": "Activities/Exercises.md"
               }
             }
-          },
-          {
-            "id": "c8b566617bb3e31e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 340.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "456e68b47fab370c",
+  "active": "84f3464ecf7f0343",
   "lastOpenFiles": [
-    "Subjects/Design/Design.md",
-    "Subjects/Design",
-    "Subjects/Data Science/Resources.md",
-    "Subjects/Data Science/Overview.md",
-    "Subjects/Data Science",
-    "Resources/Programming/Python resources.md",
-    "Projects/PBL.md",
-    "Projects/Game Design/Unity projects.md",
-    "Projects/Game Design",
-    "Projects/Electronics Projects.md",
-    "Projects/DVC/Blender projects.md",
-    "Projects/DVC",
-    "Projects/Code Club etc Microbit Projects.md",
-    "Projects/Code Club Scratch Projects.md",
+    "Activities/Programming activities.md",
+    "Books/Atomic Habits.md",
+    "Books/Beyond Order by Jordan B. Peterson.md",
+    "Books/Untitled.md",
+    "Teach/Programming/Python.md",
+    "Subjects/Programming/Python/Python.md",
+    "Apps/Microsoft/Microsoft Education Stack.md",
+    "[Educator.md",
+    "[Hacking.md",
+    "Apps/CS First.md",
+    "Resources/Learning resources.md",
     "Projects/Code Club Raspberry Pi Projects.md",
-    "Projects/Code Club Python Projects.md",
-    "Projects/Code Club Digital Pikau.md",
-    "Projects/Code Club Basic Web Projects.md",
-    "Productivity/imgs/Pasted image 20231017083512.png",
-    "Productivity/imgs/World fo web development.png",
-    "Productivity/imgs/bblackie_Fractal_mandelbulb3d_psychedelic_dimethyltryptamine_ly_a47f3d65-759d-47c5-8da6-ec8bb281fdc6.png",
-    "Productivity/imgs",
-    "Productivity/Image gen/Midjourney.md",
-    "Productivity/Image gen/Home.md",
-    "Productivity/Image gen",
-    "Podcasts and blogs/Metalearn Podcast.md",
-    "Podcasts and blogs/Conversations with Tyler.md",
-    "Podcasts and blogs/Blogs.md",
-    "Podcasts and blogs",
-    "Pathways/Career Activities.md",
-    "Note taking/Techniques.md",
-    "Note taking/Pasted image 20240112085736.png",
-    "Imgs/Pasted image 20240106101938.png",
-    "Imgs/Pasted image 20240106101822.png",
+    "Productivity/ChatGPT.md",
+    "Productivity/AI Tools.md",
+    "Lists.md",
+    "Subjects/Systems Engineering/Systems Engineering.md",
+    "Tools/Hosting.md",
+    "Activities/Challenges.md",
     "Hardware/Robotics.md",
     "Hardware/Pasted image 20240130154440.png",
     "Hardware/Pasted image 20240130152001.png",
-    "Community/Clubs.md",
+    "Hardware/Hardware.md",
+    "Community/Professional Associations.md",
+    "Resources/STEAM kits & tools.md",
+    "Projects/Project Ideas.md",
+    "Learn/Electronics.md",
+    "Pathways/Initiatives.md",
+    "Activities/Camps.md",
     "Apps/Microsoft/Pasted image 20240117172117.png",
-    "Apps/CS First.md",
-    "Activities/Tests and Exams.md",
-    "Activities/Daily Challenges.md",
-    "Activities/Daily",
-    "Productivity/Pasted image 20231017083512.png",
-    "Apps/Utility"
+    "Productivity/imgs",
+    "Productivity/Image gen",
+    "Projects/DVC",
+    "Projects/Game Design",
+    "Note taking/Pasted image 20240112085736.png",
+    "Subjects/Design",
+    "Imgs/Pasted image 20240106101822.png",
+    "Imgs/Pasted image 20240106101938.png",
+    "Subjects/Data Science",
+    "Productivity/imgs/Pasted image 20231017083512.png",
+    "Apps/Utility",
+    "Productivity/imgs/World fo web development.png",
+    "Productivity/imgs/bblackie_Fractal_mandelbulb3d_psychedelic_dimethyltryptamine_ly_a47f3d65-759d-47c5-8da6-ec8bb281fdc6.png",
+    "Note taking/Integrations",
+    "Resources/Miscel",
+    "Pasted image 20230901131807.png",
+    "Apps/AI"
   ]
 }

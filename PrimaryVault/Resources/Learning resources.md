@@ -134,7 +134,8 @@ STATUS: See KB
 ##### Science Learning Hub
 #todo/explore
 https://www.sciencelearn.org.nz/topics/engineering
-
+Gist: Numerous Science activities, including:
+- [https://www.sciencelearn.org.nz/topics/m%C4%81tauranga-m%C4%81ori]()
 ##### Amazon Future Engineer   
 #todo/explore
 https://www.amazonfutureengineer.com/alexa

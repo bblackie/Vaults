@@ -13,7 +13,7 @@ tags:
 
 # MS Learn
 
-[Educator Center]([Educator Center Overview - Microsoft Learn Educator Center | Microsoft Learn](https://learn.microsoft.com/en-us/training/educator-center/)
+[Educator Center Overview - Microsoft Learn Educator Center | Microsoft Learn](https://learn.microsoft.com/en-us/training/educator-center/)
 
 For educators:
 
@@ -21,7 +21,8 @@ For educators:
 
 For students:
 - AI Classroom toolkit
-- [Hacking STEM]([Hacking STEM - Microsoft Learn Educator Center | Microsoft Learn](https://learn.microsoft.com/en-us/training/educator-center/instructor-materials/hacking-stem)
+- [Hacking STEM - Microsoft Learn Educator Center | Microsoft Learn](https://learn.microsoft.com/en-us/training/educator-center/instructor-materials/hacking-stem)
+- 
 	- Affordable inquiry and project-based activities to visualize data across science, technology, engineering, and math (STEM) curriculum
 - [FarmBeats](https://learn.microsoft.com/en-us/training/educator-center/instructor-materials/farmbeats-for-students)
 	- Program combines an affordable hardware kit with curated curriculum and activities designed to give students hands-on experience in precision agriculture. 
